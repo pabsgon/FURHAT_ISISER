@@ -8,6 +8,7 @@ import furhatos.app.isiser.setting.PRO
 import furhatos.event.Event
 import furhatos.event.actions.ActionGesture
 import furhatos.event.monitors.MonitorSpeechStart
+import furhatos.event.senses.SenseNLUIntent
 import furhatos.event.senses.SenseSpeech
 import furhatos.records.Record
 import org.slf4j.LoggerFactory
@@ -20,13 +21,7 @@ class LogHandler {
         logger.info(message)
     }
     fun log(event: Event, stage: String, subject: String){
-        if(LOG_ALL_EVENTS) {
-            println("Event received: ${event.javaClass.simpleName}\t${event.eventParams}")
-            /*
-            TODO("At the moment I am only logging to the console. We may want in the future to log everything." +
-                    "In that case, a new logger needs to be created (e.g. fullLogger), to log into another file.")
-             */
-        }
+
         var logEntry = ""
         when (event) {
             is GUIEvent -> {
@@ -48,11 +43,16 @@ class LogHandler {
             is SenseSpeech -> {
                 if(event.text != "") logEntry = "\t${event.text}\t${event.length}"
             }
+            is SenseNLUIntent -> {logEntry = "\t${event.text}\t${event.intent}"
+            }
             is ActionGesture -> {
                 val gest: Record = event.eventParams.getRecord("gesture")
                 if(gest.get("name") != "Blink") logEntry = "\t${gest.get("name")}"
             }
             is MonitorSpeechStart -> logEntry = "\t${event.text}\t${event.length}"
+            else -> if(LOG_ALL_EVENTS) {
+                logEntry = "\t${event}"
+            }
         }
         if(logEntry !=""){
             logEntry = "${event.javaClass.simpleName}${logEntry}"

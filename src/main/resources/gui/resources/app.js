@@ -5,7 +5,7 @@ const DEV_MOD_CHOOSING = 9 // THis will run from state (1 to 8)
 const ADM_MODE = 10 // This wil show the questions on the right hand side
 const PRO_MODE = 99
 
-const APP_MODE = ADM_MODE
+const APP_MODE = DEV_MOD_CHOOSING
 const LANG_EN = "EN"
 const LANG_SE = "SE"
 const NUMBER_STUDENTS = 62

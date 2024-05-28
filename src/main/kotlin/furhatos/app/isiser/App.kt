@@ -1,9 +1,5 @@
 // File: Session.kt
 package furhatos.app.isiser
-import Farewell
-import com.sun.org.apache.bcel.internal.generic.Instruction
-import furhatos.app.isiser.flow.Init
-import furhatos.app.isiser.flow.main.*
 import furhatos.app.isiser.handlers.*
 import furhatos.app.isiser.setting.*
 import furhatos.event.Event
@@ -27,6 +23,8 @@ object App {
     private var flowHandler: FlowHandler = FlowHandler(eventFactory)
     private var sessionHandler: SessionHandler = SessionHandler(dataHandler,flowHandler, guiHandler )
     private val loggerEventListener = EventListener { event -> handleEvent(event)}
+    private var uncertainFiller:String = FILLER_UNCERTAIN_EN
+    private var certainFiller:String = FILLER_CERTAIN_EN
     //private var fcr: FlowControlRunner? = null
 
 
@@ -100,26 +98,33 @@ object App {
         println("-------------------${st.name}[${entry}]--------------------")
     }
     fun printState(st: State){printState(st,"E")}
+    fun setUm(fillerUncertain: String,fillerCertain: String) {
+        uncertainFiller =  fillerUncertain
+        certainFiller =  fillerCertain
+    }
+    fun getUm(robotMode: EnumRobotMode):String {
+        return  if(robotMode==EnumRobotMode.CERTAIN) certainFiller else uncertainFiller
+    }
 
-/*    fun isCurrentStateTriMode(): Boolean{
-        return when(flowHandler.getStateId()){
-            Init.name,
-            Sleep.name,
-            Welcome.name,
-            QuestionReflection.name,-> false
+    /*    fun isCurrentStateTriMode(): Boolean{
+            return when(flowHandler.getStateId()){
+                Init.name,
+                Sleep.name,
+                Welcome.name,
+                QuestionReflection.name,-> false
 
-            QuestionDisclosure().name,
-            QuestionPersuasion().name,
-            QuestionReview().name,
-            QuestionCheckpoint().name -> true
+                QuestionDisclosure().name,
+                QuestionPersuasion().name,
+                QuestionReview().name,
+                QuestionCheckpoint().name -> true
 
-            QuestionUltimatum().name,
-            QuestionConfirmation().name,
-            Farewell.name -> false
+                QuestionUltimatum().name,
+                QuestionConfirmation().name,
+                Farewell.name -> false
 
-            else -> {false}
-        }
-        *//*return EnumStates.fromState()?.robotModeApplies?: false*//*
+                else -> {false}
+            }
+            *//*return EnumStates.fromState()?.robotModeApplies?: false*//*
     }*/
     /* ------------------------- INIT ------------------------------ */
     init{

@@ -77,28 +77,51 @@ val Testing = state(parent = Parent) {
     val w0 = getWording(0)
 
     onEntry {
+    raise(Yes())
+        /*
+        furhat.attend(users.all.first())
         furhat.say {
-            +"Now I will pause"
-            +SubtleWobble
+            +"Mm now I will wobble with NO"
+            +SubtleWobbleNo
             +delay(1000) // Pausing for 2000 ms
-            +"before continuing"
-        }
-        furhat.doAsk("Ok, let's test.")
-        //furhat.listen(endSil = 1000, timeout = 8000, maxSpeech = 30000)
-    }
-    onReentry {
-        furhat.say {
-            +"Now I will pause"
-            +SubtleWobble
-            +delay(1000) // Pausing for 2000 ms
-            +"before continuing"
+            +"um before continuing"
         }
 
         furhat.ask({
-                +"I'm listening"
-                +delay(1000) // Pausing for 2000 ms
-                +SubtleWobble
-                +"wobbling"
+            +"Now I will wobble with YES"
+            +SubtleWobbleYes
+            +delay(1000) // Pausing for 2000 ms
+            +"and finish"
+            */
+/*random {
+                +{
+                    +SubtleNod
+                    +"nodding"
+                }
+                +{
+                    +SubtleShake
+                    +"shaking"
+                }
+            }*//*
+
+        })
+        //furhat.doAsk("Ok, let's test.")
+        //furhat.listen(endSil = 1000, timeout = 8000, maxSpeech = 30000)
+*/
+    }
+    onReentry {
+        furhat.say {
+            +"Mm now I will wobble with NO"
+            +SubtleWobbleNo
+            +delay(1000) // Pausing for 2000 ms
+            +"um before continuing"
+        }
+
+        furhat.ask({
+                +"Now I will wobble with YES"
+            +SubtleWobbleYes
+            +delay(1000) // Pausing for 2000 ms
+            +"and finish"
                 /*random {
                     +{
                         +SubtleNod
@@ -122,23 +145,45 @@ val Testing = state(parent = Parent) {
         furhat.doAsk("You said you finished", Gestures.Thoughtful)
     }
     onResponse<NluLib.IAmDone> {
-        furhat.gesture(SubtleNod, priority = 11)
         furhat.doAsk("You said you finished", Gestures.Thoughtful)
     }
     onResponse<AnswerFalse> {
         furhat.gesture(SubtleShake, priority = 11)
-        furhat.doAsk("You said it is false", Gestures.GazeAway)
+        furhat.doAsk{
+                +"You said it is false"
+                 +delay(800) // Pausing for 2000 ms
+                +SubtleShake
+                +delay(1000) // Pausing for 2000 ms
+                +"That's your choice"
+            }
     }
     onResponse<Disagree> {
-        furhat.doAsk("You said it is false", Gestures.GazeAway)
+
+        furhat.doAsk {
+            +"You"
+            +delay(500) // Pausing for 2000 ms
+            +SubtleWobbleNo
+            +"are not sure."
+        }
+    /* furhat.doAsk("You said it is false", Gestures.GazeAway)*/
         //furhat.doAsk("You disagreed")
     }
     onResponse<AnswerTrue> {
-        furhat.doAsk("You said it is true", GesturesLib.PerformDoubleNod)
+        furhat.doAsk{
+            +"You said it is true"
+            +delay(800) // Pausing for 2000 ms
+            +SubtleNod
+            +delay(1000) // Pausing for 2000 ms
+            +"That's your choice"
+        }
+        //furhat.doAsk("You said it is true", GesturesLib.PerformDoubleNod)
     }
     onResponse<Yes> {
         furhat.doAsk {
-        +"I am quite certain"
+            +"Umh, "
+
+            +delay(500) // Pausing for 2000 ms
+            +"Um, I am quite certain"
             +PauseCertain
             +delay(500) // Pausing for 2000 ms
             +"Look at me"
@@ -226,7 +271,8 @@ val Testing = state(parent = Parent) {
         furhat.doAsk("You want me to elaborate.")
     }
     onResponse<Backchannel> {
-        furhat.doAsk("You just backchanneled.")
+        furhat.performAndCycleGesture()
+        /*furhat.doAsk("You just backchanneled.")*/
     }
     onPartialResponse<DontKnow> {
         // Greet the user and proceed with the order in the same turn

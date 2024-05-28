@@ -17,7 +17,8 @@ class SessionHandler(dh: DataHandler, fh:FlowHandler, gui:GUIHandler) {
     private var _lastWordingType: ExtendedUtterance? = null
     private var currentQuestionId: Int? = null
     private var currentQuestion: Question? = null
-    private var active = false
+    private var userSet = false
+    private var firstQuestionSet = false
 
     /* PRIVATE */
     private fun setupQuestions(robotModes: List<EnumRobotMode>) {
@@ -60,7 +61,7 @@ class SessionHandler(dh: DataHandler, fh:FlowHandler, gui:GUIHandler) {
         set(value) {
             _lastWordingType = value
         }
-    fun isEnded() = (active && currentQuestion == null)
+    fun isEnded() = (userSet && currentQuestion == null)
 
     fun confirmAnswer(){ currentQuestion!!.confirm() }
 
@@ -124,7 +125,7 @@ class SessionHandler(dh: DataHandler, fh:FlowHandler, gui:GUIHandler) {
         * */
         return if(isUserVerballyUndecided()) inOfficialAgreement() else inVerbalAgreement()
     }
-    fun getMarkedAnswer():EnumAnswer = guiHandler.getMarkedAnswer()
+    private fun getMarkedAnswer():EnumAnswer = guiHandler.getMarkedAnswer()
     fun inOfficialAgreement(): Boolean{
         //This is true if the marked answer and the robot answer coincide
         val robotAnswer = currentQuestion!!.getRobotAnswer()
@@ -136,12 +137,14 @@ class SessionHandler(dh: DataHandler, fh:FlowHandler, gui:GUIHandler) {
     fun inVerbalAgreement(): Boolean =  currentQuestion!!.isUserVerballyAgreeing()
     fun inCompleteAgreement(): Boolean =  (inVerbalAgreement() && inOfficialAgreement())
 
-    fun isSessionActive(): Boolean = active
+    fun isSessionUserSet(): Boolean = userSet
+    fun isSessionFirstQuestionSet(): Boolean = firstQuestionSet
 
     fun maxNumOfFriendlyProbesReached():Boolean = currentQuestion!!.maxNumOfFriendlyProbesReached()
     fun maxNumOfUnfriendlyProbesReached():Boolean = currentQuestion!!.maxNumOfUnfriendlyProbesReached()
 
     fun setQuestion(ind: Int?){
+        if(!firstQuestionSet)firstQuestionSet = true
         currentQuestionId = ind
         currentQuestion = questions[currentQuestionId!!]
     }
@@ -160,7 +163,7 @@ class SessionHandler(dh: DataHandler, fh:FlowHandler, gui:GUIHandler) {
                 condition = dataHandler.getConditionForUser(user)
                 val robotModes: List<EnumRobotMode> = dataHandler.getRobotModesForCondition(condition)
                 setupQuestions(robotModes)
-                active = true
+                userSet = true
             }
         }
     }

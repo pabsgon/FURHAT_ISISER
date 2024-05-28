@@ -6,7 +6,6 @@ import furhatos.app.isiser.flow.main.Testing
 import furhatos.app.isiser.setting.*
 import furhatos.flow.kotlin.*
 import furhatos.flow.kotlin.voice.PollyVoice
-import furhatos.flow.kotlin.voice.Voice
 import furhatos.util.CommonUtils
 import furhatos.util.Language
 
@@ -35,9 +34,11 @@ val Init : State = state() {
         /** Set our default interaction parameters */
         users.setSimpleEngagementPolicy(ENGAGMENT_DISTANCE, MAX_NUM_USERS)
         if(EnumLanguages.fromString(LANGUAGE) == EnumLanguages.EN){
-            furhat.voice = Voice("Matthew")
+            furhat.voice =PollyVoice.Matthew() //PollyVoice("AmberNeural", language = Language.ENGLISH_US)
+            App.setUm(FILLER_UNCERTAIN_EN, FILLER_CERTAIN_EN)
         }else{
-            furhat.voice = PollyVoice(language = Language.SWEDISH) // Sets a Swedish Amazon Polly voice
+            furhat.voice = PollyVoice("Elin-Neural",language = Language.SWEDISH) // language = Language.SWEDISH) // Sets a Swedish Amazon Polly voice
+            App.setUm(FILLER_UNCERTAIN_SV,FILLER_CERTAIN_SV)
         }
 
         /** start the interaction */

@@ -35,7 +35,6 @@ const val SOURCEDATA_CODE_NOT_ROBOT_ANSWER = "#NOT_ROBOT_ANSWER#"
 const val SOURCEDATA_CODE_ROBOT_ANSWER = "#ROBOT_ANSWER#"
 const val SOURCEDATA_CODE_USER_ANSWER = "#USER_ANSWER#"
 
-
 enum class EnumFriendliness{
     FRIENDLY,
     UNFRIENDLY,
@@ -70,7 +69,7 @@ enum class EnumConditions {
 
 enum class EnumRobotMode(val speechRate: Double) {
     NEUTRAL(1.0),
-    CERTAIN(ROBOT_SPEECH_RATE_CERTAIN),
+    CERTAIN(ROBOT_SPEECH_RATE_CERTAIN ),
     UNCERTAIN(ROBOT_SPEECH_RATE_UNCERTAIN)
 }
 enum class EnumAnswer {

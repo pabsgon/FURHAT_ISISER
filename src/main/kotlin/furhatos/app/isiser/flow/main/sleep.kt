@@ -16,7 +16,7 @@ val Sleep: State = state(Parent) {
         furhat.gesture(CloseEyes, priority=10)
         furhat.attendNobody()
     }
-    onTime(delay = 60000) { // Wait for 60 seconds before terminating
+    onTime(delay = 120000) { // Wait for 60 seconds before terminating
         furhat.doSay("No start signal received, terminating the program.")
         System.exit(0) // Terminate the JVM
     }

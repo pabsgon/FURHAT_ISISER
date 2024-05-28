@@ -4,30 +4,26 @@ import Farewell
 import furhat.libraries.standard.NluLib
 import furhatos.app.isiser.App
 import furhatos.app.isiser.flow.main.QuestionReflection
-import furhatos.app.isiser.flow.main.Sleep
 import furhatos.app.isiser.flow.main.Welcome
 import furhatos.app.isiser.handlers.SessionEvent
 import furhatos.app.isiser.handlers.doAsk
-import furhatos.app.isiser.handlers.doSay
 import furhatos.app.isiser.nlu.*
 import furhatos.app.isiser.setting.*
 import furhatos.flow.kotlin.*
 import furhatos.nlu.Intent
 import furhatos.nlu.common.*
-import furhatos.records.Location
 
 val Parent: State = state {
     val session = App.getSession()
-    onUserLeave(instant = true) {
-        if(users.count == 0){
+/*    onUserLeave(instant = true) {
+       *//* if(users.count == 0){
             furhat.doSay("Bye bye!")
             System.exit(0) // Terminate the JVM
-        }
-    }
+        }*//*
+    }*/
     onUserEnter(instant = true) {
-        furhat.attend(it)
-        if(session.isSessionActive() && users.count>0){
-            //This is an assumption: there
+        if(session.isSessionUserSet() && users.count>0){
+            furhat.attend(it)
             App.goto(Welcome)
         }
     }
@@ -86,7 +82,7 @@ val Parent: State = state {
         if(seemsLikeBackchannel(it.text, it.speech.length)){
             raise(AllIntents(EnumRejoinders.BACKCHANNEL))
         }else{
-            if(session.isSessionActive()){
+            if(session.isSessionFirstQuestionSet()){
                 if(session.inAgreement()){
                     raise(AllIntents(EnumRejoinders.REJOINDER_AGREED))
                 }else {

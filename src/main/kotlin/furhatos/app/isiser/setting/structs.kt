@@ -1,5 +1,6 @@
 package furhatos.app.isiser.setting
 
+import furhatos.app.isiser.App
 import furhatos.app.isiser.flow.main.*
 import furhatos.app.isiser.questions.Question
 import furhatos.flow.kotlin.Utterance
@@ -161,24 +162,37 @@ data class ExtendedUtterance(
 
         */
         val processedString = (if(aside.isNotEmpty()) "$aside " else "") + text
-
+        var fillersCounter: Int = NUM_FILLERS_PER_UTTERANCE
+        var gesturesCounter: Int = NUM_GESTURES_PER_UTTERANCE
         return utterance {
             // Prepend gesture based on aside and asideFriendliness
-            if (aside.isNotEmpty() && asideFriendliness != EnumFriendliness.ANY) {
+            if (aside.isNotEmpty() && asideFriendliness != EnumFriendliness.ANY && gesturesCounter>0) {
                 when (asideFriendliness) {
                     EnumFriendliness.FRIENDLY -> {
-                        when (robotMode) {
-                            EnumRobotMode.CERTAIN -> +SubtleNod
-                            EnumRobotMode.UNCERTAIN -> +SubtleWobbleYes
-                            else -> {} // No gesture for NEUTRAL
-                        }
+                            when (robotMode) {
+                                EnumRobotMode.CERTAIN -> {
+                                                            gesturesCounter--
+                                                            +SubtleNod
+                                                        }
+                                EnumRobotMode.UNCERTAIN -> {
+                                                                gesturesCounter--
+                                                                +SubtleWobbleYes
+                                                            }
+                                else -> {} // No gesture for NEUTRAL
+                            }
                     }
                     EnumFriendliness.UNFRIENDLY -> {
-                        when (robotMode) {
-                            EnumRobotMode.CERTAIN -> +SubtleShake
-                            EnumRobotMode.UNCERTAIN -> +SubtleWobbleNo
-                            else -> {} // No gesture for NEUTRAL
-                        }
+                            when (robotMode) {
+                                EnumRobotMode.CERTAIN -> {
+                                                            gesturesCounter--
+                                                            +SubtleShake
+                                                        }
+                                EnumRobotMode.UNCERTAIN -> {
+                                                                gesturesCounter--
+                                                                +SubtleWobbleNo
+                                                            }
+                                else -> {} // No gesture for NEUTRAL
+                            }
                     }
 
                     EnumFriendliness.ANY -> {}
@@ -199,13 +213,28 @@ data class ExtendedUtterance(
                                 +currentText.toString().trim()
                                 currentText = StringBuilder()
                             }
-                            // Add gesture before the delay based on robotMode
-                            when (robotMode) {
-                                EnumRobotMode.UNCERTAIN -> +PauseUncertain
-                                EnumRobotMode.CERTAIN -> +PauseCertain
-                                EnumRobotMode.NEUTRAL -> {} // No gesture
+                            if (gesturesCounter>0) {
+                                // Add gesture before the delay based on robotMode
+                                when (robotMode) {
+                                    EnumRobotMode.UNCERTAIN ->{
+                                        gesturesCounter--
+                                        +PauseUncertain
+                                    }
+                                    EnumRobotMode.CERTAIN ->{
+                                        gesturesCounter--
+                                        +PauseCertain
+                                    }
+                                    EnumRobotMode.NEUTRAL -> {} // No gesture
+                                }
                             }
                             +delay(SILENT_MILLISECS_PER_DOT * dotCount)
+                            if(fillersCounter > 0 && robotMode!=EnumRobotMode.NEUTRAL) {
+                                val filler = App.getUm(robotMode)
+                                if(filler!="") {
+                                    fillersCounter--
+                                    +"${filler} " // Add "um, " after the delay
+                                }
+                            }
                         }else {
                             currentText.append('.')
                         }
