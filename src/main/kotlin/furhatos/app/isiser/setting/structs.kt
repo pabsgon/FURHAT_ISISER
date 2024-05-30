@@ -334,9 +334,9 @@ open class Statement(
 
         timesUsed++
         return rawText.replace(SOURCEDATA_CODE_QNUM, question.id)
-            .replace(SOURCEDATA_CODE_ROBOT_ANSWER, question.getRobotAnswer().toString())
-            .replace(SOURCEDATA_CODE_NOT_ROBOT_ANSWER, question.getRobotAnswer().getOpposite().toString())
-            .replace(SOURCEDATA_CODE_USER_ANSWER, question.getMarkedAnswer().toString())
+            .replace(SOURCEDATA_CODE_ROBOT_ANSWER, question.getRobotAnswer().toString(App.getLanguage()))
+            .replace(SOURCEDATA_CODE_NOT_ROBOT_ANSWER, question.getRobotAnswer().getOpposite().toString(App.getLanguage()))
+            .replace(SOURCEDATA_CODE_USER_ANSWER, question.getMarkedAnswer().toString(App.getLanguage()))
 
     }
 

@@ -12,13 +12,14 @@ class SessionHandler(dh: DataHandler, fh:FlowHandler, gui:GUIHandler) {
 
 
     private val questions: MutableList<Question> = mutableListOf()
-    private var condition: EnumConditions = EnumConditions.UNDEFINED
+    private var condition: EnumConditions = EnumConditions.UNSET
     private var user: String = UNDEFINED
     private var _lastWordingType: ExtendedUtterance? = null
     private var currentQuestionId: Int? = null
     private var currentQuestion: Question? = null
     private var userSet = false
     private var firstQuestionSet = false
+    private var userWelcomed = false
 
     /* PRIVATE */
     private fun setupQuestions(robotModes: List<EnumRobotMode>) {
@@ -56,6 +57,11 @@ class SessionHandler(dh: DataHandler, fh:FlowHandler, gui:GUIHandler) {
 
         }
     }
+    fun setUserAsWelcomed(){
+        userWelcomed = true
+    }
+    fun wasUserWelcomed():Boolean = userWelcomed
+
     var lastRepeatableUtterance: ExtendedUtterance?
         get() = _lastWordingType
         set(value) {

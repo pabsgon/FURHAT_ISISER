@@ -5,6 +5,7 @@ import com.google.api.client.json.jackson2.JacksonFactory
 import com.google.api.client.googleapis.auth.oauth2.GoogleCredential
 import com.google.api.services.sheets.v4.Sheets
 import com.google.api.services.sheets.v4.SheetsScopes
+import furhatos.app.isiser.App
 import furhatos.app.isiser.questions.Question
 import furhatos.app.isiser.setting.*
 import java.io.FileInputStream
@@ -35,7 +36,7 @@ data class DataHandler(val evFactory: EventFactory,
 
     fun loadSheetData(questions: MutableList<Question>) {
         val spreadsheetId = SOURCEDATA_SPREADSHEETID // Your spreadsheet ID
-        val range = SOURCEDATA_RANGE
+        val range = App.SOURCEDATA_RANGE
 
         val service = getSheetsService()
         val response = service.spreadsheets().values()

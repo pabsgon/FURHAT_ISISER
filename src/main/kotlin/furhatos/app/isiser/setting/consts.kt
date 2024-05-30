@@ -55,7 +55,7 @@ enum class EnumFriendliness{
     }
 }
 enum class EnumConditions {
-    UNDEFINED, CONDITION1, CONDITION2, CONDITION3;
+    UNSET, CONDITION1, CONDITION2, CONDITION3;
     companion object {
         fun fromString(ans: String): EnumConditions {
             return try {
@@ -66,14 +66,13 @@ enum class EnumConditions {
         }
     }
 }
-
 enum class EnumRobotMode(val speechRate: Double) {
     NEUTRAL(1.0),
     CERTAIN(ROBOT_SPEECH_RATE_CERTAIN ),
     UNCERTAIN(ROBOT_SPEECH_RATE_UNCERTAIN)
 }
-enum class EnumAnswer {
-    TRUE, FALSE, UNSET;
+enum class EnumAnswer(val inSwedish:String) {
+    TRUE("sant"), FALSE("falskt"), UNSET("");
     companion object {
         fun fromString(ans: String): EnumAnswer {
             return when (ans.toUpperCase()) {
@@ -89,6 +88,9 @@ enum class EnumAnswer {
             EnumAnswer.FALSE -> EnumAnswer.TRUE
             else -> EnumAnswer.UNSET
         }
+    }
+    fun toString(lang: EnumLanguages? = EnumLanguages.EN): String{
+        return if(lang == EnumLanguages.EN) this.toString() else this.inSwedish.toString()
     }
     fun agreesWith(ans: EnumAnswer): Boolean {
         return (this != EnumAnswer.UNSET && this == ans)

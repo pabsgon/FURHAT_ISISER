@@ -5,11 +5,11 @@ const DEV_MOD_CHOOSING = 9 // THis will run from state (1 to 8)
 const ADM_MODE = 10 // This wil show the questions on the right hand side
 const PRO_MODE = 99
 
-const APP_MODE = DEV_MOD_CHOOSING
+const APP_MODE = PRO_MODE
 const LANG_EN = "EN"
 const LANG_SE = "SE"
-const NUMBER_STUDENTS = 62
-const LANG = LANG_EN
+const NUMBER_STUDENTS = 50
+const LANG = LANG_SE
 const IMAGES_PATH = "resources/images/"
 const ANSWER_TRUE = "TRUE"
 const ANSWER_FALSE = "FALSE"
@@ -20,7 +20,7 @@ const trueButton = document.getElementById('trueBut')
 const confirmButton = document.getElementById('confirmButton');
 
 const STAGES = [0,0.2,1,2,3,4,5,6,7,8,0.3]
-const FROM_N_STAGES = [0,0.2,8,0.3]
+const FROM_N_STAGES = [0,0.2,2,3,4,5,6,7,8,0.3]
 const LAST2_STAGES = [0,0.2,7,8,0.3]
 const STAGE_1ST_QUESTION = 1
 const EVTYPE_SYNCH_REQUESTED = "SYNCH_REQUESTED"
@@ -107,12 +107,15 @@ fakeServer.contact = function (req) {
 				mode:"" + this.mode}
 }
 /* ...............................................*/ 
-var data = []
+var data = [], users;
 var answer, subjectId, selectedSubjectButton
 var questionStageMode = null
 var dict,qs;
-data["EN"]={"project": "ISISER-SOLNA Project [EN]","title": "Electrical circuits","sendingToFurhat": "Sending to Furhat: Question ","instructions": "Instructions","instruction1": "You have to answer 8 questions and you get to use the robot to help you decide on the right answer.","instruction2": "You must first answer what you think.","instruction3": "You may change your mind after the robot describes its view of the problem","instruction4": "When you have decided, press Confirm.","instruction5": "Talk with Furhat until you are both ready","gettingReady": "Get ready.","instruction6": "Check with Furhat that he is ready","weAreReady": "We are ready","termQuestion": "Question","termConfirm": "Confirm","termTrue": "True ","termFalse": "False ","termNextInstruction": "Next instruction","farewell": "Ok, that was it!","instruction0": "Select the participant number you received in the confirmation email. Press again to confirm.","questions": ["qOriginalId|qStatement|qImage","10|When the lamps are connected in series, all the lamps will glow more dimly when another lamp is connected.|question10.png","20|The blue lamp in C2 shines brighter than the blue lamp in C1.|question20.png","6|If the switch is turned on, the blue light will shine brighter than the red and yellow lights|question8.png","17|The blue lights in C1 and C2 consume the same amount of power.|question17.png","16|The green light shines as brightly as the other three.|question16.png","21|The blue lamp in C2 shines brighter than the one in C1.|question21.png","8|If the switch is connected, the yellow light could not be brighter than now|question4_5_6_7.png","9|The blue lamp in C1 consumes less power than the blue lamp in C2|question9.png"]}				
-data["SE"]={"project": "ISISER-SOLNA Project [SE]","title": "Elektriska kretsar","sendingToFurhat": "Skickar till Furhat: Fråga","instructions": "Instruktioner","instruction1": "Du ska svara på 8 frågor och du får ta roboten till hjälp för att bestämma dig för rätt svar.","instruction3": "Du får ändra dig efter att roboten beskrivit sin bild av problemet","instruction4": "När du bestämt dig trycker du på Bekräfta.","instruction5": "Nu kan du börja prata med Furhat. Säg Hej, så vaknar han.","gettingReady": "Gör er klara.","instruction6": "Kolla med Furhat att han är redo","weAreReady": "Vi är klara","termQuestion": "Fråga","termConfirm": "Bekräfta","termTrue": "Sant","termFalse": "Falskt","termNextInstruction": "Nästa instruktion","farewell": "Det var allt!","instruction0": "Välj den deltagarsiffra du fick i bekräftelse-mejlet. Tryck igen för att bekräfta.","questions": ["qOriginalId|qStatement|qImage","10|När lamporna är kopplade i serie kommer alla lampor att lysa svagare när en till lampa kopplas in.|question10.png","20|Den blå lampan i C2 lyser starkare än den blå lampan i C1.|question20.png","6|Om strömbrytaren slås till kommer den blå lampan lysa starkare än den röda och gula lampan|question8.png","17|De blå lamporna i C1 och C2 förbrukar lika mycket effekt.|question17.png","16|Den gröna lampan lyser lika starkt som de andra tre.|question16.png","21|Den blå lampan i C2 lyser starkare än den i C1.|question21.png","8|If the switch is connected, the yellow light could not be brighter than now|question4_5_6_7.png","9|Den blå lampan i C1 förbrukar mindre effekt än den blå lampan i C2|question9.png"]}
+data["EN"]={"project": "ISISER-SOLNA Project [EN]","title": "Electrical circuits","sendingToFurhat": "Sending to Furhat: Question ","instructions": "Instructions","instruction1": "You have to answer 8 questions and you get to use the robot to help you decide on the right answer.","instruction2": "You must first answer what you think.","instruction3": "You may change your mind after the robot describes its view of the problem","instruction4": "When you have decided, press Confirm.","instruction5": "Talk with Furhat until you are both ready","gettingReady": "Get ready.","instruction6": "Check with Furhat that he is ready","weAreReady": "We are ready","termQuestion": "Question","termConfirm": "Confirm","termTrue": "True ","termFalse": "False ","termNextInstruction": "Next instruction","farewell": "Ok, that was it!","instruction0": "Select the participant number (in 'SG1XX', the last two digits) that you received in the confirmation email. Press again to confirm.","questions": ["qOriginalId|qStatement|qImage","10|When the lamps are connected in series, all the lamps will glow more dimly when another lamp is connected.|question10.png","21|The blue lamp in C2 shines brighter than the blue lamp in C1.|question21.png","6|If the switch is turned on, the blue light will shine brighter than the red and yellow lights|question4_5_6_7.png","17|The blue lights in C1 and C2 consume the same amount of power.|question17.png","16|The green light shines as brightly as the other three.|question16.png","20|The blue lamp in C2 shines brighter than the one in C1.|question20.png","8|If the switch is connected, the yellow light could not be brighter than now|question8.png","9|The blue lamp in C1 consumes less power than the blue lamp in C2|question9.png"]}
+data["SE"]={"project": "ISISER-SOLNA Project [SE]","title": "Elektriska kretsar","sendingToFurhat": "Skickar till Furhat: Fråga","instructions": "Instruktioner","instruction1": "Du ska svara på 8 frågor och du får ta roboten till hjälp för att bestämma dig för rätt svar.","instruction3": "Du får ändra dig efter att roboten beskrivit sin syn på problemet","instruction4": "När du bestämt dig trycker du på Bekräfta.","instruction5": "Nu kan du börja prata med Furhat. Säg Hej, så vaknar hon.","gettingReady": "Gör er klara.","instruction6": "Kolla med Furhat att hon är redo","weAreReady": "Vi är klara","termQuestion": "Fråga","termConfirm": "Bekräfta","termTrue": "Sant","termFalse": "Falskt","termNextInstruction": "Nästa instruktion","farewell": "Det var allt!","instruction0": "Välj den deltagarsiffra (de två sista siffrorna i 'SG1XX') du fick i bekräftelse-mejlet. Tryck en gång till för att bekräfta. ","questions": ["qOriginalId|qStatement|qImage","10|När lamporna är kopplade i serie kommer alla lampor att lysa svagare när en till lampa kopplas in.|question10.png","21|Den blå lampan i C2 lyser starkare än den blå lampan i C1.|question21.png","6|Om strömbrytaren slås till kommer den blå lampan lysa starkare än den röda och gula lampan|question4_5_6_7.png","17|De blå lamporna i C1 och C2 förbrukar lika mycket effekt.|question17.png","16|Den gröna lampan lyser lika starkt som de andra tre.|question16.png","20|Den blå lampan i C2 lyser starkare än den i C1.|question20.png","8|Om strömbrytaren slås till kommer den gula lampan att lysa svagare.|question8.png","9|Den blå lampan i C1 förbrukar mindre effekt än den blå lampan i C2|question9.png"]}					
+users=[1,2,3,5,6,7,16,24,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,45,46,47,49]
+// On day 1: users=[4,5,6,8,9,10,11,12,13,14,15,17,18,19,20,21,22,23,24,25,26,27,28,31,33,38,43,44,45,47,48,50] 
+
 // app.js
 
 function sendAnswer(){
@@ -296,14 +299,19 @@ function setAnswer(ans){
 function setSubjectId(){
 	var elm = this
 	if(elm){
-		if(elm != selectedSubjectButton){
-			if(selectedSubjectButton)selectedSubjectButton.switchOff()
-			elm.switchOn()
-			selectedSubjectButton = elm
+		const userNumber = parseInt(elm.dataset["num"], 10);
+		if(users.includes(userNumber)){
+			alert("Not allowed number")
 		}else{
-			elm.style.background ="#f5cb13"
-			changeSubject(elm.dataset["num"])
-			tryNextStage()
+			if(elm != selectedSubjectButton){
+				if(selectedSubjectButton)selectedSubjectButton.switchOff()
+				elm.switchOn()
+				selectedSubjectButton = elm
+			}else{
+				elm.style.background ="#f5cb13"
+				changeSubject(elm.dataset["num"])
+				tryNextStage()
+			}
 		}
 	}
 }
@@ -356,7 +364,9 @@ function tryNextStage(){
 	tryChangeStage(stages.next())
 }
 
-
+function right(str,chr){
+	return newstr=str.substr(str.length-chr,str.length)
+}
 
 function loadTexts(){
 	dict = data[LANG]
@@ -407,7 +417,7 @@ function createNumButtons(){
 		elnew = butBase.cloneNode(true);
 		elnew.id= butBase.id + num
 		elnew.dataset["num"] = num
-		elnew.innerHTML = num
+		elnew.innerHTML = right("0" + num,2)
 		return elnew
 	}
 	var count = 0
@@ -473,12 +483,12 @@ function setUpButtons(){
 }
 function loadElements(){
 	createNumButtons()
+	loadTexts()
 }
 
 function init(){
 	if(APP_MODE<PRO_MODE)document.getElementById('devmode').style.display="block"
 	loadElements()
-	loadTexts()
 	if(URL_VARS.admin){
 		if(APP_MODE<PRO_MODE)document.getElementById('admin').style.display="block"
 	}

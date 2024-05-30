@@ -25,8 +25,17 @@ object App {
     private val loggerEventListener = EventListener { event -> handleEvent(event)}
     private var uncertainFiller:String = FILLER_UNCERTAIN_EN
     private var certainFiller:String = FILLER_CERTAIN_EN
+    var SOURCEDATA_RANGE: String = SOURCEDATA_RANGE_ENG
+    private var language = EnumLanguages.EN
     //private var fcr: FlowControlRunner? = null
+    init{
+        if(EnumLanguages.fromString(LANGUAGE) == EnumLanguages.SV){
+            SOURCEDATA_RANGE =SOURCEDATA_RANGE_SWE
+        }else{
+            SOURCEDATA_RANGE =SOURCEDATA_RANGE_ENG
+        }
 
+    }
 
     fun getSession(): SessionHandler = sessionHandler
     fun getGUI(): GUIHandler = guiHandler
@@ -105,6 +114,11 @@ object App {
     fun getUm(robotMode: EnumRobotMode):String {
         return  if(robotMode==EnumRobotMode.CERTAIN) certainFiller else uncertainFiller
     }
+
+    fun setLanguage() {
+        language = EnumLanguages.fromString(LANGUAGE)
+    }
+    fun getLanguage():EnumLanguages  = language
 
     /*    fun isCurrentStateTriMode(): Boolean{
             return when(flowHandler.getStateId()){

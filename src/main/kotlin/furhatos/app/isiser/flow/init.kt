@@ -30,6 +30,7 @@ val Init : State = state() {
             consoLog.error("Failed to log to file: ${e.message}")
 
         }
+        App.setLanguage()
         //dialogLogger.startSession()
         /** Set our default interaction parameters */
         users.setSimpleEngagementPolicy(ENGAGMENT_DISTANCE, MAX_NUM_USERS)

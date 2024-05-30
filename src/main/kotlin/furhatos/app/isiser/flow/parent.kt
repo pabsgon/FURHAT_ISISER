@@ -24,7 +24,10 @@ val Parent: State = state {
     onUserEnter(instant = true) {
         if(session.isSessionUserSet() && users.count>0){
             furhat.attend(it)
-            App.goto(Welcome)
+            if(!session.wasUserWelcomed()){
+                session.setUserAsWelcomed()
+                App.goto(Welcome)
+            }
         }
     }
     onResponse<RequestRepeat>{raise(SayItAgain())}
@@ -33,7 +36,7 @@ val Parent: State = state {
     }
     onResponse<Wait>{raise(TimeRequest())}
     onResponse<TimeRequest>{
-        furhat.doAsk(session.getUtterance(EnumWordingTypes.GIVE_TIME))
+        furhat.doAsk(session.getUtterance(EnumWordingTypes.GIVE_TIME), null, EXTRA_WAITING_TIMEOUT)
     }
     onResponse<OffTopic>{
         furhat.doAsk(session.getUtterance(EnumWordingTypes.ELABORATION_REQUEST))
@@ -95,7 +98,10 @@ val Parent: State = state {
     }
     onEvent<SessionEvent> {
         when(it.type){
-            EventType.USER_SET -> if(users.count>0){App.goto(Welcome)}
+            EventType.USER_SET -> if(users.count>0){
+                                                        session.setUserAsWelcomed()
+                                                        App.goto(Welcome)
+                                                    }
             EventType.QUESTION_SET -> App.goto(QuestionReflection())
             EventType.SESSION_END -> App.goto(Farewell)
             else -> {}
