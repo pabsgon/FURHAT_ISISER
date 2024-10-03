@@ -1,0 +1,62 @@
+import pandas as pd
+import statsmodels.api as sm
+from statsmodels.formula.api import mixedlm
+import matplotlib.pyplot as plt
+
+# Load the dataset
+df = pd.read_csv('FullDataset_320.csv')
+
+# Rename relevant columns for easier reference
+df = df.rename(columns={
+"User": "SUBJECT",
+"Question": "QUESTION",
+"Correctness Probability (per Q) [0,1]": "CORRECTNESS_PROB",
+"Preliminary answer": "PRELIMINARY_ANSWER",
+"Final answer": "FINAL_ANSWER",
+"Ability [-3, 3]": "ABILITY",
+"Loose Condition": "GROUP",
+"Dissent": "DISSENT"
+})
+
+# Filter data for non-critical questions (questions 1, 2, 5, 6) and dissent cases
+non_critical_df = df[(df['QUESTION'].isin([1, 2, 5, 6])) & (df['DISSENT'] == 1)]
+
+# Calculate descriptive statistics for each group
+descriptive_stats = non_critical_df.groupby('GROUP')['FINAL_ANSWER'].agg(['mean', 'std', 'count'])
+
+# Display the descriptive statistics
+print("Descriptive Statistics:")
+print(descriptive_stats)
+
+# Plotting the observed means with standard deviations
+plt.figure(figsize=(8, 6))
+plt.bar(descriptive_stats.index, descriptive_stats['mean'], yerr=descriptive_stats['std'], color=['lightcoral', 'skyblue', 'lightgreen'], capsize=5, alpha=0.7)
+plt.ylabel('Mean Final Answer')
+plt.title('Conformity Across Groups for Easy Non-Critical Questions')
+plt.xticks(descriptive_stats.index, ['Group C', 'Group N', 'Group U'])
+plt.axhline(0, color='black', linewidth=0.8)
+plt.tight_layout()
+plt.show()
+
+# Change the reference group to 'N' or 'U' and fit the model again
+# To set 'N' as reference
+non_critical_df['GROUP'] = pd.Categorical(non_critical_df['GROUP'], categories=['N', 'C', 'U'])
+model_N_reference = mixedlm("FINAL_ANSWER ~ GROUP + ABILITY",
+non_critical_df,
+groups=non_critical_df["SUBJECT"],
+re_formula="~1")
+
+result_N_reference = model_N_reference.fit()]
+print("\nModel with Group N as Reference:\n")
+print(result_N_reference.summary())
+
+# To set 'U' as reference
+non_critical_df['GROUP'] = pd.Categorical(non_critical_df['GROUP'], categories=['U', 'C', 'N'])
+model_U_reference = mixedlm("FINAL_ANSWER ~ GROUP + ABILITY",
+non_critical_df,
+groups=non_critical_df["SUBJECT"],
+re_formula="~1")
+
+result_U_reference = model_U_reference.fit()
+print("\nModel with Group U as Reference:\n")
+print(result_U_reference.summary())
