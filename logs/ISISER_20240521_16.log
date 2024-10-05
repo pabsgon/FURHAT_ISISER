@@ -1,9 +1,0 @@
-2024-05-21 16:33:24	Autoreload is disabled because the development mode is off.
-2024-05-21 16:33:25	Application started in 0.603 seconds.
-2024-05-21 16:33:25	Responding at http://127.0.0.1:8888
-2024-05-21 16:35:11	Autoreload is disabled because the development mode is off.
-2024-05-21 16:35:11	Application started in 0.599 seconds.
-2024-05-21 16:35:12	Responding at http://127.0.0.1:8888
-2024-05-21 16:35:14	----------------- NEW EXECUTION-------------------
-2024-05-21 16:35:14	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
-2024-05-21 16:35:14	ActionGesture	CloseEyes
