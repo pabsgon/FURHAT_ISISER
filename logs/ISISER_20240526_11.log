@@ -1,0 +1,394 @@
+2024-05-26 11:01:05	Autoreload is disabled because the development mode is off.
+2024-05-26 11:01:06	Application started in 0.62 seconds.
+2024-05-26 11:01:06	Responding at http://127.0.0.1:8888
+2024-05-26 11:01:08	----------------- NEW EXECUTION-------------------
+2024-05-26 11:01:08	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-26 11:01:08	ActionGesture	CloseEyes
+2024-05-26 11:01:08	ActionGesture	CloseEyes
+2024-05-26 11:01:13	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-26 11:01:15	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [4] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-26 11:01:15	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	4	UNDEFINED	Sleep
+2024-05-26 11:01:15	FlowEvent	NEW_FLOW_STATE	Welcome	0.2		CONDITION1	Welcome
+2024-05-26 11:01:15	ActionGesture	OpenEyes
+2024-05-26 11:01:15	ActionGesture	Smile
+2024-05-26 11:01:16	MonitorSpeechStart	<prosody rate="1.0">Hello there</prosody>	543
+2024-05-26 11:01:16	ActionGesture	BrowRaise
+2024-05-26 11:01:17	MonitorSpeechStart	<prosody rate="1.0">Nice to meet you</prosody>	824
+2024-05-26 11:01:17	ActionGesture	BrowRaise
+2024-05-26 11:01:19	MonitorSpeechStart	<prosody rate="1.0">How you doing?</prosody>	741
+2024-05-26 11:01:19	ActionGesture	BrowRaise
+2024-05-26 11:02:14	Autoreload is disabled because the development mode is off.
+2024-05-26 11:02:15	Application started in 0.581 seconds.
+2024-05-26 11:02:15	Responding at http://127.0.0.1:8888
+2024-05-26 11:02:17	----------------- NEW EXECUTION-------------------
+2024-05-26 11:02:17	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-26 11:02:17	ActionGesture	CloseEyes
+2024-05-26 11:02:17	ActionGesture	CloseEyes
+2024-05-26 11:02:46	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-26 11:02:48	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [4] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-26 11:02:48	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	4	UNDEFINED	Sleep
+2024-05-26 11:02:48	FlowEvent	NEW_FLOW_STATE	Welcome	0.2		CONDITION1	Welcome
+2024-05-26 11:03:30	ActionGesture	OpenEyes
+2024-05-26 11:03:30	ActionGesture	Smile
+2024-05-26 11:03:31	MonitorSpeechStart	<prosody rate="1.0">Hello there</prosody>	543
+2024-05-26 11:03:31	ActionGesture	BrowRaise
+2024-05-26 11:03:33	MonitorSpeechStart	<prosody rate="1.0">Nice to meet you</prosody>	824
+2024-05-26 11:03:33	ActionGesture	BrowRaise
+2024-05-26 11:03:34	MonitorSpeechStart	<prosody rate="1.0">How you doing?</prosody>	741
+2024-05-26 11:03:35	ActionGesture	BrowRaise
+2024-05-26 11:04:32	Autoreload is disabled because the development mode is off.
+2024-05-26 11:04:33	Application started in 0.593 seconds.
+2024-05-26 11:04:33	Responding at http://127.0.0.1:8888
+2024-05-26 11:04:35	----------------- NEW EXECUTION-------------------
+2024-05-26 11:04:35	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-26 11:04:35	ActionGesture	CloseEyes
+2024-05-26 11:04:35	ActionGesture	CloseEyes
+2024-05-26 11:04:40	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-26 11:04:42	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [4] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-26 11:04:42	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	4	UNDEFINED	Sleep
+2024-05-26 11:04:42	FlowEvent	NEW_FLOW_STATE	Welcome	0.2		CONDITION1	Welcome
+2024-05-26 11:04:42	ActionGesture	OpenEyes
+2024-05-26 11:04:42	ActionGesture	Smile
+2024-05-26 11:04:42	MonitorSpeechStart	<prosody rate="1.0">Hello there</prosody>	543
+2024-05-26 11:04:43	ActionGesture	BrowRaise
+2024-05-26 11:04:44	MonitorSpeechStart	<prosody rate="1.0">Nice to meet you</prosody>	824
+2024-05-26 11:04:44	ActionGesture	BrowRaise
+2024-05-26 11:04:46	MonitorSpeechStart	<prosody rate="1.0">How you doing?</prosody>	741
+2024-05-26 11:04:46	ActionGesture	BrowRaise
+2024-05-26 11:04:51	ActionGesture	Smile
+2024-05-26 11:04:52	SenseSpeech	yeah	1614
+2024-05-26 11:04:52	FlowEvent	NEW_FLOW_STATE	ReviewInstructions	0.2		CONDITION1	ReviewInstructions
+2024-05-26 11:04:53	MonitorSpeechStart	<prosody rate="1.0">Right, as far as I know,we will get some Electronics questions to resolve together. Somebody told you?</prosody>	6104
+2024-05-26 11:04:53	ActionGesture	BrowRaise
+2024-05-26 11:04:54	ActionGesture	BrowRaise
+2024-05-26 11:04:57	ActionGesture	BrowRaise
+2024-05-26 11:04:58	ActionGesture	BrowRaise
+2024-05-26 11:07:52	MonitorSpeechStart	<prosody rate="1.0">Sorry</prosody>	510
+2024-05-26 11:07:52	ActionGesture	BrowRaise
+2024-05-26 11:07:53	MonitorSpeechStart	<prosody rate="1.0">I could not hear you</prosody>	897
+2024-05-26 11:07:54	ActionGesture	BrowRaise
+2024-05-26 11:07:55	MonitorSpeechStart	<prosody rate="1.0">You know something about our meeting?</prosody>	1349
+2024-05-26 11:07:56	ActionGesture	BrowRaise
+2024-05-26 11:08:05	MonitorSpeechStart	<prosody rate="1.0">Mmm</prosody>	298
+2024-05-26 11:08:06	MonitorSpeechStart	<prosody rate="1.0">I am starting to think you're not there</prosody>	1635
+2024-05-26 11:08:07	ActionGesture	BrowRaise
+2024-05-26 11:08:07	ActionGesture	BrowRaise
+2024-05-26 11:08:17	MonitorSpeechStart	<prosody rate="1.0">Electronics problems, me and you. Did you know?</prosody>	3027
+2024-05-26 11:08:18	ActionGesture	BrowRaise
+2024-05-26 11:08:19	ActionGesture	BrowRaise
+2024-05-26 11:08:25	ActionGesture	Smile
+2024-05-26 11:13:24	Autoreload is disabled because the development mode is off.
+2024-05-26 11:13:25	Application started in 0.607 seconds.
+2024-05-26 11:13:25	Responding at http://127.0.0.1:8888
+2024-05-26 11:13:28	----------------- NEW EXECUTION-------------------
+2024-05-26 11:13:28	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-26 11:13:28	ActionGesture	CloseEyes
+2024-05-26 11:13:28	ActionGesture	CloseEyes
+2024-05-26 11:13:35	MonitorSpeechStart	<prosody rate="1.0">Right. I cannot work alone. Terminating the program.</prosody>	3543
+2024-05-26 11:13:35	ActionGesture	BrowRaise
+2024-05-26 11:13:38	ActionGesture	BrowRaise
+2024-05-26 11:13:58	Autoreload is disabled because the development mode is off.
+2024-05-26 11:13:59	Application started in 0.589 seconds.
+2024-05-26 11:13:59	Responding at http://127.0.0.1:8888
+2024-05-26 11:14:01	----------------- NEW EXECUTION-------------------
+2024-05-26 11:14:01	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-26 11:14:01	ActionGesture	CloseEyes
+2024-05-26 11:14:01	ActionGesture	CloseEyes
+2024-05-26 11:14:20	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-26 11:14:21	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [20] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-26 11:14:21	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	20	UNDEFINED	Sleep
+2024-05-26 11:15:01	MonitorSpeechStart	<prosody rate="1.0">No start signal received, terminating the program.</prosody>	2929
+2024-05-26 11:15:04	ActionGesture	BrowRaise
+2024-05-26 11:19:00	Autoreload is disabled because the development mode is off.
+2024-05-26 11:19:00	Application started in 0.615 seconds.
+2024-05-26 11:19:01	Responding at http://127.0.0.1:8888
+2024-05-26 11:19:03	----------------- NEW EXECUTION-------------------
+2024-05-26 11:19:03	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-26 11:19:03	ActionGesture	CloseEyes
+2024-05-26 11:19:03	ActionGesture	CloseEyes
+2024-05-26 11:19:04	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-26 11:19:06	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [4] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-26 11:19:06	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	4	UNDEFINED	Sleep
+2024-05-26 11:19:23	MonitorSpeechStart	<prosody rate="1.0">Right. I cannot work alone. Terminating the program.</prosody>	3543
+2024-05-26 11:19:23	ActionGesture	BrowRaise
+2024-05-26 11:19:26	ActionGesture	BrowRaise
+2024-05-26 11:19:39	Autoreload is disabled because the development mode is off.
+2024-05-26 11:19:39	Application started in 0.582 seconds.
+2024-05-26 11:19:40	Responding at http://127.0.0.1:8888
+2024-05-26 11:19:42	----------------- NEW EXECUTION-------------------
+2024-05-26 11:19:42	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-26 11:19:42	ActionGesture	CloseEyes
+2024-05-26 11:19:42	ActionGesture	CloseEyes
+2024-05-26 11:19:44	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-26 11:19:45	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [3] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-26 11:19:45	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	3	UNDEFINED	Sleep
+2024-05-26 11:20:31	Autoreload is disabled because the development mode is off.
+2024-05-26 11:20:31	Application started in 0.574 seconds.
+2024-05-26 11:20:32	Responding at http://127.0.0.1:8888
+2024-05-26 11:20:34	----------------- NEW EXECUTION-------------------
+2024-05-26 11:20:34	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-26 11:20:34	ActionGesture	CloseEyes
+2024-05-26 11:20:34	ActionGesture	CloseEyes
+2024-05-26 11:20:42	MonitorSpeechStart	<prosody rate="1.0">Right. I cannot work alone. Terminating the program.</prosody>	3543
+2024-05-26 11:20:42	ActionGesture	BrowRaise
+2024-05-26 11:20:45	ActionGesture	BrowRaise
+2024-05-26 11:20:53	Autoreload is disabled because the development mode is off.
+2024-05-26 11:20:53	Application started in 0.582 seconds.
+2024-05-26 11:20:54	Responding at http://127.0.0.1:8888
+2024-05-26 11:20:55	----------------- NEW EXECUTION-------------------
+2024-05-26 11:20:55	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-26 11:20:55	ActionGesture	CloseEyes
+2024-05-26 11:20:55	ActionGesture	CloseEyes
+2024-05-26 11:20:59	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-26 11:21:00	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [4] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-26 11:21:00	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	4	UNDEFINED	Sleep
+2024-05-26 11:21:17	FlowEvent	NEW_FLOW_STATE	Welcome	0.2		CONDITION1	Welcome
+2024-05-26 11:21:17	ActionGesture	OpenEyes
+2024-05-26 11:21:17	ActionGesture	Smile
+2024-05-26 11:21:17	MonitorSpeechStart	<prosody rate="1.0">Hello there</prosody>	543
+2024-05-26 11:21:18	ActionGesture	BrowRaise
+2024-05-26 11:21:19	MonitorSpeechStart	<prosody rate="1.0">Nice to meet you</prosody>	824
+2024-05-26 11:21:19	ActionGesture	BrowRaise
+2024-05-26 11:37:56	Autoreload is disabled because the development mode is off.
+2024-05-26 11:37:57	Application started in 0.591 seconds.
+2024-05-26 11:37:57	Responding at http://127.0.0.1:8888
+2024-05-26 11:38:00	----------------- NEW EXECUTION-------------------
+2024-05-26 11:38:00	FlowEvent	NEW_FLOW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-26 11:38:00	MonitorSpeechStart	Ok, let's test. Say whatever you want.	2873
+2024-05-26 11:38:00	ActionGesture	BrowRaise
+2024-05-26 11:38:03	ActionGesture	BrowRaise
+2024-05-26 11:38:07	ActionGesture	Smile
+2024-05-26 11:38:08	SenseSpeech	uh the answer is true	1568
+2024-05-26 11:38:08	ActionGesture	SubtleNod
+2024-05-26 11:38:08	ActionGesture	doubleNod
+2024-05-26 11:38:09	MonitorSpeechStart	You said it is true	992
+2024-05-26 11:38:09	ActionGesture	BrowRaise
+2024-05-26 11:38:18	MonitorSpeechStart	I'm listening.	676
+2024-05-26 11:38:22	ActionGesture	Smile
+2024-05-26 11:38:23	SenseSpeech	I'm done	993
+2024-05-26 11:38:23	ActionGesture	SubtleNod
+2024-05-26 11:38:23	ActionGesture	Thoughtful
+2024-05-26 11:38:23	MonitorSpeechStart	You said you finished	988
+2024-05-26 11:38:23	ActionGesture	BrowRaise
+2024-05-26 11:38:32	MonitorSpeechStart	I'm listening.	676
+2024-05-26 11:38:35	ActionGesture	Smile
+2024-05-26 11:38:36	SenseSpeech	I'm done	921
+2024-05-26 11:38:36	ActionGesture	SubtleNod
+2024-05-26 11:38:36	ActionGesture	Thoughtful
+2024-05-26 11:38:36	MonitorSpeechStart	You said you finished	988
+2024-05-26 11:38:36	ActionGesture	BrowRaise
+2024-05-26 11:38:42	ActionGesture	Smile
+2024-05-26 11:38:43	SenseSpeech	it is true	1165
+2024-05-26 11:38:44	ActionGesture	SubtleNod
+2024-05-26 11:38:44	ActionGesture	doubleNod
+2024-05-26 11:38:44	MonitorSpeechStart	You said it is true	992
+2024-05-26 11:38:44	ActionGesture	BrowRaise
+2024-05-26 11:40:18	Autoreload is disabled because the development mode is off.
+2024-05-26 11:40:19	Application started in 0.62 seconds.
+2024-05-26 11:40:19	Responding at http://127.0.0.1:8888
+2024-05-26 11:40:21	----------------- NEW EXECUTION-------------------
+2024-05-26 11:40:21	FlowEvent	NEW_FLOW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-26 11:40:22	MonitorSpeechStart	Ok, let's test. Say whatever you want.	2873
+2024-05-26 11:40:22	ActionGesture	BrowRaise
+2024-05-26 11:40:24	ActionGesture	BrowRaise
+2024-05-26 11:40:26	ActionGesture	Smile
+2024-05-26 11:40:27	SenseSpeech	I'm done	887
+2024-05-26 11:40:27	ActionGesture	SubtleNod
+2024-05-26 11:40:27	ActionGesture	Thoughtful
+2024-05-26 11:40:27	MonitorSpeechStart	You said you finished	988
+2024-05-26 11:40:27	ActionGesture	BrowRaise
+2024-05-26 11:45:26	Autoreload is disabled because the development mode is off.
+2024-05-26 11:45:27	Application started in 0.564 seconds.
+2024-05-26 11:45:27	Responding at http://127.0.0.1:8888
+2024-05-26 11:45:29	----------------- NEW EXECUTION-------------------
+2024-05-26 11:45:29	FlowEvent	NEW_FLOW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-26 11:45:30	MonitorSpeechStart	Ok, let's test. Say whatever you want.	2873
+2024-05-26 11:45:30	ActionGesture	BrowRaise
+2024-05-26 11:45:32	ActionGesture	BrowRaise
+2024-05-26 11:45:34	ActionGesture	Smile
+2024-05-26 11:45:35	SenseSpeech	I'm done	1013
+2024-05-26 11:45:35	ActionGesture	SubtleNod
+2024-05-26 11:45:35	ActionGesture	Thoughtful
+2024-05-26 11:45:36	MonitorSpeechStart	You said you finished	988
+2024-05-26 11:45:36	ActionGesture	BrowRaise
+2024-05-26 11:46:27	Autoreload is disabled because the development mode is off.
+2024-05-26 11:46:28	Application started in 0.572 seconds.
+2024-05-26 11:46:28	Responding at http://127.0.0.1:8888
+2024-05-26 11:46:31	----------------- NEW EXECUTION-------------------
+2024-05-26 11:46:31	FlowEvent	NEW_FLOW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-26 11:46:32	MonitorSpeechStart	Ok, let's test. Say whatever you want.	2873
+2024-05-26 11:46:32	ActionGesture	BrowRaise
+2024-05-26 11:46:34	ActionGesture	BrowRaise
+2024-05-26 11:46:39	ActionGesture	Smile
+2024-05-26 11:46:40	SenseSpeech	I'm done	1110
+2024-05-26 11:46:40	ActionGesture	SubtleNod
+2024-05-26 11:46:40	ActionGesture	Thoughtful
+2024-05-26 11:46:40	MonitorSpeechStart	You said you finished	988
+2024-05-26 11:46:40	ActionGesture	BrowRaise
+2024-05-26 11:46:49	MonitorSpeechStart	I'm listening.	676
+2024-05-26 11:46:58	MonitorSpeechStart	I'm listening.	676
+2024-05-26 11:50:00	Autoreload is disabled because the development mode is off.
+2024-05-26 11:50:01	Application started in 0.587 seconds.
+2024-05-26 11:50:01	Responding at http://127.0.0.1:8888
+2024-05-26 11:50:04	----------------- NEW EXECUTION-------------------
+2024-05-26 11:50:04	FlowEvent	NEW_FLOW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-26 11:50:04	MonitorSpeechStart	Ok, let's test. Say whatever you want.	2873
+2024-05-26 11:50:05	ActionGesture	BrowRaise
+2024-05-26 11:50:07	ActionGesture	BrowRaise
+2024-05-26 11:50:09	ActionGesture	Smile
+2024-05-26 11:50:10	SenseSpeech	I'm done	947
+2024-05-26 11:50:10	ActionGesture	SubtleNod
+2024-05-26 11:50:10	ActionGesture	Thoughtful
+2024-05-26 11:50:10	MonitorSpeechStart	You said you finished	988
+2024-05-26 11:50:10	ActionGesture	BrowRaise
+2024-05-26 11:50:15	ActionGesture	Smile
+2024-05-26 11:50:16	SenseSpeech	I'm done	1265
+2024-05-26 11:50:16	ActionGesture	SubtleNod
+2024-05-26 11:50:16	ActionGesture	Thoughtful
+2024-05-26 11:50:16	MonitorSpeechStart	You said you finished	988
+2024-05-26 11:50:17	ActionGesture	BrowRaise
+2024-05-26 11:50:26	MonitorSpeechStart	I'm listening.	676
+2024-05-26 11:50:59	Autoreload is disabled because the development mode is off.
+2024-05-26 11:51:00	Application started in 0.563 seconds.
+2024-05-26 11:51:00	Responding at http://127.0.0.1:8888
+2024-05-26 11:51:02	----------------- NEW EXECUTION-------------------
+2024-05-26 11:51:02	FlowEvent	NEW_FLOW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-26 11:51:03	MonitorSpeechStart	Ok, let's test. Say whatever you want.	2873
+2024-05-26 11:51:03	ActionGesture	BrowRaise
+2024-05-26 11:51:06	ActionGesture	BrowRaise
+2024-05-26 11:51:08	ActionGesture	Smile
+2024-05-26 11:51:09	SenseSpeech	I'm done	1002
+2024-05-26 11:51:09	ActionGesture	SubtleNod
+2024-05-26 11:51:09	ActionGesture	Thoughtful
+2024-05-26 11:51:09	MonitorSpeechStart	You said you finished	988
+2024-05-26 11:51:09	ActionGesture	BrowRaise
+2024-05-26 11:51:18	MonitorSpeechStart	I'm listening.	676
+2024-05-26 11:51:21	ActionGesture	Smile
+2024-05-26 11:51:22	SenseSpeech	I'm done	910
+2024-05-26 11:51:22	ActionGesture	SubtleNod
+2024-05-26 11:51:22	ActionGesture	Thoughtful
+2024-05-26 11:51:22	MonitorSpeechStart	You said you finished	988
+2024-05-26 11:51:22	ActionGesture	BrowRaise
+2024-05-26 11:51:27	ActionGesture	Smile
+2024-05-26 11:51:28	SenseSpeech	I'm done	963
+2024-05-26 11:51:28	ActionGesture	SubtleNod
+2024-05-26 11:51:28	ActionGesture	Thoughtful
+2024-05-26 11:51:28	MonitorSpeechStart	You said you finished	988
+2024-05-26 11:51:29	ActionGesture	BrowRaise
+2024-05-26 11:51:38	MonitorSpeechStart	I'm listening.	676
+2024-05-26 11:52:21	Autoreload is disabled because the development mode is off.
+2024-05-26 11:52:22	Application started in 0.565 seconds.
+2024-05-26 11:52:22	Responding at http://127.0.0.1:8888
+2024-05-26 11:52:24	----------------- NEW EXECUTION-------------------
+2024-05-26 11:52:24	FlowEvent	NEW_FLOW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-26 11:52:25	MonitorSpeechStart	Ok, let's test. Say whatever you want.	2873
+2024-05-26 11:52:25	ActionGesture	BrowRaise
+2024-05-26 11:52:28	ActionGesture	BrowRaise
+2024-05-26 11:52:30	ActionGesture	Smile
+2024-05-26 11:52:31	SenseSpeech	I'm done	947
+2024-05-26 11:52:31	ActionGesture	SubtleNod
+2024-05-26 11:52:31	ActionGesture	Thoughtful
+2024-05-26 11:52:31	MonitorSpeechStart	You said you finished	988
+2024-05-26 11:52:31	ActionGesture	BrowRaise
+2024-05-26 11:52:35	ActionGesture	Smile
+2024-05-26 11:52:36	SenseSpeech	I'm ready	986
+2024-05-26 11:52:36	ActionGesture	Thoughtful
+2024-05-26 11:52:36	MonitorSpeechStart	You said you finished	988
+2024-05-26 11:52:36	ActionGesture	BrowRaise
+2024-05-26 11:52:39	ActionGesture	Smile
+2024-05-26 11:52:40	SenseSpeech	I'm done	1083
+2024-05-26 11:52:40	ActionGesture	SubtleNod
+2024-05-26 11:52:40	ActionGesture	Thoughtful
+2024-05-26 11:52:40	MonitorSpeechStart	You said you finished	988
+2024-05-26 11:52:41	ActionGesture	BrowRaise
+2024-05-26 11:55:53	Autoreload is disabled because the development mode is off.
+2024-05-26 11:55:54	Application started in 0.565 seconds.
+2024-05-26 11:55:54	Responding at http://127.0.0.1:8888
+2024-05-26 11:55:56	----------------- NEW EXECUTION-------------------
+2024-05-26 11:55:56	FlowEvent	NEW_FLOW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-26 11:55:57	MonitorSpeechStart	Ok, let's test. Say whatever you want.	2873
+2024-05-26 11:55:57	ActionGesture	BrowRaise
+2024-05-26 11:56:00	ActionGesture	BrowRaise
+2024-05-26 11:56:52	Autoreload is disabled because the development mode is off.
+2024-05-26 11:56:53	Application started in 0.569 seconds.
+2024-05-26 11:56:53	Responding at http://127.0.0.1:8888
+2024-05-26 11:56:55	----------------- NEW EXECUTION-------------------
+2024-05-26 11:56:55	FlowEvent	NEW_FLOW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-26 11:56:56	MonitorSpeechStart	Ok, let's test. Say whatever you want.	2873
+2024-05-26 11:56:56	ActionGesture	BrowRaise
+2024-05-26 11:56:58	ActionGesture	BrowRaise
+2024-05-26 11:57:02	ActionGesture	Smile
+2024-05-26 11:57:03	SenseSpeech	I'm done	1131
+2024-05-26 11:57:03	ActionGesture	SubtleNod
+2024-05-26 11:57:03	ActionGesture	Thoughtful
+2024-05-26 11:57:03	MonitorSpeechStart	You said you finished	988
+2024-05-26 11:57:04	ActionGesture	BrowRaise
+2024-05-26 11:57:13	MonitorSpeechStart	I'm listening.	676
+2024-05-26 11:57:22	MonitorSpeechStart	I'm listening.	676
+2024-05-26 11:57:31	MonitorSpeechStart	I'm listening.	676
+2024-05-26 11:57:35	ActionGesture	Smile
+2024-05-26 11:57:36	SenseSpeech	I'm ready	1077
+2024-05-26 11:57:36	ActionGesture	Thoughtful
+2024-05-26 11:57:36	MonitorSpeechStart	You said you finished	988
+2024-05-26 11:57:37	ActionGesture	BrowRaise
+2024-05-26 11:57:46	MonitorSpeechStart	I'm listening.	676
+2024-05-26 11:57:55	MonitorSpeechStart	I'm listening.	676
+2024-05-26 11:57:59	ActionGesture	Smile
+2024-05-26 11:58:00	SenseSpeech	me ready	1126
+2024-05-26 11:58:01	MonitorSpeechStart	You just backchanneled.	1149
+2024-05-26 11:58:01	ActionGesture	BrowRaise
+2024-05-26 11:58:04	ActionGesture	Smile
+2024-05-26 11:58:06	SenseSpeech	I am ready	1264
+2024-05-26 11:58:06	ActionGesture	Thoughtful
+2024-05-26 11:58:06	MonitorSpeechStart	You said you finished	988
+2024-05-26 11:58:06	ActionGesture	BrowRaise
+2024-05-26 11:58:13	ActionGesture	Smile
+2024-05-26 11:58:14	SenseSpeech	I'm done	971
+2024-05-26 11:58:14	ActionGesture	SubtleNod
+2024-05-26 11:58:14	ActionGesture	Thoughtful
+2024-05-26 11:58:14	MonitorSpeechStart	You said you finished	988
+2024-05-26 11:58:14	ActionGesture	BrowRaise
+2024-05-26 11:58:20	ActionGesture	Smile
+2024-05-26 11:58:21	SenseSpeech	I'm done	1006
+2024-05-26 11:58:21	ActionGesture	SubtleNod
+2024-05-26 11:58:21	ActionGesture	Thoughtful
+2024-05-26 11:58:22	MonitorSpeechStart	You said you finished	988
+2024-05-26 11:58:22	ActionGesture	BrowRaise
+2024-05-26 11:58:29	ActionGesture	Smile
+2024-05-26 11:58:31	SenseSpeech	uh is true	1668
+2024-05-26 11:58:31	ActionGesture	doubleNod
+2024-05-26 11:58:31	MonitorSpeechStart	You said it is true	992
+2024-05-26 11:58:31	ActionGesture	BrowRaise
+2024-05-26 11:58:41	MonitorSpeechStart	I'm listening.	676
+2024-05-26 11:58:50	MonitorSpeechStart	I'm listening.	676
+2024-05-26 11:58:51	ActionGesture	Smile
+2024-05-26 11:58:52	SenseSpeech	I disagree	1126
+2024-05-26 11:58:53	ActionGesture	GazeAway
+2024-05-26 11:58:53	MonitorSpeechStart	You said it is false	1122
+2024-05-26 11:58:53	ActionGesture	BrowRaise
+2024-05-26 11:59:02	MonitorSpeechStart	I'm listening.	676
+2024-05-26 11:59:11	MonitorSpeechStart	I'm listening.	676
+2024-05-26 11:59:16	ActionGesture	Smile
+2024-05-26 11:59:17	SenseSpeech	I disagree	1251
+2024-05-26 11:59:17	ActionGesture	GazeAway
+2024-05-26 11:59:18	MonitorSpeechStart	You said it is false	1122
+2024-05-26 11:59:18	ActionGesture	BrowRaise
+2024-05-26 11:59:27	MonitorSpeechStart	I'm listening.	676
+2024-05-26 11:59:33	ActionGesture	Smile
+2024-05-26 11:59:35	SenseSpeech	I think it's false	1460
+2024-05-26 11:59:35	ActionGesture	SubtleNod
+2024-05-26 11:59:35	ActionGesture	GazeAway
+2024-05-26 11:59:35	MonitorSpeechStart	You said it is false	1122
+2024-05-26 11:59:36	ActionGesture	BrowRaise
+2024-05-26 11:59:41	ActionGesture	Smile
+2024-05-26 11:59:42	SenseSpeech	I think it's false	1356
+2024-05-26 11:59:42	ActionGesture	SubtleNod
+2024-05-26 11:59:42	ActionGesture	GazeAway
+2024-05-26 11:59:42	MonitorSpeechStart	You said it is false	1122
+2024-05-26 11:59:43	ActionGesture	BrowRaise
+2024-05-26 11:59:52	MonitorSpeechStart	I'm listening.	676
+2024-05-26 11:59:55	ActionGesture	Smile
+2024-05-26 11:59:56	SenseSpeech	I am ready	1179
+2024-05-26 11:59:56	ActionGesture	Thoughtful
+2024-05-26 11:59:56	MonitorSpeechStart	You said you finished	988
+2024-05-26 11:59:56	ActionGesture	BrowRaise

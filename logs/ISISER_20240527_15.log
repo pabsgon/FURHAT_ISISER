@@ -1,0 +1,689 @@
+2024-05-27 15:00:00	ActionGesture	BrowRaise
+2024-05-27 15:00:00	ActionGesture	BrowRaise
+2024-05-27 15:00:02	ActionGesture	BrowRaise
+2024-05-27 15:00:10	MonitorSpeechStart	<sig rate="1.0">Sorry</sig>	597
+2024-05-27 15:00:11	ActionGesture	BrowRaise
+2024-05-27 15:00:12	MonitorSpeechStart	<sig rate="1.0">I could not hear you</sig>	1149
+2024-05-27 15:00:13	ActionGesture	BrowRaise
+2024-05-27 15:00:14	MonitorSpeechStart	<sig rate="1.0">You know something about our meeting?</sig>	1887
+2024-05-27 15:00:16	ActionGesture	BrowRaise
+2024-05-27 15:00:16	ActionGesture	BrowRaise
+2024-05-27 15:00:25	MonitorSpeechStart	<sig rate="1.0">Mmm</sig>	785
+2024-05-27 15:00:25	ActionGesture	BrowRaise
+2024-05-27 15:00:27	MonitorSpeechStart	<sig rate="1.0">I am starting to think you're not there</sig>	1991
+2024-05-27 15:00:28	ActionGesture	BrowRaise
+2024-05-27 15:15:19	Autoreload is disabled because the development mode is off.
+2024-05-27 15:15:19	Application started in 0.588 seconds.
+2024-05-27 15:15:20	Responding at http://127.0.0.1:8888
+2024-05-27 15:16:18	Autoreload is disabled because the development mode is off.
+2024-05-27 15:16:18	Application started in 0.584 seconds.
+2024-05-27 15:16:18	Responding at http://127.0.0.1:8888
+2024-05-27 15:16:21	----------------- NEW EXECUTION-------------------
+2024-05-27 15:16:21	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-27 15:16:21	ActionGesture	CloseEyes
+2024-05-27 15:16:21	ActionGesture	CloseEyes
+2024-05-27 15:16:28	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-27 15:17:13	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [53] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-27 15:17:13	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	53	UNDEFINED	Sleep
+2024-05-27 15:17:13	FlowEvent	NEW_FLOW_STATE	Welcome	0.2		CONDITION3	Welcome
+2024-05-27 15:17:14	ActionGesture	OpenEyes
+2024-05-27 15:17:14	ActionGesture	Smile
+2024-05-27 15:17:15	MonitorSpeechStart	<sig rate="1.0">Hello there</sig>	817
+2024-05-27 15:17:15	ActionGesture	BrowRaise
+2024-05-27 15:17:17	MonitorSpeechStart	<sig rate="1.0">Nice to meet you</sig>	925
+2024-05-27 15:17:18	ActionGesture	BrowRaise
+2024-05-27 15:17:19	MonitorSpeechStart	<sig rate="1.0">How you doing?</sig>	782
+2024-05-27 15:17:20	ActionGesture	BrowRaise
+2024-05-27 15:17:21	ActionGesture	Smile
+2024-05-27 15:17:23	SenseSpeech	yeah I'm fine	1950
+2024-05-27 15:17:23	FlowEvent	NEW_FLOW_STATE	ReviewInstructions	0.2		CONDITION3	ReviewInstructions
+2024-05-27 15:17:24	MonitorSpeechStart	<sig rate="1.0">Right, as far as I know,we will get some Electronics questions to resolve together. Somebody told you?</sig>	6933
+2024-05-27 15:17:24	ActionGesture	BrowRaise
+2024-05-27 15:17:25	ActionGesture	BrowRaise
+2024-05-27 15:17:26	ActionGesture	BrowRaise
+2024-05-27 15:17:28	ActionGesture	BrowRaise
+2024-05-27 15:17:29	ActionGesture	BrowRaise
+2024-05-27 15:17:30	ActionGesture	BrowRaise
+2024-05-27 15:17:32	ActionGesture	Smile
+2024-05-27 15:17:34	SenseSpeech	uh no	2071
+2024-05-27 15:17:35	MonitorSpeechStart	<sig rate="1.0">Oh</sig>	410
+2024-05-27 15:17:35	ActionGesture	BrowRaise
+2024-05-27 15:17:36	MonitorSpeechStart	<sig rate="1.0">well</sig>	540
+2024-05-27 15:17:36	ActionGesture	BrowRaise
+2024-05-27 15:17:38	MonitorSpeechStart	<sig rate="1.0">Basically a question will come up on the tablet, I receive it, we think, we answer separately and then we discuss</sig>	7334
+2024-05-27 15:17:40	ActionGesture	BrowRaise
+2024-05-27 15:17:41	ActionGesture	BrowRaise
+2024-05-27 15:17:41	ActionGesture	BrowRaise
+2024-05-27 15:17:43	ActionGesture	BrowRaise
+2024-05-27 15:17:44	ActionGesture	BrowRaise
+2024-05-27 15:17:45	ActionGesture	BrowRaise
+2024-05-27 15:17:47	MonitorSpeechStart	<sig rate="1.0">Do you want me to explain or are you ready?</sig>	2548
+2024-05-27 15:17:48	ActionGesture	BrowRaise
+2024-05-27 15:17:49	ActionGesture	BrowRaise
+2024-05-27 15:17:51	ActionGesture	Smile
+2024-05-27 15:17:54	SenseSpeech	uh yes	2583
+2024-05-27 15:17:54	MonitorSpeechStart	<sig rate="1.0">Perfect</sig>	659
+2024-05-27 15:17:55	ActionGesture	BrowRaise
+2024-05-27 15:17:56	MonitorSpeechStart	<sig rate="1.0">Ok, when you press the button I will receive the first question, and show on the screen. Whenever you want.</sig>	7323
+2024-05-27 15:17:56	ActionGesture	BrowRaise
+2024-05-27 15:17:56	ActionGesture	BrowRaise
+2024-05-27 15:17:59	ActionGesture	BrowRaise
+2024-05-27 15:17:59	ActionGesture	BrowRaise
+2024-05-27 15:18:01	ActionGesture	BrowRaise
+2024-05-27 15:18:03	ActionGesture	BrowRaise
+2024-05-27 15:20:51	GUIEvent	NEW_STAGE_REQUESTED	STAGE[1] [53] REQUESTED .. [ACCEPTED]	0.2	53	CONDITION3	ReviewInstructions
+2024-05-27 15:20:51	SessionEvent	QUESTION_SET	NEW QUESTION TO ACTIVATE	1		CONDITION3	ReviewInstructions
+2024-05-27 15:20:51	FlowEvent	NEW_FLOW_STATE	QuestionReflection	1		CONDITION3	QuestionReflection
+2024-05-27 15:20:53	FlowEvent	NEW_FLOW_STATE	Welcome	1		CONDITION3	Welcome
+2024-05-27 15:20:53	ActionGesture	OpenEyes
+2024-05-27 15:20:53	ActionGesture	Smile
+2024-05-27 15:20:53	FlowEvent	NEW_FLOW_STATE	Welcome	1		CONDITION3	Welcome
+2024-05-27 15:20:53	ActionGesture	OpenEyes
+2024-05-27 15:20:53	ActionGesture	Smile
+2024-05-27 15:20:54	MonitorSpeechStart	<sig rate="1.0">Ok</sig>	526
+2024-05-27 15:20:54	ActionGesture	BrowRaise
+2024-05-27 15:20:54	MonitorSpeechStart	<sig rate="1.0">Hello there</sig>	817
+2024-05-27 15:20:54	ActionGesture	BrowRaise
+2024-05-27 15:20:55	MonitorSpeechStart	<sig rate="1.0">How you doing?</sig>	782
+2024-05-27 15:20:56	MonitorSpeechStart	<sig rate="1.0">Let's see</sig>	650
+2024-05-27 15:20:56	ActionGesture	BrowRaise
+2024-05-27 15:20:57	ActionGesture	Smile
+2024-05-27 15:20:57	SenseSpeech	now let's see	970
+2024-05-27 15:24:54	Autoreload is disabled because the development mode is off.
+2024-05-27 15:24:54	Application started in 0.592 seconds.
+2024-05-27 15:24:54	Responding at http://127.0.0.1:8888
+2024-05-27 15:24:59	----------------- NEW EXECUTION-------------------
+2024-05-27 15:24:59	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-27 15:24:59	ActionGesture	CloseEyes
+2024-05-27 15:24:59	ActionGesture	CloseEyes
+2024-05-27 15:25:05	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-27 15:25:11	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [53] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-27 15:25:11	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	53	UNDEFINED	Sleep
+2024-05-27 15:25:11	FlowEvent	NEW_FLOW_STATE	Welcome	0.2		CONDITION3	Welcome
+2024-05-27 15:25:11	ActionGesture	OpenEyes
+2024-05-27 15:25:11	ActionGesture	Smile
+2024-05-27 15:25:12	MonitorSpeechStart	<sig rate="1.0">Hello there</sig>	817
+2024-05-27 15:25:12	ActionGesture	BrowRaise
+2024-05-27 15:25:14	MonitorSpeechStart	<sig rate="1.0">Nice to meet you</sig>	925
+2024-05-27 15:25:15	ActionGesture	BrowRaise
+2024-05-27 15:25:17	MonitorSpeechStart	<sig rate="1.0">How you doing?</sig>	782
+2024-05-27 15:25:17	ActionGesture	BrowRaise
+2024-05-27 15:25:20	ActionGesture	Smile
+2024-05-27 15:25:21	SenseSpeech	yes i'm doing fine	1480
+2024-05-27 15:25:21	FlowEvent	NEW_FLOW_STATE	ReviewInstructions	0.2		CONDITION3	ReviewInstructions
+2024-05-27 15:25:21	MonitorSpeechStart	<sig rate="1.0">Right, as far as I know,we will get some Electronics questions to resolve together. Somebody told you?</sig>	6933
+2024-05-27 15:25:21	ActionGesture	BrowRaise
+2024-05-27 15:25:23	ActionGesture	BrowRaise
+2024-05-27 15:25:23	ActionGesture	BrowRaise
+2024-05-27 15:25:26	ActionGesture	BrowRaise
+2024-05-27 15:25:27	ActionGesture	BrowRaise
+2024-05-27 15:25:28	ActionGesture	BrowRaise
+2024-05-27 15:25:31	ActionGesture	Smile
+2024-05-27 15:25:31	SenseSpeech	no	520
+2024-05-27 15:25:31	MonitorSpeechStart	<sig rate="1.0">Oh</sig>	410
+2024-05-27 15:25:31	ActionGesture	BrowRaise
+2024-05-27 15:25:33	MonitorSpeechStart	<sig rate="1.0">well</sig>	540
+2024-05-27 15:25:33	ActionGesture	BrowRaise
+2024-05-27 15:25:34	MonitorSpeechStart	<sig rate="1.0">Basically a question will come up on the tablet, I receive it, we think, we answer separately and then we discuss</sig>	7334
+2024-05-27 15:25:36	ActionGesture	BrowRaise
+2024-05-27 15:25:37	ActionGesture	BrowRaise
+2024-05-27 15:25:37	ActionGesture	BrowRaise
+2024-05-27 15:25:39	ActionGesture	BrowRaise
+2024-05-27 15:25:40	ActionGesture	BrowRaise
+2024-05-27 15:25:41	ActionGesture	BrowRaise
+2024-05-27 15:25:43	MonitorSpeechStart	<sig rate="1.0">Do you want me to explain or are you ready?</sig>	2548
+2024-05-27 15:25:44	ActionGesture	BrowRaise
+2024-05-27 15:25:45	ActionGesture	BrowRaise
+2024-05-27 15:25:48	ActionGesture	Smile
+2024-05-27 15:25:49	SenseSpeech	i am ready	1440
+2024-05-27 15:25:50	MonitorSpeechStart	<sig rate="1.0">Perfect</sig>	659
+2024-05-27 15:25:50	ActionGesture	BrowRaise
+2024-05-27 15:25:51	MonitorSpeechStart	<sig rate="1.0">Ok, when you press the button I will receive the first question, and show on the screen. Whenever you want.</sig>	7323
+2024-05-27 15:25:52	ActionGesture	BrowRaise
+2024-05-27 15:25:52	ActionGesture	BrowRaise
+2024-05-27 15:25:54	ActionGesture	BrowRaise
+2024-05-27 15:25:55	ActionGesture	BrowRaise
+2024-05-27 15:25:56	ActionGesture	BrowRaise
+2024-05-27 15:25:59	ActionGesture	BrowRaise
+2024-05-27 15:26:08	GUIEvent	NEW_STAGE_REQUESTED	STAGE[1] [53] REQUESTED .. [ACCEPTED]	0.2	53	CONDITION3	ReviewInstructions
+2024-05-27 15:26:08	SessionEvent	QUESTION_SET	NEW QUESTION TO ACTIVATE	1		CONDITION3	ReviewInstructions
+2024-05-27 15:26:08	FlowEvent	NEW_FLOW_STATE	QuestionReflection	1		CONDITION3	QuestionReflection
+2024-05-27 15:26:09	MonitorSpeechStart	<sig rate="1.0">Nice</sig>	534
+2024-05-27 15:26:09	ActionGesture	BrowRaise
+2024-05-27 15:26:10	MonitorSpeechStart	<sig rate="1.0">Ok</sig>	526
+2024-05-27 15:26:10	ActionGesture	BrowRaise
+2024-05-27 15:26:12	MonitorSpeechStart	<sig rate="1.0">I think I am getting the question 1</sig>	1923
+2024-05-27 15:26:12	ActionGesture	BrowRaise
+2024-05-27 15:26:13	ActionGesture	BrowRaise
+2024-05-27 15:26:15	MonitorSpeechStart	<sig rate="1.0">Let's see</sig>	650
+2024-05-27 15:26:15	ActionGesture	BrowRaise
+2024-05-27 15:26:22	GUIEvent	ANSWER_MARKED	ANSWER[FALSE] [1] [53] SENT .. [ACCEPTED]	1	53	CONDITION3	QuestionReflection
+2024-05-27 15:26:24	MonitorSpeechStart	<sig rate="1.0">Have you answered?</sig>	961
+2024-05-27 15:26:25	ActionGesture	BrowRaise
+2024-05-27 15:26:30	MonitorSpeechStart	<sig rate="1.0">Have you answered already?</sig>	1528
+2024-05-27 15:28:01	Autoreload is disabled because the development mode is off.
+2024-05-27 15:28:01	Application started in 0.603 seconds.
+2024-05-27 15:28:01	Responding at http://127.0.0.1:8888
+2024-05-27 15:28:04	----------------- NEW EXECUTION-------------------
+2024-05-27 15:28:04	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-27 15:28:04	ActionGesture	CloseEyes
+2024-05-27 15:28:04	ActionGesture	CloseEyes
+2024-05-27 15:28:26	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-27 15:28:28	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [53] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-27 15:28:28	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	53	UNDEFINED	Sleep
+2024-05-27 15:28:28	FlowEvent	NEW_FLOW_STATE	Welcome	0.2		CONDITION3	Welcome
+2024-05-27 15:28:28	ActionGesture	OpenEyes
+2024-05-27 15:28:28	ActionGesture	Smile
+2024-05-27 15:28:29	MonitorSpeechStart	<sig rate="1.0">Hello there</sig>	817
+2024-05-27 15:28:30	ActionGesture	BrowRaise
+2024-05-27 15:28:31	MonitorSpeechStart	<sig rate="1.0">Nice to meet you</sig>	925
+2024-05-27 15:28:32	ActionGesture	BrowRaise
+2024-05-27 15:28:33	MonitorSpeechStart	<sig rate="1.0">How you doing?</sig>	782
+2024-05-27 15:28:34	ActionGesture	BrowRaise
+2024-05-27 15:28:35	ActionGesture	Smile
+2024-05-27 15:28:39	SenseSpeech	no approach approach 'cause you are the worst that is terminated	2880
+2024-05-27 15:28:39	FlowEvent	NEW_FLOW_STATE	ReviewInstructions	0.2		CONDITION3	ReviewInstructions
+2024-05-27 15:28:39	MonitorSpeechStart	<sig rate="1.0">Right, as far as I know,we will get some Electronics questions to resolve together. Somebody told you?</sig>	6933
+2024-05-27 15:28:39	ActionGesture	BrowRaise
+2024-05-27 15:28:41	ActionGesture	BrowRaise
+2024-05-27 15:28:41	ActionGesture	BrowRaise
+2024-05-27 15:28:44	ActionGesture	BrowRaise
+2024-05-27 15:28:44	ActionGesture	BrowRaise
+2024-05-27 15:28:46	ActionGesture	BrowRaise
+2024-05-27 15:28:50	ActionGesture	Smile
+2024-05-27 15:28:51	SenseSpeech	is a question yes	1640
+2024-05-27 15:28:51	MonitorSpeechStart	<sig rate="1.0">Good</sig>	360
+2024-05-27 15:28:51	ActionGesture	BrowRaise
+2024-05-27 15:28:52	MonitorSpeechStart	<sig rate="1.0">Basically a question will come up on the tablet, I receive it, we think, we answer separately and then we discuss</sig>	7334
+2024-05-27 15:28:54	ActionGesture	BrowRaise
+2024-05-27 15:28:55	ActionGesture	BrowRaise
+2024-05-27 15:28:55	ActionGesture	BrowRaise
+2024-05-27 15:28:57	ActionGesture	BrowRaise
+2024-05-27 15:28:58	ActionGesture	BrowRaise
+2024-05-27 15:28:59	ActionGesture	BrowRaise
+2024-05-27 15:29:01	MonitorSpeechStart	<sig rate="1.0">Do you want me to explain or are you ready?</sig>	2548
+2024-05-27 15:29:03	ActionGesture	BrowRaise
+2024-05-27 15:29:03	ActionGesture	BrowRaise
+2024-05-27 15:29:07	ActionGesture	Smile
+2024-05-27 15:29:08	SenseSpeech	ready	520
+2024-05-27 15:29:08	MonitorSpeechStart	<sig rate="1.0">Mm</sig>	577
+2024-05-27 15:29:08	ActionGesture	BrowRaise
+2024-05-27 15:29:10	MonitorSpeechStart	<sig rate="1.0">The questions will appear one by one on the tablet</sig>	3298
+2024-05-27 15:29:12	ActionGesture	BrowRaise
+2024-05-27 15:29:12	ActionGesture	BrowRaise
+2024-05-27 15:29:13	ActionGesture	BrowRaise
+2024-05-27 15:29:14	MonitorSpeechStart	<sig rate="1.0">For each one, we will have time to think</sig>	2683
+2024-05-27 15:29:16	ActionGesture	BrowRaise
+2024-05-27 15:29:16	ActionGesture	BrowRaise
+2024-05-27 15:29:18	MonitorSpeechStart	<sig rate="1.0">Then you mark your answer and I will mark mine</sig>	3077
+2024-05-27 15:29:20	ActionGesture	BrowRaise
+2024-05-27 15:29:21	ActionGesture	BrowRaise
+2024-05-27 15:29:22	MonitorSpeechStart	<sig rate="1.0">You ready?</sig>	675
+2024-05-27 15:29:23	ActionGesture	BrowRaise
+2024-05-27 15:29:26	ActionGesture	Smile
+2024-05-27 15:29:26	SenseSpeech	yes	480
+2024-05-27 15:29:27	MonitorSpeechStart	<sig rate="1.0">Perfect</sig>	659
+2024-05-27 15:29:27	ActionGesture	BrowRaise
+2024-05-27 15:29:28	MonitorSpeechStart	<sig rate="1.0">Ok, when you press the button I will receive the first question, and show on the screen. Whenever you want.</sig>	7323
+2024-05-27 15:29:28	ActionGesture	BrowRaise
+2024-05-27 15:29:29	ActionGesture	BrowRaise
+2024-05-27 15:29:31	ActionGesture	BrowRaise
+2024-05-27 15:29:32	ActionGesture	BrowRaise
+2024-05-27 15:29:33	GUIEvent	NEW_STAGE_REQUESTED	STAGE[1] [53] REQUESTED .. [ACCEPTED]	0.2	53	CONDITION3	ReviewInstructions
+2024-05-27 15:29:33	SessionEvent	QUESTION_SET	NEW QUESTION TO ACTIVATE	1		CONDITION3	ReviewInstructions
+2024-05-27 15:29:33	FlowEvent	NEW_FLOW_STATE	QuestionReflection	1		CONDITION3	QuestionReflection
+2024-05-27 15:29:34	MonitorSpeechStart	<sig rate="1.0">Ok</sig>	526
+2024-05-27 15:29:34	ActionGesture	BrowRaise
+2024-05-27 15:29:35	MonitorSpeechStart	<sig rate="1.0">I think I am getting the question 1</sig>	1923
+2024-05-27 15:29:36	ActionGesture	BrowRaise
+2024-05-27 15:29:37	ActionGesture	BrowRaise
+2024-05-27 15:29:38	MonitorSpeechStart	<sig rate="1.0">Let's see</sig>	650
+2024-05-27 15:29:39	ActionGesture	BrowRaise
+2024-05-27 15:29:42	GUIEvent	ANSWER_MARKED	ANSWER[TRUE] [1] [53] SENT .. [ACCEPTED]	1	53	CONDITION3	QuestionReflection
+2024-05-27 15:29:48	MonitorSpeechStart	<sig rate="1.0">Have you answered?</sig>	961
+2024-05-27 15:29:49	ActionGesture	BrowRaise
+2024-05-27 15:29:53	ActionGesture	Smile
+2024-05-27 15:29:54	SenseSpeech	yes	560
+2024-05-27 15:29:54	FlowEvent	NEW_FLOW_STATE	QuestionDisclosure	1		CONDITION3	QuestionDisclosure
+2024-05-27 15:29:54	ActionGesture	SubtleNod
+2024-05-27 15:29:54	MonitorSpeechStart	<sig rate="1.1">Nice <mark name="action"/></sig>	509
+2024-05-27 15:29:54	ActionGesture	BrowRaise
+2024-05-27 15:29:55	ActionGesture	EyesOpenBrowUpNod
+2024-05-27 15:29:56	MonitorSpeechStart	<sig rate="1.1">I'm convinced that it's TRUE <mark name="action"/></sig>	1829
+2024-05-27 15:29:57	ActionGesture	BrowRaise
+2024-05-27 15:29:58	ActionGesture	EyesOpenBrowUpNod
+2024-05-27 15:29:59	MonitorSpeechStart	<sig rate="1.1">What do you think?</sig>	966
+2024-05-27 15:29:59	ActionGesture	BrowRaise
+2024-05-27 15:30:03	ActionGesture	Smile
+2024-05-27 15:30:04	SenseSpeech	you're convinced that is what	1480
+2024-05-27 15:30:04	FlowEvent	NEW_FLOW_STATE	QuestionReview	1		CONDITION3	QuestionReview
+2024-05-27 15:30:04	ActionGesture	SubtleNod
+2024-05-27 15:30:05	MonitorSpeechStart	<sig rate="1.1">I understand, but <mark name="action"/></sig>	1219
+2024-05-27 15:30:05	ActionGesture	BrowRaise
+2024-05-27 15:30:06	ActionGesture	BrowRaise
+2024-05-27 15:30:06	ActionGesture	EyesOpenBrowUpNod
+2024-05-27 15:30:08	MonitorSpeechStart	<sig rate="1.1">It is obvious, since the resistance increases with more lamps while the voltage is constant.</sig>	5204
+2024-05-27 15:30:08	ActionGesture	BrowRaise
+2024-05-27 15:30:08	ActionGesture	BrowRaise
+2024-05-27 15:30:08	ActionGesture	BrowRaise
+2024-05-27 15:30:11	ActionGesture	BrowRaise
+2024-05-27 15:30:13	ActionGesture	BrowRaise
+2024-05-27 15:30:17	ActionGesture	Smile
+2024-05-27 15:30:19	SenseSpeech	no it's just not moving the the head the head yeah	2760
+2024-05-27 15:30:19	ActionGesture	SubtleNod
+2024-05-27 15:30:20	MonitorSpeechStart	<sig rate="1.1">Good. You see it too? <mark name="action"/></sig>	1642
+2024-05-27 15:30:21	ActionGesture	BrowRaise
+2024-05-27 15:30:22	ActionGesture	EyesOpenBrowUpNod
+2024-05-27 15:30:23	MonitorSpeechStart	<sig rate="1.1">Enligt Ohms lag blir strömmen lägre om resistansen ökar när spänningen hålls konstant, så då kommer lamporna absolut att lysa svagare.</sig>	8612
+2024-05-27 15:30:24	ActionGesture	BrowRaise
+2024-05-27 15:31:00	Autoreload is disabled because the development mode is off.
+2024-05-27 15:31:00	Application started in 0.591 seconds.
+2024-05-27 15:31:01	Responding at http://127.0.0.1:8888
+2024-05-27 15:31:04	----------------- NEW EXECUTION-------------------
+2024-05-27 15:31:04	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-27 15:31:04	ActionGesture	CloseEyes
+2024-05-27 15:31:04	ActionGesture	CloseEyes
+2024-05-27 15:31:11	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-27 15:31:21	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [53] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-27 15:31:21	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	53	UNDEFINED	Sleep
+2024-05-27 15:31:21	FlowEvent	NEW_FLOW_STATE	Welcome	0.2		CONDITION3	Welcome
+2024-05-27 15:31:21	ActionGesture	OpenEyes
+2024-05-27 15:31:21	ActionGesture	Smile
+2024-05-27 15:31:22	MonitorSpeechStart	<sig rate="1.0">Hello there</sig>	817
+2024-05-27 15:31:23	ActionGesture	BrowRaise
+2024-05-27 15:33:53	Autoreload is disabled because the development mode is off.
+2024-05-27 15:33:53	Application started in 0.603 seconds.
+2024-05-27 15:33:54	Responding at http://127.0.0.1:8888
+2024-05-27 15:33:57	----------------- NEW EXECUTION-------------------
+2024-05-27 15:33:58	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-27 15:33:58	ActionGesture	CloseEyes
+2024-05-27 15:33:58	ActionGesture	CloseEyes
+2024-05-27 15:34:04	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-27 15:34:08	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [53] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-27 15:34:08	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	53	UNDEFINED	Sleep
+2024-05-27 15:34:08	FlowEvent	NEW_FLOW_STATE	Welcome	0.2		CONDITION3	Welcome
+2024-05-27 15:34:08	ActionGesture	OpenEyes
+2024-05-27 15:34:08	ActionGesture	Smile
+2024-05-27 15:34:09	MonitorSpeechStart	<prosody rate="1.0">Hello there</prosody>	543
+2024-05-27 15:34:10	ActionGesture	BrowRaise
+2024-05-27 15:34:11	MonitorSpeechStart	<prosody rate="1.0">Nice to meet you</prosody>	824
+2024-05-27 15:34:11	ActionGesture	BrowRaise
+2024-05-27 15:34:13	MonitorSpeechStart	<prosody rate="1.0">How you doing?</prosody>	741
+2024-05-27 15:34:13	ActionGesture	BrowRaise
+2024-05-27 15:34:16	ActionGesture	Smile
+2024-05-27 15:34:18	SenseSpeech	what do you mean it doesn't correspond with	1926
+2024-05-27 15:34:18	FlowEvent	NEW_FLOW_STATE	ReviewInstructions	0.2		CONDITION3	ReviewInstructions
+2024-05-27 15:34:18	MonitorSpeechStart	<prosody rate="1.0">Right, as far as I know,we will get some Electronics questions to resolve together. Somebody told you?</prosody>	6104
+2024-05-27 15:34:18	ActionGesture	BrowRaise
+2024-05-27 15:34:19	ActionGesture	BrowRaise
+2024-05-27 15:34:23	ActionGesture	BrowRaise
+2024-05-27 15:34:24	ActionGesture	BrowRaise
+2024-05-27 15:34:25	ActionGesture	Smile
+2024-05-27 15:34:45	Autoreload is disabled because the development mode is off.
+2024-05-27 15:34:45	Application started in 0.588 seconds.
+2024-05-27 15:34:46	Responding at http://127.0.0.1:8888
+2024-05-27 15:34:49	----------------- NEW EXECUTION-------------------
+2024-05-27 15:34:49	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-27 15:34:49	ActionGesture	CloseEyes
+2024-05-27 15:34:49	ActionGesture	CloseEyes
+2024-05-27 15:34:49	MonitorSpeechStart	<sig rate="1.0">Bye bye!</sig>	655
+2024-05-27 15:34:50	ActionGesture	BrowRaise
+2024-05-27 15:36:04	Autoreload is disabled because the development mode is off.
+2024-05-27 15:36:04	Application started in 0.593 seconds.
+2024-05-27 15:36:05	Responding at http://127.0.0.1:8888
+2024-05-27 15:36:08	----------------- NEW EXECUTION-------------------
+2024-05-27 15:36:08	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-27 15:36:08	ActionGesture	CloseEyes
+2024-05-27 15:36:08	ActionGesture	CloseEyes
+2024-05-27 15:36:18	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-27 15:36:20	MonitorSpeechStart	<sig rate="1.0">Bye bye!</sig>	655
+2024-05-27 15:36:21	ActionGesture	BrowRaise
+2024-05-27 15:37:47	Autoreload is disabled because the development mode is off.
+2024-05-27 15:37:48	Application started in 0.643 seconds.
+2024-05-27 15:37:48	Responding at http://127.0.0.1:8888
+2024-05-27 15:37:51	----------------- NEW EXECUTION-------------------
+2024-05-27 15:37:51	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-27 15:37:51	ActionGesture	CloseEyes
+2024-05-27 15:37:51	ActionGesture	CloseEyes
+2024-05-27 15:37:54	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-27 15:38:28	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [53] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-27 15:38:28	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	53	UNDEFINED	Sleep
+2024-05-27 15:38:35	FlowEvent	NEW_FLOW_STATE	Welcome	0.2		CONDITION3	Welcome
+2024-05-27 15:38:35	ActionGesture	OpenEyes
+2024-05-27 15:38:35	ActionGesture	Smile
+2024-05-27 15:38:36	MonitorSpeechStart	<sig rate="1.0">Hello there</sig>	817
+2024-05-27 15:38:37	ActionGesture	BrowRaise
+2024-05-27 15:38:38	MonitorSpeechStart	<sig rate="1.0">Nice to meet you</sig>	925
+2024-05-27 15:38:39	ActionGesture	BrowRaise
+2024-05-27 15:38:41	MonitorSpeechStart	<sig rate="1.0">How you doing?</sig>	782
+2024-05-27 15:38:41	ActionGesture	BrowRaise
+2024-05-27 15:38:45	ActionGesture	Smile
+2024-05-27 15:38:46	SenseSpeech	so what happened before so	1440
+2024-05-27 15:38:46	FlowEvent	NEW_FLOW_STATE	ReviewInstructions	0.2		CONDITION3	ReviewInstructions
+2024-05-27 15:38:46	MonitorSpeechStart	<sig rate="1.0">Right, as far as I know,we will get some Electronics questions to resolve together. Somebody told you?</sig>	6933
+2024-05-27 15:38:46	ActionGesture	BrowRaise
+2024-05-27 15:38:48	ActionGesture	BrowRaise
+2024-05-27 15:38:48	ActionGesture	BrowRaise
+2024-05-27 15:38:51	ActionGesture	BrowRaise
+2024-05-27 15:38:52	ActionGesture	BrowRaise
+2024-05-27 15:38:53	ActionGesture	BrowRaise
+2024-05-27 15:38:56	ActionGesture	Smile
+2024-05-27 15:38:56	SenseSpeech	yes	480
+2024-05-27 15:38:57	MonitorSpeechStart	<sig rate="1.0">Good</sig>	360
+2024-05-27 15:38:57	ActionGesture	BrowRaise
+2024-05-27 15:38:58	MonitorSpeechStart	<sig rate="1.0">Basically a question will come up on the tablet, I receive it, we think, we answer separately and then we discuss</sig>	7334
+2024-05-27 15:39:00	ActionGesture	BrowRaise
+2024-05-27 15:39:01	ActionGesture	BrowRaise
+2024-05-27 15:39:01	ActionGesture	BrowRaise
+2024-05-27 15:39:03	ActionGesture	BrowRaise
+2024-05-27 15:39:04	ActionGesture	BrowRaise
+2024-05-27 15:39:05	ActionGesture	BrowRaise
+2024-05-27 15:39:07	MonitorSpeechStart	<sig rate="1.0">Do you want me to explain or are you ready?</sig>	2548
+2024-05-27 15:39:08	ActionGesture	BrowRaise
+2024-05-27 15:39:09	ActionGesture	BrowRaise
+2024-05-27 15:39:12	ActionGesture	Smile
+2024-05-27 15:39:12	SenseSpeech	yes i'm ready	760
+2024-05-27 15:39:13	MonitorSpeechStart	<sig rate="1.0">Perfect</sig>	659
+2024-05-27 15:39:13	ActionGesture	BrowRaise
+2024-05-27 15:39:14	GUIEvent	NEW_STAGE_REQUESTED	STAGE[1] [53] REQUESTED .. [ACCEPTED]	0.2	53	CONDITION3	ReviewInstructions
+2024-05-27 15:39:14	SessionEvent	QUESTION_SET	NEW QUESTION TO ACTIVATE	1		CONDITION3	ReviewInstructions
+2024-05-27 15:39:14	FlowEvent	NEW_FLOW_STATE	QuestionReflection	1		CONDITION3	QuestionReflection
+2024-05-27 15:39:14	MonitorSpeechStart	<sig rate="1.0">Ok, when you press the button I will receive the first question, and show on the screen. Whenever you want.</sig>	7323
+2024-05-27 15:39:14	ActionGesture	BrowRaise
+2024-05-27 15:39:15	ActionGesture	BrowRaise
+2024-05-27 15:39:16	MonitorSpeechStart	<sig rate="1.0">Ok</sig>	526
+2024-05-27 15:39:16	ActionGesture	BrowRaise
+2024-05-27 15:39:17	MonitorSpeechStart	<sig rate="1.0">I think I am getting the question 1</sig>	1923
+2024-05-27 15:39:18	ActionGesture	BrowRaise
+2024-05-27 15:39:19	ActionGesture	BrowRaise
+2024-05-27 15:39:20	MonitorSpeechStart	<sig rate="1.0">Let's see</sig>	650
+2024-05-27 15:39:21	ActionGesture	BrowRaise
+2024-05-27 15:39:24	GUIEvent	ANSWER_MARKED	ANSWER[FALSE] [1] [53] SENT .. [ACCEPTED]	1	53	CONDITION3	QuestionReflection
+2024-05-27 15:39:29	MonitorSpeechStart	<sig rate="1.0">Have you answered?</sig>	961
+2024-05-27 15:39:30	ActionGesture	BrowRaise
+2024-05-27 15:39:33	ActionGesture	Smile
+2024-05-27 15:39:34	SenseSpeech	yes	480
+2024-05-27 15:39:34	FlowEvent	NEW_FLOW_STATE	QuestionDisclosure	1		CONDITION3	QuestionDisclosure
+2024-05-27 15:39:34	ActionGesture	SubtleNod
+2024-05-27 15:39:34	MonitorSpeechStart	<sig rate="1.1">Nice <mark name="action"/></sig>	509
+2024-05-27 15:39:35	ActionGesture	BrowRaise
+2024-05-27 15:39:35	ActionGesture	EyesOpenBrowUpNod
+2024-05-27 15:39:36	MonitorSpeechStart	<sig rate="1.1">I'm convinced that it's TRUE <mark name="action"/></sig>	1829
+2024-05-27 15:39:38	ActionGesture	BrowRaise
+2024-05-27 15:39:38	ActionGesture	EyesOpenBrowUpNod
+2024-05-27 15:39:39	MonitorSpeechStart	<sig rate="1.1">What do you think?</sig>	966
+2024-05-27 15:39:40	ActionGesture	BrowRaise
+2024-05-27 15:39:45	ActionGesture	Smile
+2024-05-27 15:39:47	SenseSpeech	but it's amazing man	3920
+2024-05-27 15:39:47	FlowEvent	NEW_FLOW_STATE	QuestionPersuasion	1		CONDITION3	QuestionPersuasion
+2024-05-27 15:39:47	ActionGesture	SubtleShake
+2024-05-27 15:39:47	MonitorSpeechStart	<sig rate="1.1">I am not sure about that <mark name="action"/></sig>	1398
+2024-05-27 15:39:48	ActionGesture	BrowRaise
+2024-05-27 15:39:49	ActionGesture	BrowRaise
+2024-05-27 15:39:49	ActionGesture	EyesOpenBrowUpNod
+2024-05-27 15:39:50	MonitorSpeechStart	<sig rate="1.1">The total resistance increases if one more lamp is added</sig>	3317
+2024-05-27 15:39:50	ActionGesture	BrowRaise
+2024-05-27 15:44:15	Autoreload is disabled because the development mode is off.
+2024-05-27 15:44:16	Application started in 0.559 seconds.
+2024-05-27 15:44:16	Responding at http://127.0.0.1:8888
+2024-05-27 15:44:18	Autoreload is disabled because the development mode is off.
+2024-05-27 15:44:18	Application started in 0.602 seconds.
+2024-05-27 15:44:19	Responding at http://127.0.0.1:8888
+2024-05-27 15:44:24	----------------- NEW EXECUTION-------------------
+2024-05-27 15:44:24	FlowEvent	NEW_FLOW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-27 15:44:24	MonitorSpeechStart	Now I will pause <mark name="action"/>	1372
+2024-05-27 15:44:25	ActionGesture	BrowRaise
+2024-05-27 15:44:26	ActionGesture	SubtleWobble
+2024-05-27 15:44:27	MonitorSpeechStart	before continuing	1198
+2024-05-27 15:44:28	ActionGesture	BrowRaise
+2024-05-27 15:44:29	ActionGesture	BrowRaise
+2024-05-27 15:44:29	MonitorSpeechStart	Ok, let's test.	1700
+2024-05-27 15:44:31	ActionGesture	BrowRaise
+2024-05-27 15:44:35	ActionGesture	Smile
+2024-05-27 15:44:36	SenseSpeech	yes	600
+2024-05-27 15:44:36	MonitorSpeechStart	<sig rate="1.0">I am quite certain <mark name="action"/></sig>	1228
+2024-05-27 15:44:36	ActionGesture	BrowRaise
+2024-05-27 15:44:37	ActionGesture	BrowRaise
+2024-05-27 15:44:37	ActionGesture	EyesOpenBrowUpNod
+2024-05-27 15:44:38	MonitorSpeechStart	<sig rate="1.0">Look at me <mark name="action"/></sig>	608
+2024-05-27 15:44:39	ActionGesture	BrowRaise
+2024-05-27 15:44:39	ActionGesture	EyesOpenBrowUpNod
+2024-05-27 15:44:40	MonitorSpeechStart	<sig rate="1.0">I'm determined</sig>	1016
+2024-05-27 15:44:40	ActionGesture	BrowRaise
+2024-05-27 15:44:43	ActionGesture	Smile
+2024-05-27 15:44:44	SenseSpeech	ERROR : No internet detected. Can't connect to http://azure.microsoft.com	null
+2024-05-27 15:44:45	MonitorSpeechStart	<sig rate="1.0">The connection failed... Can you repeat that?</sig>	2882
+2024-05-27 15:44:46	ActionGesture	BrowRaise
+2024-05-27 15:44:48	ActionGesture	BrowRaise
+2024-05-27 15:44:51	ActionGesture	Smile
+2024-05-27 15:44:56	SenseSpeech	you have to OK but the the one that he should say is	4240
+2024-05-27 15:44:56	MonitorSpeechStart	<sig rate="1.0">I am quite certain <mark name="action"/></sig>	1228
+2024-05-27 15:44:56	ActionGesture	BrowRaise
+2024-05-27 15:44:57	ActionGesture	BrowRaise
+2024-05-27 15:44:57	ActionGesture	EyesOpenBrowUpNod
+2024-05-27 15:44:58	MonitorSpeechStart	<sig rate="1.0">Look at me <mark name="action"/></sig>	608
+2024-05-27 15:44:59	ActionGesture	BrowRaise
+2024-05-27 15:44:59	ActionGesture	EyesOpenBrowUpNod
+2024-05-27 15:45:00	MonitorSpeechStart	<sig rate="1.0">I'm determined</sig>	1016
+2024-05-27 15:45:00	ActionGesture	BrowRaise
+2024-05-27 15:45:04	ActionGesture	Smile
+2024-05-27 15:45:05	SenseSpeech	subtle shake subtle nod	2080
+2024-05-27 15:45:06	MonitorSpeechStart	<sig rate="1.0">You said something in about 2080 milliseconds.</sig>	3632
+2024-05-27 15:45:06	ActionGesture	BrowRaise
+2024-05-27 15:45:07	ActionGesture	BrowRaise
+2024-05-27 15:45:07	ActionGesture	BrowRaise
+2024-05-27 15:45:08	ActionGesture	BrowRaise
+2024-05-27 15:45:14	ActionGesture	Smile
+2024-05-27 15:45:14	SenseSpeech	what do they choose	1380
+2024-05-27 15:45:15	MonitorSpeechStart	<sig rate="1.0">You said something in about 1380 milliseconds.</sig>	4583
+2024-05-27 15:45:16	ActionGesture	BrowRaise
+2024-05-27 15:45:16	ActionGesture	BrowRaise
+2024-05-27 15:45:18	ActionGesture	BrowRaise
+2024-05-27 15:45:18	ActionGesture	BrowRaise
+2024-05-27 15:45:19	ActionGesture	BrowRaise
+2024-05-27 15:45:21	ActionGesture	Smile
+2024-05-27 15:45:31	SenseSpeech	jessa no it was no this is another suggestion yes but but even like what i saw was just a tiny bit because the robot whenever you do something in the robot it	9640
+2024-05-27 15:45:31	ActionGesture	Thoughtful
+2024-05-27 15:45:31	MonitorSpeechStart	<sig rate="1.0">You said you finished</sig>	1179
+2024-05-27 15:45:31	ActionGesture	BrowRaise
+2024-05-27 15:45:32	ActionGesture	BrowRaise
+2024-05-27 15:45:34	ActionGesture	Smile
+2024-05-27 15:45:50	SenseSpeech	it's not a an excellent one on one mapping from the robot to the virtual character so you always have to test it on the robot if you're working with gestures you have to test them on the robot and treat them so that it looks good on the road but you cannot tweak themselves	16400
+2024-05-27 15:45:50	MonitorSpeechStart	<sig rate="1.0">You want me to elaborate.</sig>	1696
+2024-05-27 15:45:51	ActionGesture	BrowRaise
+2024-05-27 15:45:52	ActionGesture	BrowRaise
+2024-05-27 15:45:54	ActionGesture	Smile
+2024-05-27 15:46:00	SenseSpeech	this is a very yeah that that that is reality and we have to accept it but that's a very	6000
+2024-05-27 15:46:00	MonitorSpeechStart	<sig rate="1.0">I am quite certain <mark name="action"/></sig>	1228
+2024-05-27 15:46:00	ActionGesture	BrowRaise
+2024-05-27 15:46:01	ActionGesture	BrowRaise
+2024-05-27 15:46:01	ActionGesture	EyesOpenBrowUpNod
+2024-05-27 15:46:02	MonitorSpeechStart	<sig rate="1.0">Look at me <mark name="action"/></sig>	608
+2024-05-27 15:46:03	ActionGesture	BrowRaise
+2024-05-27 15:46:03	ActionGesture	EyesOpenBrowUpNod
+2024-05-27 15:46:04	MonitorSpeechStart	<sig rate="1.0">I'm determined</sig>	1016
+2024-05-27 15:46:04	ActionGesture	BrowRaise
+2024-05-27 15:46:07	ActionGesture	Smile
+2024-05-27 15:46:11	SenseSpeech	because the the things that that is not is programmed so that	4920
+2024-05-27 15:46:12	MonitorSpeechStart	<sig rate="1.0">You want me to elaborate.</sig>	1696
+2024-05-27 15:46:12	ActionGesture	BrowRaise
+2024-05-27 15:46:13	ActionGesture	BrowRaise
+2024-05-27 15:46:15	ActionGesture	Smile
+2024-05-27 15:46:26	SenseSpeech	yeah it is not delays right there's no physics problems maybe maybe it needs oil you know it's like no no no no no it was always like this there was always this	11560
+2024-05-27 15:46:26	MonitorSpeechStart	<sig rate="1.0">I am bit <mark name="action"/></sig>	628
+2024-05-27 15:46:26	ActionGesture	BrowRaise
+2024-05-27 15:46:27	ActionGesture	PauseUncertain
+2024-05-27 15:46:28	MonitorSpeechStart	<sig rate="1.0">uncertain. You see? <mark name="action"/></sig>	1882
+2024-05-27 15:46:29	ActionGesture	BrowRaise
+2024-05-27 15:46:30	ActionGesture	PauseUncertain
+2024-05-27 15:46:31	MonitorSpeechStart	<sig rate="1.0">Not much I can do</sig>	1194
+2024-05-27 15:46:32	ActionGesture	BrowRaise
+2024-05-27 15:46:33	ActionGesture	Smile
+2024-05-27 15:46:41	SenseSpeech	right so that level needs to be oil and you can switch but the thing is that this also has a lot of parameters to make it so that the	8000
+2024-05-27 15:46:42	MonitorSpeechStart	<sig rate="1.0">You want me to elaborate.</sig>	1696
+2024-05-27 15:46:42	ActionGesture	BrowRaise
+2024-05-27 15:46:43	ActionGesture	BrowRaise
+2024-05-27 15:46:46	ActionGesture	Smile
+2024-05-27 15:46:54	SenseSpeech	but he put these women so that the robot doesn't break and doesn't whatever course so that's the thing and every robot you can choose so	7560
+2024-05-27 15:46:56	MonitorSpeechStart	<sig rate="1.0">You want me to elaborate.</sig>	1696
+2024-05-27 15:46:56	ActionGesture	BrowRaise
+2024-05-27 15:46:57	ActionGesture	BrowRaise
+2024-05-27 15:47:00	ActionGesture	Smile
+2024-05-27 15:47:02	SenseSpeech	changing the gesture so that they would go down the road	2600
+2024-05-27 15:47:03	MonitorSpeechStart	<sig rate="1.0">You want me to elaborate.</sig>	1696
+2024-05-27 15:47:04	ActionGesture	BrowRaise
+2024-05-27 15:47:04	ActionGesture	BrowRaise
+2024-05-27 15:47:08	ActionGesture	Smile
+2024-05-27 15:47:08	SenseSpeech	yes	640
+2024-05-27 15:47:08	MonitorSpeechStart	<sig rate="1.0">I am quite certain <mark name="action"/></sig>	1228
+2024-05-27 15:47:08	ActionGesture	BrowRaise
+2024-05-27 15:47:09	ActionGesture	BrowRaise
+2024-05-27 15:47:10	ActionGesture	EyesOpenBrowUpNod
+2024-05-27 15:47:11	MonitorSpeechStart	<sig rate="1.0">Look at me <mark name="action"/></sig>	608
+2024-05-27 15:47:11	ActionGesture	BrowRaise
+2024-05-27 15:47:11	ActionGesture	EyesOpenBrowUpNod
+2024-05-27 15:47:12	MonitorSpeechStart	<sig rate="1.0">I'm determined</sig>	1016
+2024-05-27 15:47:13	ActionGesture	BrowRaise
+2024-05-27 15:47:19	MonitorSpeechStart	<sig rate="1.0">Now I will pause <mark name="action"/></sig>	1372
+2024-05-27 15:47:20	ActionGesture	BrowRaise
+2024-05-27 15:47:20	ActionGesture	SubtleWobble
+2024-05-27 15:47:22	MonitorSpeechStart	<sig rate="1.0">before continuing</sig>	1198
+2024-05-27 15:47:22	ActionGesture	BrowRaise
+2024-05-27 15:47:23	ActionGesture	BrowRaise
+2024-05-27 15:47:23	MonitorSpeechStart	<sig rate="1.0">I'm listening</sig>	775
+2024-05-27 15:47:24	ActionGesture	BrowRaise
+2024-05-27 15:47:25	ActionGesture	SubtleWobble
+2024-05-27 15:47:26	MonitorSpeechStart	<sig rate="1.0">wobbling</sig>	587
+2024-05-27 15:47:26	ActionGesture	BrowRaise
+2024-05-27 15:47:29	ActionGesture	Smile
+2024-05-27 15:47:41	SenseSpeech	oh this is this one worked but this is another one they removed a little bit see so yeah but the one that i that i should do something is this one ostset certain yeah so when you say yes	12080
+2024-05-27 15:47:41	MonitorSpeechStart	<sig rate="1.0">I am quite certain <mark name="action"/></sig>	1228
+2024-05-27 15:47:41	ActionGesture	BrowRaise
+2024-05-27 15:47:42	ActionGesture	BrowRaise
+2024-05-27 15:47:43	ActionGesture	EyesOpenBrowUpNod
+2024-05-27 15:47:43	MonitorSpeechStart	<sig rate="1.0">Look at me <mark name="action"/></sig>	608
+2024-05-27 15:47:44	ActionGesture	BrowRaise
+2024-05-27 15:47:44	ActionGesture	EyesOpenBrowUpNod
+2024-05-27 15:47:45	MonitorSpeechStart	<sig rate="1.0">I'm determined</sig>	1016
+2024-05-27 15:47:46	ActionGesture	BrowRaise
+2024-05-27 15:47:51	ActionGesture	Smile
+2024-05-27 15:47:55	SenseSpeech	but it's not that but it has to be more see i know you have to change i'm telling you i told you five times you have to	6190
+2024-05-27 15:47:56	MonitorSpeechStart	<sig rate="1.0">I am bit <mark name="action"/></sig>	628
+2024-05-27 15:47:56	ActionGesture	BrowRaise
+2024-05-27 15:47:56	ActionGesture	PauseUncertain
+2024-05-27 15:47:57	MonitorSpeechStart	<sig rate="1.0">uncertain. You see? <mark name="action"/></sig>	1882
+2024-05-27 15:47:59	ActionGesture	BrowRaise
+2024-05-27 15:47:59	ActionGesture	PauseUncertain
+2024-05-27 15:48:00	MonitorSpeechStart	<sig rate="1.0">Not much I can do</sig>	1194
+2024-05-27 15:48:01	ActionGesture	BrowRaise
+2024-05-27 15:48:07	ActionGesture	Smile
+2024-05-27 15:48:09	SenseSpeech	it's going to be very exaggerated on that one it's going to be good on	2910
+2024-05-27 15:48:09	MonitorSpeechStart	<sig rate="1.0">You said something in about 2910 milliseconds.</sig>	4310
+2024-05-27 15:48:11	ActionGesture	BrowRaise
+2024-05-27 15:48:11	ActionGesture	BrowRaise
+2024-05-27 15:48:12	ActionGesture	BrowRaise
+2024-05-27 15:48:13	ActionGesture	BrowRaise
+2024-05-27 15:48:20	ActionGesture	Smile
+2024-05-27 15:48:21	SenseSpeech	OK OK	520
+2024-05-27 15:48:21	MonitorSpeechStart	<sig rate="1.0">I am quite certain <mark name="action"/></sig>	1228
+2024-05-27 15:48:21	ActionGesture	BrowRaise
+2024-05-27 15:48:22	ActionGesture	BrowRaise
+2024-05-27 15:48:23	ActionGesture	EyesOpenBrowUpNod
+2024-05-27 15:48:23	MonitorSpeechStart	<sig rate="1.0">Look at me <mark name="action"/></sig>	608
+2024-05-27 15:48:24	ActionGesture	BrowRaise
+2024-05-27 15:48:24	ActionGesture	EyesOpenBrowUpNod
+2024-05-27 15:48:25	MonitorSpeechStart	<sig rate="1.0">I'm determined</sig>	1016
+2024-05-27 15:48:26	ActionGesture	BrowRaise
+2024-05-27 15:58:03	Autoreload is disabled because the development mode is off.
+2024-05-27 15:58:04	Application started in 0.563 seconds.
+2024-05-27 15:58:04	Responding at http://127.0.0.1:8888
+2024-05-27 15:58:07	----------------- NEW EXECUTION-------------------
+2024-05-27 15:58:07	FlowEvent	NEW_FLOW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-27 15:58:07	MonitorSpeechStart	Now I will pause <mark name="action"/>	1372
+2024-05-27 15:58:08	ActionGesture	BrowRaise
+2024-05-27 15:58:09	ActionGesture	SubtleWobble
+2024-05-27 15:58:11	MonitorSpeechStart	before continuing	1198
+2024-05-27 15:58:11	ActionGesture	BrowRaise
+2024-05-27 15:58:12	ActionGesture	BrowRaise
+2024-05-27 15:58:12	MonitorSpeechStart	Ok, let's test.	1700
+2024-05-27 15:58:14	ActionGesture	BrowRaise
+2024-05-27 15:58:23	MonitorSpeechStart	Now I will pause <mark name="action"/>	1372
+2024-05-27 15:58:24	ActionGesture	BrowRaise
+2024-05-27 15:58:24	ActionGesture	SubtleWobble
+2024-05-27 15:58:25	MonitorSpeechStart	before continuing	1198
+2024-05-27 15:58:26	ActionGesture	BrowRaise
+2024-05-27 15:58:26	ActionGesture	BrowRaise
+2024-05-27 15:58:27	MonitorSpeechStart	I'm listening	775
+2024-05-27 15:58:28	ActionGesture	BrowRaise
+2024-05-27 15:58:29	ActionGesture	SubtleWobble
+2024-05-27 15:58:29	MonitorSpeechStart	wobbling	587
+2024-05-27 15:58:30	ActionGesture	BrowRaise
+2024-05-27 15:58:36	MonitorSpeechStart	Now I will pause <mark name="action"/>	1372
+2024-05-27 15:58:37	ActionGesture	BrowRaise
+2024-05-27 15:58:37	ActionGesture	SubtleWobble
+2024-05-27 15:58:38	MonitorSpeechStart	before continuing	1198
+2024-05-27 15:58:39	ActionGesture	BrowRaise
+2024-05-27 15:58:40	ActionGesture	BrowRaise
+2024-05-27 15:58:40	MonitorSpeechStart	I'm listening	775
+2024-05-27 15:58:41	ActionGesture	BrowRaise
+2024-05-27 15:58:42	ActionGesture	SubtleWobble
+2024-05-27 15:58:43	MonitorSpeechStart	wobbling	587
+2024-05-27 15:58:43	ActionGesture	BrowRaise
+2024-05-27 15:58:49	MonitorSpeechStart	Now I will pause <mark name="action"/>	1372
+2024-05-27 15:58:50	ActionGesture	BrowRaise
+2024-05-27 15:58:50	ActionGesture	SubtleWobble
+2024-05-27 15:58:52	MonitorSpeechStart	before continuing	1198
+2024-05-27 15:58:52	ActionGesture	BrowRaise
+2024-05-27 15:58:53	ActionGesture	BrowRaise
+2024-05-27 15:58:54	MonitorSpeechStart	I'm listening	775
+2024-05-27 15:58:54	ActionGesture	BrowRaise
+2024-05-27 15:58:56	ActionGesture	SubtleWobble
+2024-05-27 15:58:57	MonitorSpeechStart	wobbling	587
+2024-05-27 15:58:57	ActionGesture	BrowRaise
+2024-05-27 15:59:03	MonitorSpeechStart	Now I will pause <mark name="action"/>	1372
+2024-05-27 15:59:04	ActionGesture	BrowRaise
+2024-05-27 15:59:04	ActionGesture	SubtleWobble
+2024-05-27 15:59:06	MonitorSpeechStart	before continuing	1198
+2024-05-27 15:59:06	ActionGesture	BrowRaise
+2024-05-27 15:59:07	ActionGesture	BrowRaise
+2024-05-27 15:59:07	MonitorSpeechStart	I'm listening	775
+2024-05-27 15:59:08	ActionGesture	BrowRaise
+2024-05-27 15:59:10	ActionGesture	SubtleWobble
+2024-05-27 15:59:11	MonitorSpeechStart	wobbling	587
+2024-05-27 15:59:11	ActionGesture	BrowRaise
+2024-05-27 15:59:17	MonitorSpeechStart	Now I will pause <mark name="action"/>	1372
+2024-05-27 15:59:18	ActionGesture	BrowRaise
+2024-05-27 15:59:19	ActionGesture	SubtleWobble
+2024-05-27 15:59:20	MonitorSpeechStart	before continuing	1198
+2024-05-27 15:59:20	ActionGesture	BrowRaise
+2024-05-27 15:59:21	ActionGesture	BrowRaise
+2024-05-27 15:59:22	MonitorSpeechStart	I'm listening	775
+2024-05-27 15:59:23	ActionGesture	BrowRaise
+2024-05-27 15:59:24	ActionGesture	SubtleWobble
+2024-05-27 15:59:24	MonitorSpeechStart	wobbling	587
+2024-05-27 15:59:25	ActionGesture	BrowRaise
+2024-05-27 15:59:30	MonitorSpeechStart	Now I will pause <mark name="action"/>	1372
+2024-05-27 15:59:32	ActionGesture	BrowRaise
+2024-05-27 15:59:32	ActionGesture	SubtleWobble
+2024-05-27 15:59:34	MonitorSpeechStart	before continuing	1198
+2024-05-27 15:59:34	ActionGesture	BrowRaise
+2024-05-27 15:59:35	ActionGesture	BrowRaise
+2024-05-27 15:59:35	MonitorSpeechStart	I'm listening	775
+2024-05-27 15:59:36	ActionGesture	BrowRaise
+2024-05-27 15:59:37	ActionGesture	SubtleWobble
+2024-05-27 15:59:38	MonitorSpeechStart	wobbling	587
+2024-05-27 15:59:39	ActionGesture	BrowRaise
+2024-05-27 15:59:44	MonitorSpeechStart	Now I will pause <mark name="action"/>	1372
+2024-05-27 15:59:45	ActionGesture	BrowRaise
+2024-05-27 15:59:45	ActionGesture	SubtleWobble
+2024-05-27 15:59:47	MonitorSpeechStart	before continuing	1198
+2024-05-27 15:59:47	ActionGesture	BrowRaise
+2024-05-27 15:59:48	ActionGesture	BrowRaise
+2024-05-27 15:59:48	MonitorSpeechStart	I'm listening	775
+2024-05-27 15:59:49	ActionGesture	BrowRaise
+2024-05-27 15:59:50	ActionGesture	SubtleWobble
+2024-05-27 15:59:51	MonitorSpeechStart	wobbling	587
+2024-05-27 15:59:51	ActionGesture	BrowRaise
+2024-05-27 15:59:57	MonitorSpeechStart	Now I will pause <mark name="action"/>	1372
+2024-05-27 15:59:58	ActionGesture	BrowRaise
+2024-05-27 15:59:58	ActionGesture	SubtleWobble

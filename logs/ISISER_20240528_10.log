@@ -1,0 +1,83 @@
+2024-05-28 10:42:12	Autoreload is disabled because the development mode is off.
+2024-05-28 10:42:13	Application started in 0.724 seconds.
+2024-05-28 10:42:13	Responding at http://127.0.0.1:8888
+2024-05-28 10:42:15	----------------- NEW EXECUTION-------------------
+2024-05-28 10:42:15	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-28 10:42:15	ActionGesture	CloseEyes
+2024-05-28 10:42:15	ActionGesture	CloseEyes
+2024-05-28 10:44:15	MonitorSpeechStart	<prosody rate="1.0">No start signal received, terminating the program.</prosody>	2929
+2024-05-28 10:44:18	ActionGesture	BrowRaise
+2024-05-28 10:53:45	Autoreload is disabled because the development mode is off.
+2024-05-28 10:53:46	Application started in 0.569 seconds.
+2024-05-28 10:53:46	Responding at http://127.0.0.1:8888
+2024-05-28 10:53:48	----------------- NEW EXECUTION-------------------
+2024-05-28 10:53:48	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-28 10:53:48	ActionGesture	CloseEyes
+2024-05-28 10:53:48	ActionGesture	CloseEyes
+2024-05-28 10:55:30	Autoreload is disabled because the development mode is off.
+2024-05-28 10:55:31	Application started in 0.584 seconds.
+2024-05-28 10:55:31	Responding at http://127.0.0.1:8888
+2024-05-28 10:55:33	----------------- NEW EXECUTION-------------------
+2024-05-28 10:55:33	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-28 10:55:33	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-28 10:55:33	ActionGesture	CloseEyes
+2024-05-28 10:55:33	ActionGesture	CloseEyes
+2024-05-28 10:56:19	Autoreload is disabled because the development mode is off.
+2024-05-28 10:56:20	Application started in 0.607 seconds.
+2024-05-28 10:56:20	Responding at http://127.0.0.1:8888
+2024-05-28 10:56:23	----------------- NEW EXECUTION-------------------
+2024-05-28 10:56:23	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-28 10:56:23	ActionGesture	CloseEyes
+2024-05-28 10:56:23	ActionGesture	CloseEyes
+2024-05-28 10:56:53	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-28 10:57:00	GUIEvent	GUI_STARTED	GUI_STARTED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-28 10:57:03	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [44] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-28 10:57:03	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	44	UNDEFINED	Sleep
+2024-05-28 10:57:42	Autoreload is disabled because the development mode is off.
+2024-05-28 10:57:42	Application started in 0.647 seconds.
+2024-05-28 10:57:43	Responding at http://127.0.0.1:8888
+2024-05-28 10:57:45	----------------- NEW EXECUTION-------------------
+2024-05-28 10:57:45	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-28 10:57:45	ActionGesture	CloseEyes
+2024-05-28 10:57:45	ActionGesture	CloseEyes
+2024-05-28 10:57:53	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-28 10:57:56	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [52] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-28 10:57:56	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	52	UNDEFINED	Sleep
+2024-05-28 10:58:22	FlowEvent	NEW_FLOW_STATE	Welcome	0.2		CONDITION3	Welcome
+2024-05-28 10:58:22	ActionGesture	OpenEyes
+2024-05-28 10:58:22	ActionGesture	Smile
+2024-05-28 10:58:23	MonitorSpeechStart	<prosody rate="1.0">Hello there</prosody>	543
+2024-05-28 10:58:23	ActionGesture	BrowRaise
+2024-05-28 10:58:25	MonitorSpeechStart	<prosody rate="1.0">Nice to meet you</prosody>	824
+2024-05-28 10:58:25	ActionGesture	BrowRaise
+2024-05-28 10:58:27	MonitorSpeechStart	<prosody rate="1.0">How you doing?</prosody>	741
+2024-05-28 10:58:27	ActionGesture	BrowRaise
+2024-05-28 10:58:29	GUIEvent	NEW_STAGE_REQUESTED	STAGE[8] [52] REQUESTED .. [ACCEPTED]	0.2	52	CONDITION3	Welcome
+2024-05-28 10:58:29	SessionEvent	QUESTION_SET	NEW QUESTION TO ACTIVATE	8		CONDITION3	Welcome
+2024-05-28 10:58:29	FlowEvent	NEW_FLOW_STATE	QuestionReflection	8		CONDITION3	QuestionReflection
+2024-05-28 10:58:30	MonitorSpeechStart	<prosody rate="1.0">Ok</prosody>	618
+2024-05-28 10:58:30	ActionGesture	BrowRaise
+2024-05-28 10:58:31	MonitorSpeechStart	<prosody rate="1.0">I think I am getting the question 8</prosody>	1655
+2024-05-28 10:58:33	ActionGesture	BrowRaise
+2024-05-28 10:58:34	MonitorSpeechStart	<prosody rate="1.0">Let's see</prosody>	658
+2024-05-28 10:58:34	ActionGesture	BrowRaise
+2024-05-28 10:58:36	GUIEvent	ANSWER_MARKED	ANSWER[TRUE] [8] [52] SENT .. [ACCEPTED]	8	52	CONDITION3	QuestionReflection
+2024-05-28 10:58:43	MonitorSpeechStart	<prosody rate="1.0">Have you answered?</prosody>	752
+2024-05-28 10:58:44	ActionGesture	BrowRaise
+2024-05-28 10:58:45	ActionGesture	Smile
+2024-05-28 10:58:46	SenseSpeech	yes	889
+2024-05-28 10:58:46	SenseNLUIntent	yes	Yes
+2024-05-28 10:58:46	FlowEvent	NEW_FLOW_STATE	QuestionDisclosure	8		CONDITION3	QuestionDisclosure
+2024-05-28 10:58:46	MonitorSpeechStart	<prosody rate="1.0">Good</prosody>	391
+2024-05-28 10:58:48	MonitorSpeechStart	<prosody rate="1.0">I replied that it is TRUE</prosody>	1387
+2024-05-28 10:58:48	ActionGesture	BrowRaise
+2024-05-28 10:58:50	MonitorSpeechStart	<prosody rate="1.0">What do you think?</prosody>	726
+2024-05-28 10:58:50	ActionGesture	BrowRaise
+2024-05-28 10:58:52	ActionGesture	Smile
+2024-05-28 10:58:54	SenseSpeech	yeah I think so too bye	1978
+2024-05-28 10:58:54	SenseNLUIntent	yeah I think so too bye	Yes
+2024-05-28 10:58:54	SenseNLUIntent	yeah I think so too bye	Agree
+2024-05-28 10:58:54	FlowEvent	NEW_FLOW_STATE	QuestionReview	8		CONDITION3	QuestionReview
+2024-05-28 10:58:54	MonitorSpeechStart	<prosody rate="1.0">Good. You see it too?</prosody>	1507
+2024-05-28 10:58:57	MonitorSpeechStart	<prosody rate="1.0">I replied that it is true, because it doesn't matter where the blp lamp is placed and the yellow lamps in C2 are connected in parallel so their equivalent resistance is lower.</prosody>	8785
+2024-05-28 10:58:57	ActionGesture	BrowRaise

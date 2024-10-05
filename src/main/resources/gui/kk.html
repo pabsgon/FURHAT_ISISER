@@ -1,0 +1,58 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy.stats import norm
+
+# Load the previous results
+results_df = pd.DataFrame(results)  # Assuming you are building on the previous results
+
+# Step 1: Calculate Z-Scores from Combined P-Values
+def calculate_z_score(p_value):
+# Convert p-value to corresponding Z-score
+return norm.ppf(1 - p_value / 2) if p_value < 1 else 0
+
+# Add the Z-scores calculated from the combined p-values for PM and FM
+results_df['Z_Score_PM_Combined'] = results_df['Combined_P_Value_PM'].apply(calculate_z_score)
+results_df['Z_Score_FM_Combined'] = results_df['Combined_P_Value_FM'].apply(calculate_z_score)
+
+# Apply log transformation to Z-Scores for better visual comparison
+def transform_z_score(z):
+# Apply symmetric log transformation with linthresh of 0.1
+return np.sign(z) * (np.log1p(np.abs(z)))
+
+results_df['Z_Score_PM_Combined_Transformed'] = results_df['Z_Score_PM_Combined'].apply(transform_z_score)
+results_df['Z_Score_FM_Combined_Transformed'] = results_df['Z_Score_FM_Combined'].apply(transform_z_score)
+
+# Step 2: Plot the Z-Scores with Combined P-Values
+fig, ax = plt.subplots(figsize=(10.5, 27))  # Increase size by 150% proportionally
+#fig, ax = plt.subplots(figsize=(10, 20))  # Adjust the figure size for better visualization
+
+subjects = results_df['SUBJECT']
+z_scores_pm_combined = results_df['Z_Score_PM_Combined_Transformed']
+z_scores_fm_combined = results_df['Z_Score_FM_Combined_Transformed']
+
+bar_width = 0.4
+y_positions = np.arange(len(subjects))
+
+# Create a horizontal bar plot for Z-Scores
+ax.barh(y_positions + bar_width, z_scores_pm_combined, bar_width, label='PM Combined', color='#D1CFB1', edgecolor='#111111', alpha=0.8)
+ax.barh(y_positions, z_scores_fm_combined, bar_width, label='FM Combined', color='#9B85A2', edgecolor='#111111', alpha=0.8)
+
+# Step 3: Add confidence intervals (97.5% and 2.5% thresholds)
+upper_threshold = norm.ppf(0.95)  # 97.5% confidence (z = ~1.96)
+lower_threshold = -upper_threshold  # 2.5% confidence (z = ~-1.96)
+
+# Add vertical lines for 95% confidence intervals
+ax.axvline(upper_threshold, color='red', linestyle='--', label='97.5% Confidence Right')
+ax.axvline(lower_threshold, color='red', linestyle='--', label='2.5% Confidence Left')
+ax.axvline(0, color='black', linestyle='--', label='Z-Score = 0')
+
+# Formatting the plot
+ax.set_yticks(y_positions + bar_width / 2)
+ax.set_yticklabels(subjects)
+ax.set_xlabel('Z-Score (Log Transformed)')
+ax.set_title('Combined Z-Scores of Preliminary and Final Minitests (Log Transformed)')
+ax.legend()
+
+plt.tight_layout()
+plt.show()

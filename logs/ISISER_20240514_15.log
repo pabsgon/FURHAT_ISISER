@@ -1,0 +1,52 @@
+2024-05-14 15:25:33	Autoreload is disabled because the development mode is off.
+2024-05-14 15:25:34	Application started in 0.625 seconds.
+2024-05-14 15:25:34	Responding at http://127.0.0.1:8888
+2024-05-14 15:25:36	----------------- NEW EXECUTION-------------------
+2024-05-14 15:25:36	FlowEvent	NEW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-14 15:26:18	Autoreload is disabled because the development mode is off.
+2024-05-14 15:26:19	Application started in 0.564 seconds.
+2024-05-14 15:26:19	Responding at http://127.0.0.1:8888
+2024-05-14 15:26:21	----------------- NEW EXECUTION-------------------
+2024-05-14 15:26:21	FlowEvent	NEW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-14 15:26:31	Autoreload is disabled because the development mode is off.
+2024-05-14 15:26:31	Application started in 0.618 seconds.
+2024-05-14 15:26:31	Responding at http://127.0.0.1:8888
+2024-05-14 15:26:33	----------------- NEW EXECUTION-------------------
+2024-05-14 15:27:29	FlowEvent	NEW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-14 15:30:35	Autoreload is disabled because the development mode is off.
+2024-05-14 15:30:35	Application started in 0.572 seconds.
+2024-05-14 15:30:35	Responding at http://127.0.0.1:8888
+2024-05-14 15:30:37	----------------- NEW EXECUTION-------------------
+2024-05-14 15:30:37	SystemEvent	FLOW_START	FLOW STARTED	0.0		UNDEFINED	UNDEFINED
+2024-05-14 15:30:37	FlowEvent	NEW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-14 15:30:37	ActionGesture	CloseEyes
+2024-05-14 15:30:40	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	UNDEFINED
+2024-05-14 15:30:41	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	UNDEFINED
+2024-05-14 15:30:43	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [31] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	UNDEFINED
+2024-05-14 15:30:43	SystemEvent	USER_SET	USER SET IN GUI.	0.2	31	UNDEFINED	UNDEFINED
+2024-05-14 15:30:43	FlowEvent	NEW_STATE	Welcome	0.2		CONDITION2	Welcome
+2024-05-14 15:30:43	ActionGesture	OpenEyes
+2024-05-14 15:30:43	ActionGesture	Smile
+2024-05-14 15:30:43	MonitorSpeechStart	Oh, hello there	1105
+2024-05-14 15:30:44	ActionGesture	BrowRaise
+2024-05-14 15:30:45	ActionGesture	BigSmile
+2024-05-14 15:30:46	MonitorSpeechStart	Nice to meet you.	824
+2024-05-14 15:30:46	ActionGesture	BrowRaise
+2024-05-14 15:30:47	MonitorSpeechStart	How you doing?	741
+2024-05-14 15:30:47	ActionGesture	BrowRaise
+2024-05-14 15:59:43	Autoreload is disabled because the development mode is off.
+2024-05-14 15:59:43	Application started in 0.544 seconds.
+2024-05-14 15:59:44	Responding at http://127.0.0.1:8888
+2024-05-14 15:59:45	----------------- NEW EXECUTION-------------------
+2024-05-14 15:59:45	SystemEvent	FLOW_START	FLOW STARTED	0.0		UNDEFINED	UNDEFINED
+2024-05-14 15:59:45	FlowEvent	NEW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-14 15:59:46	MonitorSpeechStart	Ok, let's test. Say whatever you want.	2873
+2024-05-14 15:59:46	ActionGesture	BrowRaise
+2024-05-14 15:59:49	ActionGesture	BrowRaise
+2024-05-14 15:59:51	ActionGesture	Smile
+2024-05-14 15:59:52	SenseSpeech	hello	1390
+2024-05-14 15:59:53	MonitorSpeechStart	Hello to you too.	835
+2024-05-14 15:59:53	ActionGesture	BrowRaise
+2024-05-14 15:59:57	ActionGesture	Smile
+2024-05-14 15:59:58	SenseSpeech	uh I don't know what to say	1706
+2024-05-14 15:59:59	MonitorSpeechStart	That was non-committal	966

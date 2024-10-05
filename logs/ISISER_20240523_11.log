@@ -1,0 +1,154 @@
+2024-05-23 11:25:34	Autoreload is disabled because the development mode is off.
+2024-05-23 11:25:35	Application started in 0.745 seconds.
+2024-05-23 11:25:35	Responding at http://127.0.0.1:8888
+2024-05-23 11:25:37	----------------- NEW EXECUTION-------------------
+2024-05-23 11:25:37	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-23 11:25:38	ActionGesture	CloseEyes
+2024-05-23 11:25:38	ActionGesture	CloseEyes
+2024-05-23 11:25:51	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-23 11:25:51	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-23 11:25:53	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [28] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-23 11:25:53	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	28	UNDEFINED	Sleep
+2024-05-23 11:25:53	FlowEvent	NEW_FLOW_STATE	Welcome	0.2		CONDITION2	Welcome
+2024-05-23 11:25:53	ActionGesture	OpenEyes
+2024-05-23 11:25:53	ActionGesture	Smile
+2024-05-23 11:25:55	MonitorSpeechStart	<prosody rate="1.0">Hello there</prosody>	543
+2024-05-23 11:25:55	ActionGesture	BrowRaise
+2024-05-23 11:25:56	MonitorSpeechStart	<prosody rate="1.0">Nice to meet you</prosody>	824
+2024-05-23 11:25:57	ActionGesture	BrowRaise
+2024-05-23 11:25:58	MonitorSpeechStart	<prosody rate="1.0">How you doing?</prosody>	741
+2024-05-23 11:25:58	ActionGesture	BrowRaise
+2024-05-23 11:26:02	ActionGesture	Smile
+2024-05-23 11:26:04	SenseSpeech	yeah	1338
+2024-05-23 11:26:04	FlowEvent	NEW_FLOW_STATE	ReviewInstructions	0.2		CONDITION2	ReviewInstructions
+2024-05-23 11:26:04	MonitorSpeechStart	<prosody rate="1.0">Right, as far as I know,we will get some Electronics questions to resolve together Somebody told you?</prosody>	5541
+2024-05-23 11:26:04	ActionGesture	BrowRaise
+2024-05-23 11:26:05	ActionGesture	BrowRaise
+2024-05-23 11:26:05	ActionGesture	BrowRaise
+2024-05-23 11:26:09	ActionGesture	BrowRaise
+2024-05-23 11:26:12	ActionGesture	Smile
+2024-05-23 11:26:13	SenseSpeech	no	846
+2024-05-23 11:26:13	MonitorSpeechStart	<prosody rate="1.0">BACKCHANNEL</prosody>	666
+2024-05-23 11:26:14	ActionGesture	BrowRaise
+2024-05-23 11:26:15	MonitorSpeechStart	<prosody rate="1.0">Mm</prosody>	208
+2024-05-23 11:26:16	MonitorSpeechStart	<prosody rate="1.0">Basically a question will come up on the tablet, I receive it, we think, we answer separately and then we discuss</prosody>	5938
+2024-05-23 11:26:16	ActionGesture	BrowRaise
+2024-05-23 11:26:18	ActionGesture	BrowRaise
+2024-05-23 11:26:22	ActionGesture	BrowRaise
+2024-05-23 11:26:24	MonitorSpeechStart	<prosody rate="1.0">Ok, let me put it this way</prosody>	1959
+2024-05-23 11:26:26	ActionGesture	BrowRaise
+2024-05-23 11:26:27	MonitorSpeechStart	<prosody rate="1.0">Do you want me to explain or are you ready?</prosody>	1666
+2024-05-23 11:26:28	ActionGesture	BrowRaise
+2024-05-23 11:26:28	ActionGesture	BrowRaise
+2024-05-23 11:26:37	MonitorSpeechStart	<prosody rate="1.0">Parent</prosody>	524
+2024-05-23 11:26:37	ActionGesture	BrowRaise
+2024-05-23 11:26:37	MonitorSpeechStart	<prosody rate="1.0">SILENCE</prosody>	639
+2024-05-23 11:26:38	ActionGesture	BrowRaise
+2024-05-23 11:26:39	MonitorSpeechStart	<prosody rate="1.0">I mean</prosody>	609
+2024-05-23 11:26:41	MonitorSpeechStart	<prosody rate="1.0">You ready?</prosody>	531
+2024-05-23 11:26:41	ActionGesture	BrowRaise
+2024-05-23 11:28:28	MonitorSpeechStart	<prosody rate="1.0">Parent</prosody>	524
+2024-05-23 11:28:28	ActionGesture	BrowRaise
+2024-05-23 11:46:10	Autoreload is disabled because the development mode is off.
+2024-05-23 11:46:11	Application started in 0.576 seconds.
+2024-05-23 11:46:11	Responding at http://127.0.0.1:8888
+2024-05-23 11:46:13	----------------- NEW EXECUTION-------------------
+2024-05-23 11:46:13	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-23 11:46:13	ActionGesture	CloseEyes
+2024-05-23 11:46:13	ActionGesture	CloseEyes
+2024-05-23 11:46:19	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-23 11:46:19	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-23 11:46:34	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [28] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-23 11:46:34	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	28	UNDEFINED	Sleep
+2024-05-23 11:46:34	FlowEvent	NEW_FLOW_STATE	Welcome	0.2		CONDITION2	Welcome
+2024-05-23 11:46:34	ActionGesture	OpenEyes
+2024-05-23 11:46:34	ActionGesture	Smile
+2024-05-23 11:46:35	MonitorSpeechStart	<prosody rate="1.0">Hello there</prosody>	543
+2024-05-23 11:46:36	ActionGesture	BrowRaise
+2024-05-23 11:46:37	MonitorSpeechStart	<prosody rate="1.0">Nice to meet you</prosody>	824
+2024-05-23 11:46:37	ActionGesture	BrowRaise
+2024-05-23 11:46:39	MonitorSpeechStart	<prosody rate="1.0">How you doing?</prosody>	741
+2024-05-23 11:46:39	ActionGesture	BrowRaise
+2024-05-23 11:46:42	ActionGesture	Smile
+2024-05-23 11:46:43	SenseSpeech	yeah	817
+2024-05-23 11:46:43	FlowEvent	NEW_FLOW_STATE	ReviewInstructions	0.2		CONDITION2	ReviewInstructions
+2024-05-23 11:46:43	MonitorSpeechStart	<prosody rate="1.0">Right, as far as I know,we will get some Electronics questions to resolve together Somebody told you?</prosody>	5541
+2024-05-23 11:46:43	ActionGesture	BrowRaise
+2024-05-23 11:46:44	ActionGesture	BrowRaise
+2024-05-23 11:46:44	ActionGesture	BrowRaise
+2024-05-23 11:46:48	ActionGesture	BrowRaise
+2024-05-23 11:46:51	ActionGesture	Smile
+2024-05-23 11:46:57	SenseSpeech	no no	5843
+2024-05-23 11:48:55	Autoreload is disabled because the development mode is off.
+2024-05-23 11:48:55	Application started in 0.587 seconds.
+2024-05-23 11:48:56	Responding at http://127.0.0.1:8888
+2024-05-23 11:48:58	----------------- NEW EXECUTION-------------------
+2024-05-23 11:48:58	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-23 11:48:58	ActionGesture	CloseEyes
+2024-05-23 11:48:58	ActionGesture	CloseEyes
+2024-05-23 11:48:58	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-23 11:48:59	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-23 11:49:04	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [36] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-23 11:49:04	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	36	UNDEFINED	Sleep
+2024-05-23 11:49:04	FlowEvent	NEW_FLOW_STATE	Welcome	0.2		UNDEFINED	Welcome
+2024-05-23 11:49:04	ActionGesture	OpenEyes
+2024-05-23 11:49:04	ActionGesture	Smile
+2024-05-23 11:49:05	MonitorSpeechStart	<prosody rate="1.0">Hello there</prosody>	543
+2024-05-23 11:49:05	ActionGesture	BrowRaise
+2024-05-23 11:49:06	MonitorSpeechStart	<prosody rate="1.0">Nice to meet you</prosody>	824
+2024-05-23 11:49:06	ActionGesture	BrowRaise
+2024-05-23 11:49:08	MonitorSpeechStart	<prosody rate="1.0">How you doing?</prosody>	741
+2024-05-23 11:49:08	ActionGesture	BrowRaise
+2024-05-23 11:49:11	ActionGesture	Smile
+2024-05-23 11:49:12	SenseSpeech	yeah	786
+2024-05-23 11:49:12	FlowEvent	NEW_FLOW_STATE	ReviewInstructions	0.2		CONDITION2	ReviewInstructions
+2024-05-23 11:49:12	MonitorSpeechStart	<prosody rate="1.0">Right, as far as I know,we will get some Electronics questions to resolve together Somebody told you?</prosody>	5541
+2024-05-23 11:49:12	ActionGesture	BrowRaise
+2024-05-23 11:49:13	ActionGesture	BrowRaise
+2024-05-23 11:49:13	ActionGesture	BrowRaise
+2024-05-23 11:49:17	ActionGesture	BrowRaise
+2024-05-23 11:58:41	Autoreload is disabled because the development mode is off.
+2024-05-23 11:58:42	Application started in 0.585 seconds.
+2024-05-23 11:58:42	Responding at http://127.0.0.1:8888
+2024-05-23 11:58:44	----------------- NEW EXECUTION-------------------
+2024-05-23 11:58:44	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-23 11:58:44	ActionGesture	CloseEyes
+2024-05-23 11:58:44	ActionGesture	CloseEyes
+2024-05-23 11:58:45	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-23 11:58:45	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-23 11:58:46	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [29] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-23 11:58:46	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	29	UNDEFINED	Sleep
+2024-05-23 11:58:46	FlowEvent	NEW_FLOW_STATE	Welcome	0.2		CONDITION2	Welcome
+2024-05-23 11:58:46	ActionGesture	OpenEyes
+2024-05-23 11:58:47	ActionGesture	Smile
+2024-05-23 11:58:48	MonitorSpeechStart	<prosody rate="1.0">Hello there</prosody>	543
+2024-05-23 11:58:48	ActionGesture	BrowRaise
+2024-05-23 11:58:49	MonitorSpeechStart	<prosody rate="1.0">Nice to meet you</prosody>	824
+2024-05-23 11:58:50	ActionGesture	BrowRaise
+2024-05-23 11:58:51	MonitorSpeechStart	<prosody rate="1.0">How you doing?</prosody>	741
+2024-05-23 11:58:51	ActionGesture	BrowRaise
+2024-05-23 11:58:54	ActionGesture	Smile
+2024-05-23 11:58:55	SenseSpeech	yeah	903
+2024-05-23 11:58:55	FlowEvent	NEW_FLOW_STATE	ReviewInstructions	0.2		CONDITION2	ReviewInstructions
+2024-05-23 11:58:57	MonitorSpeechStart	<prosody rate="1.0">Right, as far as I know,we will get some Electronics questions to resolve together. Somebody told you?</prosody>	6104
+2024-05-23 11:58:57	ActionGesture	BrowRaise
+2024-05-23 11:58:58	ActionGesture	BrowRaise
+2024-05-23 11:59:01	ActionGesture	BrowRaise
+2024-05-23 11:59:02	ActionGesture	BrowRaise
+2024-05-23 11:59:05	ActionGesture	Smile
+2024-05-23 11:59:06	SenseSpeech	no	995
+2024-05-23 11:59:06	MonitorSpeechStart	<prosody rate="1.0">DENIAL</prosody>	524
+2024-05-23 11:59:06	ActionGesture	BrowRaise
+2024-05-23 11:59:07	MonitorSpeechStart	<prosody rate="1.0">Oh</prosody>	459
+2024-05-23 11:59:08	MonitorSpeechStart	<prosody rate="1.0">well</prosody>	454
+2024-05-23 11:59:08	ActionGesture	BrowRaise
+2024-05-23 11:59:09	MonitorSpeechStart	<prosody rate="1.0">Basically a question will come up on the tablet, I receive it, we think, we answer separately and then we discuss</prosody>	5938
+2024-05-23 11:59:09	ActionGesture	BrowRaise
+2024-05-23 11:59:11	ActionGesture	BrowRaise
+2024-05-23 11:59:15	ActionGesture	BrowRaise
+2024-05-23 11:59:16	MonitorSpeechStart	<prosody rate="1.0">Mh</prosody>	607
+2024-05-23 11:59:17	ActionGesture	BrowRaise
+2024-05-23 11:59:18	MonitorSpeechStart	<prosody rate="1.0">I see!</prosody>	670
+2024-05-23 11:59:19	MonitorSpeechStart	<prosody rate="1.0">Do you want me to explain or are you ready?</prosody>	1666
+2024-05-23 11:59:20	ActionGesture	BrowRaise
+2024-05-23 11:59:21	ActionGesture	BrowRaise

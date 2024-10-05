@@ -1,0 +1,23 @@
+2024-05-13 14:23:10	Autoreload is disabled because the development mode is off.
+2024-05-13 14:23:10	Application started in 0.677 seconds.
+2024-05-13 14:23:11	Responding at http://127.0.0.1:8888
+2024-05-13 14:23:12	----------------- NEW EXECUTION-------------------
+2024-05-13 14:23:12	ActionGesture	CloseEyes
+2024-05-13 14:23:27	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED
+2024-05-13 14:23:27	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED
+2024-05-13 14:23:33	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [40] REQUESTED .. [ACCEPTED]	0.2	40
+2024-05-13 14:23:33	ActionGesture	OpenEyes
+2024-05-13 14:23:33	ActionGesture	Smile
+2024-05-13 14:23:33	MonitorSpeechStart	Hi there	477
+2024-05-13 14:23:33	ActionGesture	BrowRaise
+2024-05-13 14:23:35	ActionGesture	BigSmile
+2024-05-13 14:23:35	MonitorSpeechStart	Nice to meet you.	824
+2024-05-13 14:23:35	ActionGesture	BrowRaise
+2024-05-13 14:23:37	MonitorSpeechStart	How you doing?	741
+2024-05-13 14:23:37	ActionGesture	BrowRaise
+2024-05-13 14:23:43	MonitorSpeechStart	Oops, I don't hear you.	1345
+2024-05-13 14:23:43	ActionGesture	BrowRaise
+2024-05-13 14:23:45	MonitorSpeechStart	Oh, you there.	1008
+2024-05-13 14:23:46	ActionGesture	BrowRaise
+2024-05-13 14:23:48	MonitorSpeechStart	Shall we carry on?	950
+2024-05-13 14:23:49	ActionGesture	BrowRaise

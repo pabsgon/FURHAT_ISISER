@@ -1,0 +1,44 @@
+2024-05-26 00:15:24	Autoreload is disabled because the development mode is off.
+2024-05-26 00:15:25	Application started in 1.272 seconds.
+2024-05-26 00:15:26	Responding at http://127.0.0.1:8888
+2024-05-26 00:15:29	----------------- NEW EXECUTION-------------------
+2024-05-26 00:15:30	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-26 00:15:30	ActionGesture	CloseEyes
+2024-05-26 00:15:30	ActionGesture	CloseEyes
+2024-05-26 00:15:33	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-26 00:15:35	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [4] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-26 00:15:35	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	4	UNDEFINED	Sleep
+2024-05-26 00:15:35	FlowEvent	NEW_FLOW_STATE	Welcome	0.2		CONDITION1	Welcome
+2024-05-26 00:15:35	ActionGesture	OpenEyes
+2024-05-26 00:15:35	ActionGesture	Smile
+2024-05-26 00:15:36	MonitorSpeechStart	<prosody rate="1.0">Hello there</prosody>	543
+2024-05-26 00:15:37	ActionGesture	BrowRaise
+2024-05-26 00:15:38	MonitorSpeechStart	<prosody rate="1.0">Nice to meet you</prosody>	824
+2024-05-26 00:15:38	ActionGesture	BrowRaise
+2024-05-26 00:15:40	MonitorSpeechStart	<prosody rate="1.0">How you doing?</prosody>	741
+2024-05-26 00:15:40	ActionGesture	BrowRaise
+2024-05-26 00:15:49	FlowEvent	NEW_FLOW_STATE	ReviewInstructions	0.2		CONDITION1	ReviewInstructions
+2024-05-26 00:15:50	MonitorSpeechStart	<prosody rate="1.0">Right, as far as I know,we will get some Electronics questions to resolve together. Somebody told you?</prosody>	6104
+2024-05-26 00:15:50	ActionGesture	BrowRaise
+2024-05-26 00:15:51	ActionGesture	BrowRaise
+2024-05-26 00:15:55	ActionGesture	BrowRaise
+2024-05-26 00:15:55	ActionGesture	BrowRaise
+2024-05-26 00:16:05	MonitorSpeechStart	<prosody rate="1.0">Sorry</prosody>	510
+2024-05-26 00:16:05	ActionGesture	BrowRaise
+2024-05-26 00:16:06	MonitorSpeechStart	<prosody rate="1.0">I could not hear you</prosody>	897
+2024-05-26 00:16:06	ActionGesture	BrowRaise
+2024-05-26 00:16:08	MonitorSpeechStart	<prosody rate="1.0">You know something about our meeting?</prosody>	1349
+2024-05-26 00:16:09	ActionGesture	BrowRaise
+2024-05-26 00:20:41	Autoreload is disabled because the development mode is off.
+2024-05-26 00:20:42	Application started in 1.023 seconds.
+2024-05-26 00:20:42	Responding at http://127.0.0.1:8888
+2024-05-26 00:20:46	----------------- NEW EXECUTION-------------------
+2024-05-26 00:20:46	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-26 00:20:46	ActionGesture	CloseEyes
+2024-05-26 00:20:46	ActionGesture	CloseEyes
+2024-05-26 00:20:49	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-26 00:20:51	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [4] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-26 00:20:51	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	4	UNDEFINED	Sleep
+2024-05-26 00:20:51	FlowEvent	NEW_FLOW_STATE	Welcome	0.2		CONDITION1	Welcome
+2024-05-26 00:20:51	ActionGesture	OpenEyes
+2024-05-26 00:26:02	ActionGesture	Smile

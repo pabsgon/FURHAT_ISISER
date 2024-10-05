@@ -1,0 +1,406 @@
+2024-05-25 19:03:38	----------------- NEW EXECUTION-------------------
+2024-05-25 19:06:47	Autoreload is disabled because the development mode is off.
+2024-05-25 19:06:48	Application started in 0.62 seconds.
+2024-05-25 19:06:48	Responding at http://127.0.0.1:8888
+2024-05-25 19:07:35	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-25 19:07:35	----------------- NEW EXECUTION-------------------
+2024-05-25 19:07:42	Autoreload is disabled because the development mode is off.
+2024-05-25 19:07:42	Application started in 0.613 seconds.
+2024-05-25 19:07:43	Responding at http://127.0.0.1:8888
+2024-05-25 19:07:44	----------------- NEW EXECUTION-------------------
+2024-05-25 19:07:44	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-25 19:07:45	ActionGesture	CloseEyes
+2024-05-25 19:07:45	ActionGesture	CloseEyes
+2024-05-25 19:07:49	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:08:52	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:08:52	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:11:06	Autoreload is disabled because the development mode is off.
+2024-05-25 19:11:06	Application started in 0.597 seconds.
+2024-05-25 19:11:07	Responding at http://127.0.0.1:8888
+2024-05-25 19:11:14	----------------- NEW EXECUTION-------------------
+2024-05-25 19:11:31	Autoreload is disabled because the development mode is off.
+2024-05-25 19:11:32	Application started in 0.597 seconds.
+2024-05-25 19:11:32	Responding at http://127.0.0.1:8888
+2024-05-25 19:11:34	----------------- NEW EXECUTION-------------------
+2024-05-25 19:11:34	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [REJECTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-25 19:11:34	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-25 19:11:34	ActionGesture	CloseEyes
+2024-05-25 19:11:34	ActionGesture	CloseEyes
+2024-05-25 19:11:35	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [REJECTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:11:38	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [REJECTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:11:41	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [REJECTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:11:42	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:11:43	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:11:46	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:11:49	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:11:52	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:11:55	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:11:58	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:12:01	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:12:04	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:12:07	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:12:10	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:12:15	GUIEvent	GUI_STARTED	GUI_STARTED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:12:15	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:12:18	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:12:21	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:12:24	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:12:27	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:12:30	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:12:33	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:12:34	MonitorSpeechStart	<prosody rate="1.0">No start signal received, terminating the program.</prosody>	2929
+2024-05-25 19:12:36	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:12:37	ActionGesture	BrowRaise
+2024-05-25 19:15:51	Autoreload is disabled because the development mode is off.
+2024-05-25 19:15:51	Application started in 0.796 seconds.
+2024-05-25 19:15:52	Responding at http://127.0.0.1:8888
+2024-05-25 19:15:54	----------------- NEW EXECUTION-------------------
+2024-05-25 19:15:54	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-25 19:15:54	ActionGesture	CloseEyes
+2024-05-25 19:15:54	ActionGesture	CloseEyes
+2024-05-25 19:15:57	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:15:57	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:16:54	MonitorSpeechStart	<prosody rate="1.0">No start signal received, terminating the program.</prosody>	2929
+2024-05-25 19:16:57	ActionGesture	BrowRaise
+2024-05-25 19:20:18	Autoreload is disabled because the development mode is off.
+2024-05-25 19:20:19	Application started in 0.599 seconds.
+2024-05-25 19:20:19	Responding at http://127.0.0.1:8888
+2024-05-25 19:20:21	----------------- NEW EXECUTION-------------------
+2024-05-25 19:20:21	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-25 19:20:21	ActionGesture	CloseEyes
+2024-05-25 19:20:21	ActionGesture	CloseEyes
+2024-05-25 19:20:24	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:20:24	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:20:46	GUIEvent	GUI_STARTED	GUI_STARTED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:20:46	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:20:57	Autoreload is disabled because the development mode is off.
+2024-05-25 19:20:57	Application started in 0.58 seconds.
+2024-05-25 19:20:58	Responding at http://127.0.0.1:8888
+2024-05-25 19:21:00	----------------- NEW EXECUTION-------------------
+2024-05-25 19:21:00	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-25 19:21:00	ActionGesture	CloseEyes
+2024-05-25 19:21:00	ActionGesture	CloseEyes
+2024-05-25 19:21:12	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:21:12	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:22:00	MonitorSpeechStart	<prosody rate="1.0">No start signal received, terminating the program.</prosody>	2929
+2024-05-25 19:22:03	ActionGesture	BrowRaise
+2024-05-25 19:29:40	Autoreload is disabled because the development mode is off.
+2024-05-25 19:29:41	Application started in 0.606 seconds.
+2024-05-25 19:29:41	Responding at http://127.0.0.1:8888
+2024-05-25 19:29:43	----------------- NEW EXECUTION-------------------
+2024-05-25 19:29:43	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-25 19:29:43	ActionGesture	CloseEyes
+2024-05-25 19:29:43	ActionGesture	CloseEyes
+2024-05-25 19:29:47	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:30:07	Autoreload is disabled because the development mode is off.
+2024-05-25 19:30:08	Application started in 0.612 seconds.
+2024-05-25 19:30:08	Responding at http://127.0.0.1:8888
+2024-05-25 19:30:10	----------------- NEW EXECUTION-------------------
+2024-05-25 19:30:10	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-25 19:30:10	ActionGesture	CloseEyes
+2024-05-25 19:30:10	ActionGesture	CloseEyes
+2024-05-25 19:30:11	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:30:12	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:30:16	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0] [2] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:30:29	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0] [2] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:31:10	MonitorSpeechStart	<prosody rate="1.0">No start signal received, terminating the program.</prosody>	2929
+2024-05-25 19:31:13	ActionGesture	BrowRaise
+2024-05-25 19:32:16	Autoreload is disabled because the development mode is off.
+2024-05-25 19:32:16	Application started in 0.625 seconds.
+2024-05-25 19:32:17	Responding at http://127.0.0.1:8888
+2024-05-25 19:32:18	----------------- NEW EXECUTION-------------------
+2024-05-25 19:32:18	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-25 19:32:19	ActionGesture	CloseEyes
+2024-05-25 19:32:19	ActionGesture	CloseEyes
+2024-05-25 19:32:22	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:32:23	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:32:24	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0] [4] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:32:30	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0] [4] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:38:51	Autoreload is disabled because the development mode is off.
+2024-05-25 19:38:52	Application started in 0.614 seconds.
+2024-05-25 19:38:52	Responding at http://127.0.0.1:8888
+2024-05-25 19:38:54	----------------- NEW EXECUTION-------------------
+2024-05-25 19:38:54	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-25 19:38:54	ActionGesture	CloseEyes
+2024-05-25 19:38:54	ActionGesture	CloseEyes
+2024-05-25 19:38:56	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:38:56	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:38:58	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0] [4] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:39:18	Autoreload is disabled because the development mode is off.
+2024-05-25 19:39:18	Application started in 0.605 seconds.
+2024-05-25 19:39:19	Responding at http://127.0.0.1:8888
+2024-05-25 19:39:21	----------------- NEW EXECUTION-------------------
+2024-05-25 19:39:21	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-25 19:39:21	ActionGesture	CloseEyes
+2024-05-25 19:39:21	ActionGesture	CloseEyes
+2024-05-25 19:39:22	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:39:23	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:39:25	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [3] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:39:25	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	3	UNDEFINED	Sleep
+2024-05-25 19:39:25	FlowEvent	NEW_FLOW_STATE	Welcome	0.2		CONDITION1	Welcome
+2024-05-25 19:39:25	ActionGesture	OpenEyes
+2024-05-25 19:39:25	ActionGesture	Smile
+2024-05-25 19:39:26	MonitorSpeechStart	<prosody rate="1.0">Hello there</prosody>	543
+2024-05-25 19:39:26	ActionGesture	BrowRaise
+2024-05-25 19:39:27	MonitorSpeechStart	<prosody rate="1.0">Nice to meet you</prosody>	824
+2024-05-25 19:39:27	ActionGesture	BrowRaise
+2024-05-25 19:39:29	MonitorSpeechStart	<prosody rate="1.0">How you doing?</prosody>	741
+2024-05-25 19:39:29	ActionGesture	BrowRaise
+2024-05-25 19:39:30	GUIEvent	NEW_STAGE_REQUESTED	STAGE[1] [3] REQUESTED .. [ACCEPTED]	0.2	3	CONDITION1	Welcome
+2024-05-25 19:39:30	SessionEvent	QUESTION_SET	NEW QUESTION TO ACTIVATE	1		CONDITION1	Welcome
+2024-05-25 19:39:30	FlowEvent	NEW_FLOW_STATE	QuestionReflection	1		CONDITION1	QuestionReflection
+2024-05-25 19:39:31	MonitorSpeechStart	<prosody rate="1.0">Ok</prosody>	618
+2024-05-25 19:39:32	ActionGesture	BrowRaise
+2024-05-25 19:39:33	MonitorSpeechStart	<prosody rate="1.0">I think I am getting the question 1</prosody>	1802
+2024-05-25 19:39:33	ActionGesture	BrowRaise
+2024-05-25 19:39:34	ActionGesture	BrowRaise
+2024-05-25 19:39:36	MonitorSpeechStart	<prosody rate="1.0">Let's see</prosody>	658
+2024-05-25 19:39:36	ActionGesture	BrowRaise
+2024-05-25 19:39:45	MonitorSpeechStart	<prosody rate="1.0">Have you answered already?</prosody>	1137
+2024-05-25 19:39:45	ActionGesture	BrowRaise
+2024-05-25 19:39:46	ActionGesture	BrowRaise
+2024-05-25 19:39:47	ActionGesture	Smile
+2024-05-25 19:39:49	SenseSpeech	uh not yet	1765
+2024-05-25 19:39:50	GUIEvent	ANSWER_MARKED	ANSWER[TRUE] [1] [3] SENT .. [ACCEPTED]	1	3	CONDITION1	QuestionReflection
+2024-05-25 19:39:50	MonitorSpeechStart	<prosody rate="1.0">Oh</prosody>	459
+2024-05-25 19:39:51	MonitorSpeechStart	<prosody rate="1.0">sorry</prosody>	510
+2024-05-25 19:39:51	ActionGesture	BrowRaise
+2024-05-25 19:39:52	MonitorSpeechStart	<prosody rate="1.0">Absolutely</prosody>	668
+2024-05-25 19:39:53	ActionGesture	BrowRaise
+2024-05-25 19:39:58	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	3	CONDITION1	QuestionReflection
+2024-05-25 19:40:01	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	3	CONDITION1	QuestionReflection
+2024-05-25 19:40:02	MonitorSpeechStart	<prosody rate="1.0">Let me know when you have it</prosody>	1138
+2024-05-25 19:40:03	ActionGesture	BrowRaise
+2024-05-25 19:40:04	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	3	CONDITION1	QuestionReflection
+2024-05-25 19:40:04	ActionGesture	Smile
+2024-05-25 19:40:05	SenseSpeech	I answered	1024
+2024-05-25 19:40:06	MonitorSpeechStart	<prosody rate="1.0">Mm</prosody>	208
+2024-05-25 19:40:06	MonitorSpeechStart	<prosody rate="1.0">Have you answered?</prosody>	752
+2024-05-25 19:40:07	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	3	CONDITION1	QuestionReflection
+2024-05-25 19:40:07	ActionGesture	BrowRaise
+2024-05-25 19:40:10	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	3	CONDITION1	QuestionReflection
+2024-05-25 19:40:10	ActionGesture	Smile
+2024-05-25 19:40:11	SenseSpeech	yes	1011
+2024-05-25 19:40:11	FlowEvent	NEW_FLOW_STATE	QuestionDisclosure	1		CONDITION1	QuestionDisclosure
+2024-05-25 19:40:11	MonitorSpeechStart	<prosody rate="1.0">Good</prosody>	391
+2024-05-25 19:40:13	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	3	CONDITION1	QuestionDisclosure
+2024-05-25 19:40:14	MonitorSpeechStart	<prosody rate="1.0">I replied that it is TRUE</prosody>	1387
+2024-05-25 19:40:14	ActionGesture	BrowRaise
+2024-05-25 19:40:16	MonitorSpeechStart	<prosody rate="1.0">What do you think?</prosody>	726
+2024-05-25 19:40:16	ActionGesture	BrowRaise
+2024-05-25 19:40:16	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	3	CONDITION1	QuestionDisclosure
+2024-05-25 19:40:19	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	3	CONDITION1	QuestionDisclosure
+2024-05-25 19:40:20	ActionGesture	Smile
+2024-05-25 19:40:21	SenseSpeech	um	915
+2024-05-25 19:40:21	FlowEvent	NEW_FLOW_STATE	QuestionReview	1		CONDITION1	QuestionReview
+2024-05-25 19:40:22	MonitorSpeechStart	<prosody rate="1.0">Ok, let me put it this way Because the voltage is the same and the resistance increases if a lamp is added</prosody>	5617
+2024-05-25 19:40:22	ActionGesture	BrowRaise
+2024-05-25 19:40:22	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	3	CONDITION1	QuestionReview
+2024-05-25 19:40:23	ActionGesture	BrowRaise
+2024-05-25 19:40:25	ActionGesture	BrowRaise
+2024-05-25 19:40:25	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	3	CONDITION1	QuestionReview
+2024-05-25 19:40:27	ActionGesture	BrowRaise
+2024-05-25 19:40:28	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	3	CONDITION1	QuestionReview
+2024-05-25 19:40:31	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	3	CONDITION1	QuestionReview
+2024-05-25 19:40:31	ActionGesture	Smile
+2024-05-25 19:40:32	SenseSpeech	yeah I agree	1245
+2024-05-25 19:40:33	MonitorSpeechStart	<prosody rate="1.0">Good. You see it too?</prosody>	1507
+2024-05-25 19:40:34	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	3	CONDITION1	QuestionReview
+2024-05-25 19:40:35	MonitorSpeechStart	<prosody rate="1.0">With the same voltage and higher resistance, the current will be lower and the lights will shine more dimly.</prosody>	4949
+2024-05-25 19:40:36	ActionGesture	BrowRaise
+2024-05-25 19:40:37	ActionGesture	BrowRaise
+2024-05-25 19:40:37	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	3	CONDITION1	QuestionReview
+2024-05-25 19:40:40	ActionGesture	BrowRaise
+2024-05-25 19:40:40	ActionGesture	BrowRaise
+2024-05-25 19:40:40	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	3	CONDITION1	QuestionReview
+2024-05-25 19:40:43	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	3	CONDITION1	QuestionReview
+2024-05-25 19:40:45	ActionGesture	Smile
+2024-05-25 19:40:46	SenseSpeech	yes	1106
+2024-05-25 19:40:46	FlowEvent	NEW_FLOW_STATE	QuestionUltimatum	1		CONDITION1	QuestionUltimatum
+2024-05-25 19:40:46	MonitorSpeechStart	<prosody rate="1.0">Ultimatum!</prosody>	656
+2024-05-25 19:40:46	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	3	CONDITION1	QuestionUltimatum
+2024-05-25 19:40:46	ActionGesture	BrowRaise
+2024-05-25 19:40:47	MonitorSpeechStart	<prosody rate="1.0">Great</prosody>	377
+2024-05-25 19:40:47	ActionGesture	BrowRaise
+2024-05-25 19:40:48	MonitorSpeechStart	<prosody rate="1.0">but What should we choose for the final answer, TRUE?</prosody>	2642
+2024-05-25 19:40:49	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	3	CONDITION1	QuestionUltimatum
+2024-05-25 19:40:50	ActionGesture	BrowRaise
+2024-05-25 19:40:52	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	3	CONDITION1	QuestionUltimatum
+2024-05-25 19:40:52	MonitorSpeechStart	<prosody rate="1.0">or FALSE?</prosody>	608
+2024-05-25 19:40:52	ActionGesture	BrowRaise
+2024-05-25 19:40:55	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	3	CONDITION1	QuestionUltimatum
+2024-05-25 19:40:56	ActionGesture	Smile
+2024-05-25 19:40:57	SenseSpeech	true	940
+2024-05-25 19:40:57	MonitorSpeechStart	<prosody rate="1.0">ANSWER_TRUE</prosody>	1279
+2024-05-25 19:40:57	ActionGesture	BrowRaise
+2024-05-25 19:40:58	ActionGesture	BrowRaise
+2024-05-25 19:40:58	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	3	CONDITION1	QuestionUltimatum
+2024-05-25 19:40:59	FlowEvent	NEW_FLOW_STATE	QuestionConfirmation	1		CONDITION1	QuestionConfirmation
+2024-05-25 19:40:59	MonitorSpeechStart	<prosody rate="1.0">Ok. I marked TRUE already. Can you mark your answer on the tablet and confim?</prosody>	4615
+2024-05-25 19:40:59	ActionGesture	BrowRaise
+2024-05-25 19:41:01	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	3	CONDITION1	QuestionConfirmation
+2024-05-25 19:41:02	ActionGesture	BrowRaise
+2024-05-25 19:41:03	ActionGesture	BrowRaise
+2024-05-25 19:41:03	ActionGesture	BrowRaise
+2024-05-25 19:41:08	ActionGesture	Smile
+2024-05-25 19:41:09	SenseSpeech	yes	1116
+2024-05-25 19:41:09	MonitorSpeechStart	<prosody rate="1.0">ASSENT</prosody>	577
+2024-05-25 19:41:09	ActionGesture	BrowRaise
+2024-05-25 19:41:10	MonitorSpeechStart	<prosody rate="1.0">Nice</prosody>	438
+2024-05-25 19:41:10	ActionGesture	BrowRaise
+2024-05-25 19:41:11	MonitorSpeechStart	<prosody rate="1.0">Ok, but I am not receiving any new question. Did you press the button below?</prosody>	4553
+2024-05-25 19:41:11	ActionGesture	BrowRaise
+2024-05-25 19:41:12	GUIEvent	NEW_STAGE_REQUESTED	STAGE[2] [] REQUESTED .. [REJECTED]	1	3	CONDITION1	QuestionConfirmation
+2024-05-25 19:41:12	ActionGesture	BrowRaise
+2024-05-25 19:41:15	ActionGesture	BrowRaise
+2024-05-25 19:41:15	GUIEvent	NEW_STAGE_REQUESTED	STAGE[2] [] REQUESTED .. [REJECTED]	1	3	CONDITION1	QuestionConfirmation
+2024-05-25 19:48:32	Autoreload is disabled because the development mode is off.
+2024-05-25 19:48:32	Application started in 0.611 seconds.
+2024-05-25 19:48:33	Responding at http://127.0.0.1:8888
+2024-05-25 19:48:35	----------------- NEW EXECUTION-------------------
+2024-05-25 19:48:35	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-25 19:48:35	ActionGesture	CloseEyes
+2024-05-25 19:48:35	ActionGesture	CloseEyes
+2024-05-25 19:48:36	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:48:36	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:48:40	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [21] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:48:40	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	21	UNDEFINED	Sleep
+2024-05-25 19:48:40	FlowEvent	NEW_FLOW_STATE	Welcome	0.2		CONDITION2	Welcome
+2024-05-25 19:48:40	ActionGesture	OpenEyes
+2024-05-25 19:48:40	ActionGesture	Smile
+2024-05-25 19:48:41	MonitorSpeechStart	<prosody rate="1.0">Hello there</prosody>	543
+2024-05-25 19:48:41	ActionGesture	BrowRaise
+2024-05-25 19:48:43	MonitorSpeechStart	<prosody rate="1.0">Nice to meet you</prosody>	824
+2024-05-25 19:48:43	ActionGesture	BrowRaise
+2024-05-25 19:48:44	MonitorSpeechStart	<prosody rate="1.0">How you doing?</prosody>	741
+2024-05-25 19:48:44	ActionGesture	BrowRaise
+2024-05-25 19:48:46	GUIEvent	NEW_STAGE_REQUESTED	STAGE[1] [21] REQUESTED .. [ACCEPTED]	0.2	21	CONDITION2	Welcome
+2024-05-25 19:48:46	SessionEvent	QUESTION_SET	NEW QUESTION TO ACTIVATE	1		CONDITION2	Welcome
+2024-05-25 19:48:46	FlowEvent	NEW_FLOW_STATE	QuestionReflection	1		CONDITION2	QuestionReflection
+2024-05-25 19:48:47	MonitorSpeechStart	<prosody rate="1.0">Ok</prosody>	618
+2024-05-25 19:48:47	ActionGesture	BrowRaise
+2024-05-25 19:48:48	MonitorSpeechStart	<prosody rate="1.0">I think I am getting the question 1</prosody>	1802
+2024-05-25 19:48:49	ActionGesture	BrowRaise
+2024-05-25 19:48:50	ActionGesture	BrowRaise
+2024-05-25 19:48:51	MonitorSpeechStart	<prosody rate="1.0">Let's see</prosody>	658
+2024-05-25 19:48:51	ActionGesture	BrowRaise
+2024-05-25 19:48:56	GUIEvent	ANSWER_MARKED	ANSWER[TRUE] [1] [21] SENT .. [ACCEPTED]	1	21	CONDITION2	QuestionReflection
+2024-05-25 19:49:00	MonitorSpeechStart	<prosody rate="1.0">Have you answered already?</prosody>	1137
+2024-05-25 19:49:00	ActionGesture	BrowRaise
+2024-05-25 19:49:01	ActionGesture	BrowRaise
+2024-05-25 19:49:04	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	21	CONDITION2	QuestionReflection
+2024-05-25 19:49:04	ActionGesture	Smile
+2024-05-25 19:49:05	SenseSpeech	not yet	993
+2024-05-25 19:49:06	MonitorSpeechStart	<prosody rate="1.0">Oh</prosody>	459
+2024-05-25 19:49:07	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	21	CONDITION2	QuestionReflection
+2024-05-25 19:49:07	MonitorSpeechStart	<prosody rate="1.0">sorry</prosody>	510
+2024-05-25 19:49:07	ActionGesture	BrowRaise
+2024-05-25 19:49:09	MonitorSpeechStart	<prosody rate="1.0">Absolutely</prosody>	668
+2024-05-25 19:49:09	ActionGesture	BrowRaise
+2024-05-25 19:49:10	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	21	CONDITION2	QuestionReflection
+2024-05-25 19:54:21	Autoreload is disabled because the development mode is off.
+2024-05-25 19:54:22	Application started in 0.616 seconds.
+2024-05-25 19:54:22	Responding at http://127.0.0.1:8888
+2024-05-25 19:54:24	----------------- NEW EXECUTION-------------------
+2024-05-25 19:54:24	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-25 19:54:24	ActionGesture	CloseEyes
+2024-05-25 19:54:24	ActionGesture	CloseEyes
+2024-05-25 19:54:28	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:54:28	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:54:30	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [19] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-25 19:54:30	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	19	UNDEFINED	Sleep
+2024-05-25 19:54:30	FlowEvent	NEW_FLOW_STATE	Welcome	0.2		CONDITION1	Welcome
+2024-05-25 19:54:30	ActionGesture	OpenEyes
+2024-05-25 19:54:30	ActionGesture	Smile
+2024-05-25 19:54:31	MonitorSpeechStart	<prosody rate="1.0">Hello there</prosody>	543
+2024-05-25 19:54:31	ActionGesture	BrowRaise
+2024-05-25 19:54:32	MonitorSpeechStart	<prosody rate="1.0">Nice to meet you</prosody>	824
+2024-05-25 19:54:33	ActionGesture	BrowRaise
+2024-05-25 19:54:34	GUIEvent	NEW_STAGE_REQUESTED	STAGE[1] [19] REQUESTED .. [ACCEPTED]	0.2	19	CONDITION1	Welcome
+2024-05-25 19:54:34	SessionEvent	QUESTION_SET	NEW QUESTION TO ACTIVATE	1		CONDITION1	Welcome
+2024-05-25 19:54:34	FlowEvent	NEW_FLOW_STATE	QuestionReflection	1		CONDITION1	QuestionReflection
+2024-05-25 19:54:35	MonitorSpeechStart	<prosody rate="1.0">Ok</prosody>	618
+2024-05-25 19:54:35	ActionGesture	BrowRaise
+2024-05-25 19:54:36	MonitorSpeechStart	<prosody rate="1.0">I think I am getting the question 1</prosody>	1802
+2024-05-25 19:54:37	ActionGesture	BrowRaise
+2024-05-25 19:54:38	ActionGesture	BrowRaise
+2024-05-25 19:54:39	MonitorSpeechStart	<prosody rate="1.0">Let's see</prosody>	658
+2024-05-25 19:54:39	ActionGesture	BrowRaise
+2024-05-25 19:54:41	GUIEvent	ANSWER_MARKED	ANSWER[TRUE] [1] [19] SENT .. [ACCEPTED]	1	19	CONDITION1	QuestionReflection
+2024-05-25 19:54:48	MonitorSpeechStart	<prosody rate="1.0">Have you answered already?</prosody>	1137
+2024-05-25 19:54:48	ActionGesture	BrowRaise
+2024-05-25 19:54:49	ActionGesture	BrowRaise
+2024-05-25 19:54:49	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	19	CONDITION1	QuestionReflection
+2024-05-25 19:54:51	ActionGesture	Smile
+2024-05-25 19:54:52	SenseSpeech	yes	807
+2024-05-25 19:54:52	FlowEvent	NEW_FLOW_STATE	QuestionDisclosure	1		CONDITION1	QuestionDisclosure
+2024-05-25 19:54:52	MonitorSpeechStart	<prosody rate="1.0">Good</prosody>	391
+2024-05-25 19:54:52	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	19	CONDITION1	QuestionDisclosure
+2024-05-25 19:54:53	MonitorSpeechStart	<prosody rate="1.0">I replied that it is TRUE</prosody>	1387
+2024-05-25 19:54:54	ActionGesture	BrowRaise
+2024-05-25 19:54:55	MonitorSpeechStart	<prosody rate="1.0">What do you think?</prosody>	726
+2024-05-25 19:54:55	ActionGesture	BrowRaise
+2024-05-25 19:54:55	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	19	CONDITION1	QuestionDisclosure
+2024-05-25 19:54:58	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	19	CONDITION1	QuestionDisclosure
+2024-05-25 19:54:59	ActionGesture	Smile
+2024-05-25 19:55:01	SenseSpeech	um not sure	1891
+2024-05-25 19:55:01	FlowEvent	NEW_FLOW_STATE	QuestionReview	1		CONDITION1	QuestionReview
+2024-05-25 19:55:01	MonitorSpeechStart	<prosody rate="1.0">Ok, let me put it this way Because the voltage is the same and the resistance increases if a lamp is added</prosody>	5617
+2024-05-25 19:55:01	ActionGesture	BrowRaise
+2024-05-25 19:55:01	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	19	CONDITION1	QuestionReview
+2024-05-25 19:55:02	ActionGesture	BrowRaise
+2024-05-25 19:55:04	ActionGesture	BrowRaise
+2024-05-25 19:55:04	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	19	CONDITION1	QuestionReview
+2024-05-25 19:55:06	ActionGesture	BrowRaise
+2024-05-25 19:55:07	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	19	CONDITION1	QuestionReview
+2024-05-25 19:55:10	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	19	CONDITION1	QuestionReview
+2024-05-25 19:55:11	ActionGesture	Smile
+2024-05-25 19:55:12	SenseSpeech	right	1147
+2024-05-25 19:55:13	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	19	CONDITION1	QuestionReview
+2024-05-25 19:55:14	MonitorSpeechStart	<prosody rate="1.0">Ok, hear this With the same voltage and higher resistance, the current will be lower and the lights will shine more dimly.</prosody>	6112
+2024-05-25 19:55:14	ActionGesture	BrowRaise
+2024-05-25 19:55:15	ActionGesture	BrowRaise
+2024-05-25 19:55:16	ActionGesture	BrowRaise
+2024-05-25 19:55:16	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	19	CONDITION1	QuestionReview
+2024-05-25 19:55:19	ActionGesture	BrowRaise
+2024-05-25 19:55:19	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	19	CONDITION1	QuestionReview
+2024-05-25 19:55:23	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	19	CONDITION1	QuestionReview
+2024-05-25 19:55:25	ActionGesture	Smile
+2024-05-25 19:55:26	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	19	CONDITION1	QuestionReview
+2024-05-25 19:55:28	SenseSpeech	I don't know	3389
+2024-05-25 19:55:28	FlowEvent	NEW_FLOW_STATE	QuestionUltimatum	1		CONDITION1	QuestionUltimatum
+2024-05-25 19:55:28	MonitorSpeechStart	<prosody rate="1.0">Ultimatum!</prosody>	656
+2024-05-25 19:55:29	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	19	CONDITION1	QuestionUltimatum
+2024-05-25 19:55:29	ActionGesture	BrowRaise
+2024-05-25 19:55:29	MonitorSpeechStart	<prosody rate="1.0">Ok, let me put it this way</prosody>	1959
+2024-05-25 19:55:31	ActionGesture	BrowRaise
+2024-05-25 19:55:32	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	19	CONDITION1	QuestionUltimatum
+2024-05-25 19:55:32	MonitorSpeechStart	<prosody rate="1.0">What should we choose for the final answer, TRUE?</prosody>	2446
+2024-05-25 19:55:34	ActionGesture	BrowRaise
+2024-05-25 19:55:35	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	19	CONDITION1	QuestionUltimatum
+2024-05-25 19:55:36	MonitorSpeechStart	<prosody rate="1.0">or FALSE?</prosody>	608
+2024-05-25 19:55:36	ActionGesture	BrowRaise
+2024-05-25 19:55:38	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	19	CONDITION1	QuestionUltimatum
+2024-05-25 19:55:40	ActionGesture	Smile
+2024-05-25 19:55:41	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	19	CONDITION1	QuestionUltimatum
+2024-05-25 19:55:41	SenseSpeech	true	987
+2024-05-25 19:55:41	MonitorSpeechStart	<prosody rate="1.0">ANSWER_TRUE</prosody>	1279
+2024-05-25 19:55:41	ActionGesture	BrowRaise
+2024-05-25 19:55:42	ActionGesture	BrowRaise
+2024-05-25 19:55:42	FlowEvent	NEW_FLOW_STATE	QuestionConfirmation	1		CONDITION1	QuestionConfirmation
+2024-05-25 19:55:43	MonitorSpeechStart	<prosody rate="1.0">Ok. I marked TRUE already. Can you mark your answer on the tablet and confim?</prosody>	4615
+2024-05-25 19:55:43	ActionGesture	BrowRaise
+2024-05-25 19:55:44	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	1	19	CONDITION1	QuestionConfirmation
+2024-05-25 19:55:46	ActionGesture	BrowRaise
+2024-05-25 19:55:46	ActionGesture	BrowRaise
+2024-05-25 19:55:47	ActionGesture	BrowRaise
+2024-05-25 19:55:48	GUIEvent	NEW_STAGE_REQUESTED	STAGE[2] [19] REQUESTED .. [ACCEPTED]	1	19	CONDITION1	QuestionConfirmation
+2024-05-25 19:55:48	SessionEvent	ANSWER_CONFIRMED	QUESTION CONFIRMED IN GUI.	2		CONDITION1	QuestionConfirmation
+2024-05-25 19:55:48	SessionEvent	QUESTION_SET	NEW QUESTION TO ACTIVATE	2		CONDITION1	QuestionConfirmation
+2024-05-25 19:55:48	FlowEvent	NEW_FLOW_STATE	QuestionReflection	2		CONDITION1	QuestionReflection
+2024-05-25 19:55:49	MonitorSpeechStart	<prosody rate="1.0">Right</prosody>	393
+2024-05-25 19:55:49	ActionGesture	BrowRaise
+2024-05-25 19:55:50	MonitorSpeechStart	<prosody rate="1.0">receiving the question 2</prosody>	1382
+2024-05-25 19:55:51	ActionGesture	BrowRaise
+2024-05-25 19:55:52	MonitorSpeechStart	<prosody rate="1.0">Ok</prosody>	618
+2024-05-25 19:55:53	ActionGesture	BrowRaise

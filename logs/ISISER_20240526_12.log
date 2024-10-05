@@ -1,0 +1,268 @@
+2024-05-26 12:00:05	MonitorSpeechStart	I'm listening.	676
+2024-05-26 12:21:57	Autoreload is disabled because the development mode is off.
+2024-05-26 12:21:58	Application started in 0.624 seconds.
+2024-05-26 12:21:58	Responding at http://127.0.0.1:8888
+2024-05-26 12:22:00	----------------- NEW EXECUTION-------------------
+2024-05-26 12:22:00	FlowEvent	NEW_FLOW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-26 12:22:01	MonitorSpeechStart	Ok, let's test. Say whatever you want.	2873
+2024-05-26 12:22:01	ActionGesture	BrowRaise
+2024-05-26 12:22:04	ActionGesture	BrowRaise
+2024-05-26 12:22:13	MonitorSpeechStart	Now I will pause <mark name="action"/>	1037
+2024-05-26 12:22:14	ActionGesture	BrowRaise
+2024-05-26 12:23:39	Autoreload is disabled because the development mode is off.
+2024-05-26 12:23:39	Application started in 0.587 seconds.
+2024-05-26 12:23:40	Responding at http://127.0.0.1:8888
+2024-05-26 12:23:42	----------------- NEW EXECUTION-------------------
+2024-05-26 12:23:42	FlowEvent	NEW_FLOW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-26 12:23:42	MonitorSpeechStart	Ok, let's test. Say whatever you want.	2873
+2024-05-26 12:23:42	ActionGesture	BrowRaise
+2024-05-26 12:23:45	ActionGesture	BrowRaise
+2024-05-26 12:23:53	MonitorSpeechStart	Now I will pause <mark name="action"/>	1037
+2024-05-26 12:23:54	ActionGesture	BrowRaise
+2024-05-26 12:25:00	Autoreload is disabled because the development mode is off.
+2024-05-26 12:25:00	Application started in 0.558 seconds.
+2024-05-26 12:25:01	Responding at http://127.0.0.1:8888
+2024-05-26 12:25:02	----------------- NEW EXECUTION-------------------
+2024-05-26 12:25:02	FlowEvent	NEW_FLOW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-26 12:25:03	MonitorSpeechStart	Ok, let's test. Say whatever you want.	2873
+2024-05-26 12:25:03	ActionGesture	BrowRaise
+2024-05-26 12:25:05	ActionGesture	BrowRaise
+2024-05-26 12:25:14	MonitorSpeechStart	Now I will pause <mark name="action"/>	1037
+2024-05-26 12:25:15	ActionGesture	BrowRaise
+2024-05-26 12:25:15	ActionGesture	GazeAway
+2024-05-26 12:25:18	MonitorSpeechStart	before continuing	1174
+2024-05-26 12:25:18	ActionGesture	BrowRaise
+2024-05-26 12:25:20	MonitorSpeechStart	I'm listening	676
+2024-05-26 12:26:57	Autoreload is disabled because the development mode is off.
+2024-05-26 12:26:58	Application started in 0.599 seconds.
+2024-05-26 12:26:58	Responding at http://127.0.0.1:8888
+2024-05-26 12:27:00	----------------- NEW EXECUTION-------------------
+2024-05-26 12:27:00	FlowEvent	NEW_FLOW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-26 12:27:01	MonitorSpeechStart	Ok, let's test. Say whatever you want.	2873
+2024-05-26 12:27:01	ActionGesture	BrowRaise
+2024-05-26 12:27:04	ActionGesture	BrowRaise
+2024-05-26 12:27:05	ActionGesture	Smile
+2024-05-26 12:27:06	SenseSpeech	yes	761
+2024-05-26 12:27:06	MonitorSpeechStart	Now I will pause <mark name="action"/>	1037
+2024-05-26 12:27:07	ActionGesture	BrowRaise
+2024-05-26 12:27:07	ActionGesture	GazeAway
+2024-05-26 12:27:08	MonitorSpeechStart	before continuing	1174
+2024-05-26 12:27:09	ActionGesture	BrowRaise
+2024-05-26 12:27:10	MonitorSpeechStart	I'm listening	676
+2024-05-26 12:27:11	ActionGesture	SubtleNod
+2024-05-26 12:27:13	MonitorSpeechStart	nodding	501
+2024-05-26 12:27:13	ActionGesture	BrowRaise
+2024-05-26 12:27:14	ActionGesture	Smile
+2024-05-26 12:27:21	SenseSpeech	right	6512
+2024-05-26 12:27:22	MonitorSpeechStart	You said something in about 6512 milliseconds.	3421
+2024-05-26 12:27:23	ActionGesture	BrowRaise
+2024-05-26 12:27:24	ActionGesture	BrowRaise
+2024-05-26 12:27:25	ActionGesture	BrowRaise
+2024-05-26 12:38:04	Autoreload is disabled because the development mode is off.
+2024-05-26 12:38:04	Application started in 0.564 seconds.
+2024-05-26 12:38:05	Responding at http://127.0.0.1:8888
+2024-05-26 12:38:08	----------------- NEW EXECUTION-------------------
+2024-05-26 12:38:08	FlowEvent	NEW_FLOW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-26 12:38:09	MonitorSpeechStart	Ok, let's test. Say whatever you want.	2873
+2024-05-26 12:38:09	ActionGesture	BrowRaise
+2024-05-26 12:38:12	ActionGesture	BrowRaise
+2024-05-26 12:38:14	ActionGesture	Smile
+2024-05-26 12:38:14	SenseSpeech	yes	813
+2024-05-26 12:38:16	MonitorSpeechStart	I am quite certain <mark name="action"/>	1024
+2024-05-26 12:38:17	ActionGesture	BrowRaise
+2024-05-26 12:38:17	ActionGesture	EyesOpenBrowUpNod
+2024-05-26 12:38:18	MonitorSpeechStart	I'm determined	787
+2024-05-26 12:38:19	ActionGesture	BrowRaise
+2024-05-26 12:38:19	MonitorSpeechStart	I'm listening	676
+2024-05-26 12:38:21	ActionGesture	SubtleNod
+2024-05-26 12:38:21	MonitorSpeechStart	nodding	501
+2024-05-26 12:38:21	ActionGesture	BrowRaise
+2024-05-26 12:38:27	MonitorSpeechStart	Now I will pause <mark name="action"/>	1037
+2024-05-26 12:38:28	ActionGesture	BrowRaise
+2024-05-26 12:38:28	ActionGesture	GazeAway
+2024-05-26 12:38:30	MonitorSpeechStart	before continuing	1174
+2024-05-26 12:38:30	ActionGesture	BrowRaise
+2024-05-26 12:38:31	MonitorSpeechStart	I'm listening	676
+2024-05-26 12:38:33	ActionGesture	SubtleNod
+2024-05-26 12:38:33	MonitorSpeechStart	nodding	501
+2024-05-26 12:38:33	ActionGesture	BrowRaise
+2024-05-26 12:38:37	ActionGesture	Smile
+2024-05-26 12:38:39	SenseSpeech	no	1168
+2024-05-26 12:38:39	MonitorSpeechStart	I am bit <mark name="action"/>	518
+2024-05-26 12:38:39	ActionGesture	BrowRaise
+2024-05-26 12:38:40	ActionGesture	GazeAway
+2024-05-26 12:38:41	MonitorSpeechStart	uncertain	679
+2024-05-26 12:38:41	ActionGesture	BrowRaise
+2024-05-26 12:38:42	MonitorSpeechStart	I'm listening	676
+2024-05-26 12:38:43	ActionGesture	SubtleShake
+2024-05-26 12:38:44	MonitorSpeechStart	shaking	622
+2024-05-26 12:38:44	ActionGesture	BrowRaise
+2024-05-26 12:38:48	ActionGesture	Smile
+2024-05-26 12:38:50	SenseSpeech	yes	1136
+2024-05-26 12:38:50	MonitorSpeechStart	I am quite certain <mark name="action"/>	1024
+2024-05-26 12:38:50	ActionGesture	BrowRaise
+2024-05-26 12:38:51	ActionGesture	EyesOpenBrowUpNod
+2024-05-26 12:38:52	MonitorSpeechStart	I'm determined	787
+2024-05-26 12:38:52	ActionGesture	BrowRaise
+2024-05-26 12:38:53	MonitorSpeechStart	I'm listening	676
+2024-05-26 12:38:54	ActionGesture	SubtleNod
+2024-05-26 12:38:55	MonitorSpeechStart	nodding	501
+2024-05-26 12:38:55	ActionGesture	BrowRaise
+2024-05-26 12:38:59	ActionGesture	Smile
+2024-05-26 12:39:00	SenseSpeech	yes	992
+2024-05-26 12:39:00	MonitorSpeechStart	I am quite certain <mark name="action"/>	1024
+2024-05-26 12:39:01	ActionGesture	BrowRaise
+2024-05-26 12:39:01	ActionGesture	EyesOpenBrowUpNod
+2024-05-26 12:39:02	MonitorSpeechStart	I'm determined	787
+2024-05-26 12:39:02	ActionGesture	BrowRaise
+2024-05-26 12:39:03	MonitorSpeechStart	I'm listening	676
+2024-05-26 12:39:05	ActionGesture	SubtleNod
+2024-05-26 12:39:05	MonitorSpeechStart	nodding	501
+2024-05-26 12:39:05	ActionGesture	BrowRaise
+2024-05-26 12:39:11	MonitorSpeechStart	Now I will pause <mark name="action"/>	1037
+2024-05-26 12:39:12	ActionGesture	BrowRaise
+2024-05-26 12:39:12	ActionGesture	GazeAway
+2024-05-26 12:39:13	MonitorSpeechStart	before continuing	1174
+2024-05-26 12:39:14	ActionGesture	BrowRaise
+2024-05-26 12:39:15	MonitorSpeechStart	I'm listening	676
+2024-05-26 12:39:16	ActionGesture	SubtleNod
+2024-05-26 12:39:17	MonitorSpeechStart	nodding	501
+2024-05-26 12:39:17	ActionGesture	BrowRaise
+2024-05-26 12:39:19	ActionGesture	Smile
+2024-05-26 12:39:20	SenseSpeech	no	910
+2024-05-26 12:39:21	MonitorSpeechStart	I am bit <mark name="action"/>	518
+2024-05-26 12:39:21	ActionGesture	BrowRaise
+2024-05-26 12:39:21	ActionGesture	GazeAway
+2024-05-26 12:39:22	MonitorSpeechStart	uncertain	679
+2024-05-26 12:39:22	ActionGesture	BrowRaise
+2024-05-26 12:39:23	MonitorSpeechStart	I'm listening	676
+2024-05-26 12:39:24	ActionGesture	SubtleShake
+2024-05-26 12:39:24	MonitorSpeechStart	shaking	622
+2024-05-26 12:39:24	ActionGesture	BrowRaise
+2024-05-26 12:39:30	MonitorSpeechStart	Now I will pause <mark name="action"/>	1037
+2024-05-26 12:39:31	ActionGesture	BrowRaise
+2024-05-26 12:39:31	ActionGesture	GazeAway
+2024-05-26 12:39:33	MonitorSpeechStart	before continuing	1174
+2024-05-26 12:39:33	ActionGesture	BrowRaise
+2024-05-26 12:39:34	MonitorSpeechStart	I'm listening	676
+2024-05-26 12:39:36	ActionGesture	SubtleNod
+2024-05-26 12:39:36	MonitorSpeechStart	nodding	501
+2024-05-26 12:39:36	ActionGesture	BrowRaise
+2024-05-26 12:39:42	MonitorSpeechStart	Now I will pause <mark name="action"/>	1037
+2024-05-26 12:39:43	ActionGesture	BrowRaise
+2024-05-26 12:39:43	ActionGesture	GazeAway
+2024-05-26 12:39:44	MonitorSpeechStart	before continuing	1174
+2024-05-26 12:39:45	ActionGesture	BrowRaise
+2024-05-26 12:39:46	MonitorSpeechStart	I'm listening	676
+2024-05-26 12:39:48	ActionGesture	SubtleNod
+2024-05-26 12:39:48	MonitorSpeechStart	nodding	501
+2024-05-26 12:39:48	ActionGesture	BrowRaise
+2024-05-26 12:44:11	Autoreload is disabled because the development mode is off.
+2024-05-26 12:44:11	Application started in 0.558 seconds.
+2024-05-26 12:44:11	Responding at http://127.0.0.1:8888
+2024-05-26 12:44:14	----------------- NEW EXECUTION-------------------
+2024-05-26 12:44:14	FlowEvent	NEW_FLOW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-26 12:44:14	MonitorSpeechStart	Ok, let's test. Say whatever you want.	2873
+2024-05-26 12:44:15	ActionGesture	BrowRaise
+2024-05-26 12:44:17	ActionGesture	BrowRaise
+2024-05-26 12:44:23	ActionGesture	Smile
+2024-05-26 12:44:24	SenseSpeech	yes	1163
+2024-05-26 12:44:25	MonitorSpeechStart	I am quite certain <mark name="action"/>	1024
+2024-05-26 12:44:25	ActionGesture	BrowRaise
+2024-05-26 12:44:26	ActionGesture	EyesOpenBrowUpNod
+2024-05-26 12:44:26	MonitorSpeechStart	I'm determined	787
+2024-05-26 12:44:27	ActionGesture	BrowRaise
+2024-05-26 12:44:27	MonitorSpeechStart	I'm listening	676
+2024-05-26 12:44:29	ActionGesture	SubtleNod
+2024-05-26 12:44:29	MonitorSpeechStart	nodding	501
+2024-05-26 12:44:29	ActionGesture	BrowRaise
+2024-05-26 12:44:35	ActionGesture	Smile
+2024-05-26 12:44:36	SenseSpeech	uh no	1531
+2024-05-26 12:44:37	MonitorSpeechStart	I am bit <mark name="action"/>	518
+2024-05-26 12:44:37	ActionGesture	BrowRaise
+2024-05-26 12:44:37	ActionGesture	GazeAway
+2024-05-26 12:44:38	MonitorSpeechStart	uncertain	679
+2024-05-26 12:44:38	ActionGesture	BrowRaise
+2024-05-26 12:44:39	MonitorSpeechStart	I'm listening	676
+2024-05-26 12:44:40	ActionGesture	SubtleShake
+2024-05-26 12:44:40	MonitorSpeechStart	shaking	622
+2024-05-26 12:44:40	ActionGesture	BrowRaise
+2024-05-26 12:44:46	MonitorSpeechStart	Now I will pause <mark name="action"/>	1037
+2024-05-26 12:44:47	ActionGesture	BrowRaise
+2024-05-26 12:46:34	Autoreload is disabled because the development mode is off.
+2024-05-26 12:46:34	Application started in 0.561 seconds.
+2024-05-26 12:46:35	Responding at http://127.0.0.1:8888
+2024-05-26 12:46:36	----------------- NEW EXECUTION-------------------
+2024-05-26 12:46:36	FlowEvent	NEW_FLOW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-26 12:46:37	MonitorSpeechStart	Ok, let's test. Say whatever you want.	2873
+2024-05-26 12:46:37	ActionGesture	BrowRaise
+2024-05-26 12:46:39	ActionGesture	BrowRaise
+2024-05-26 12:46:42	ActionGesture	Smile
+2024-05-26 12:46:47	SenseSpeech	no	5370
+2024-05-26 12:46:48	MonitorSpeechStart	I am bit <mark name="action"/>	518
+2024-05-26 12:46:48	ActionGesture	BrowRaise
+2024-05-26 12:46:48	ActionGesture	GazeAway
+2024-05-26 12:46:49	MonitorSpeechStart	uncertain	679
+2024-05-26 12:46:49	ActionGesture	BrowRaise
+2024-05-26 12:46:50	MonitorSpeechStart	I'm listening	676
+2024-05-26 12:46:51	ActionGesture	SubtleShake
+2024-05-26 12:46:51	MonitorSpeechStart	shaking	622
+2024-05-26 12:46:51	ActionGesture	BrowRaise
+2024-05-26 12:46:58	MonitorSpeechStart	Now I will pause <mark name="action"/>	1037
+2024-05-26 12:46:58	ActionGesture	BrowRaise
+2024-05-26 12:46:59	ActionGesture	GazeAway
+2024-05-26 12:47:00	MonitorSpeechStart	before continuing	1174
+2024-05-26 12:47:00	ActionGesture	BrowRaise
+2024-05-26 12:47:30	Autoreload is disabled because the development mode is off.
+2024-05-26 12:47:31	Application started in 0.566 seconds.
+2024-05-26 12:47:31	Responding at http://127.0.0.1:8888
+2024-05-26 12:47:33	----------------- NEW EXECUTION-------------------
+2024-05-26 12:47:33	FlowEvent	NEW_FLOW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-26 12:47:33	MonitorSpeechStart	Ok, let's test. Say whatever you want.	2873
+2024-05-26 12:47:34	ActionGesture	BrowRaise
+2024-05-26 12:47:36	ActionGesture	BrowRaise
+2024-05-26 12:47:38	ActionGesture	Smile
+2024-05-26 12:47:39	SenseSpeech	no	886
+2024-05-26 12:47:39	MonitorSpeechStart	I am bit <mark name="action"/>	518
+2024-05-26 12:47:39	ActionGesture	BrowRaise
+2024-05-26 12:47:39	ActionGesture	GazeAway
+2024-05-26 12:47:40	MonitorSpeechStart	uncertain	679
+2024-05-26 12:47:40	ActionGesture	BrowRaise
+2024-05-26 12:47:41	MonitorSpeechStart	I'm listening	676
+2024-05-26 12:47:42	ActionGesture	SubtleShake
+2024-05-26 12:47:42	MonitorSpeechStart	shaking	622
+2024-05-26 12:47:43	ActionGesture	BrowRaise
+2024-05-26 12:47:49	MonitorSpeechStart	Now I will pause <mark name="action"/>	1037
+2024-05-26 12:47:49	ActionGesture	BrowRaise
+2024-05-26 12:47:50	ActionGesture	GazeAway
+2024-05-26 12:47:51	MonitorSpeechStart	before continuing	1174
+2024-05-26 12:47:51	ActionGesture	BrowRaise
+2024-05-26 12:47:52	MonitorSpeechStart	I'm listening	676
+2024-05-26 12:47:54	ActionGesture	SubtleNod
+2024-05-26 12:47:54	MonitorSpeechStart	nodding	501
+2024-05-26 12:47:54	ActionGesture	BrowRaise
+2024-05-26 12:47:56	ActionGesture	Smile
+2024-05-26 12:48:00	SenseSpeech	yes	4165
+2024-05-26 12:48:00	MonitorSpeechStart	I am quite certain <mark name="action"/>	1024
+2024-05-26 12:48:01	ActionGesture	BrowRaise
+2024-05-26 12:48:01	ActionGesture	EyesOpenBrowUpNod
+2024-05-26 12:48:02	MonitorSpeechStart	I'm determined	787
+2024-05-26 12:48:02	ActionGesture	BrowRaise
+2024-05-26 12:48:03	MonitorSpeechStart	I'm listening	676
+2024-05-26 12:48:05	ActionGesture	SubtleNod
+2024-05-26 12:48:05	MonitorSpeechStart	nodding	501
+2024-05-26 12:48:05	ActionGesture	BrowRaise
+2024-05-26 12:48:16	MonitorSpeechStart	Now I will pause <mark name="action"/>	1037
+2024-05-26 12:48:17	ActionGesture	BrowRaise
+2024-05-26 12:48:17	ActionGesture	GazeAway
+2024-05-26 12:48:18	MonitorSpeechStart	before continuing	1174
+2024-05-26 12:48:19	ActionGesture	BrowRaise
+2024-05-26 12:48:20	MonitorSpeechStart	I'm listening	676
+2024-05-26 12:48:21	ActionGesture	SubtleNod
+2024-05-26 12:48:22	MonitorSpeechStart	nodding	501
+2024-05-26 12:48:22	ActionGesture	BrowRaise
+2024-05-26 12:48:28	MonitorSpeechStart	Now I will pause <mark name="action"/>	1037
+2024-05-26 12:48:28	ActionGesture	BrowRaise
+2024-05-26 12:48:29	ActionGesture	GazeAway
+2024-05-26 12:48:30	MonitorSpeechStart	before continuing	1174
+2024-05-26 12:48:30	ActionGesture	BrowRaise

@@ -1,0 +1,339 @@
+2024-05-27 19:20:25	Autoreload is disabled because the development mode is off.
+2024-05-27 19:20:25	Application started in 0.636 seconds.
+2024-05-27 19:20:26	Responding at http://127.0.0.1:8888
+2024-05-27 19:21:23	Autoreload is disabled because the development mode is off.
+2024-05-27 19:21:24	Application started in 0.711 seconds.
+2024-05-27 19:21:24	Responding at http://127.0.0.1:8888
+2024-05-27 19:21:28	----------------- NEW EXECUTION-------------------
+2024-05-27 19:21:28	FlowEvent	NEW_FLOW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-27 19:21:28	MonitorSpeechStart	Mm. Now I will pause <mark name="action"/>	2319
+2024-05-27 19:21:29	ActionGesture	BrowRaise
+2024-05-27 19:21:30	ActionGesture	BrowRaise
+2024-05-27 19:21:31	ActionGesture	SubtleWobbleYes
+2024-05-27 19:21:32	MonitorSpeechStart	Um. before continuing	1908
+2024-05-27 19:21:33	ActionGesture	BrowRaise
+2024-05-27 19:21:34	ActionGesture	BrowRaise
+2024-05-27 19:21:34	MonitorSpeechStart	Ok, let's test.	1700
+2024-05-27 19:21:36	ActionGesture	BrowRaise
+2024-05-27 19:21:38	ActionGesture	Smile
+2024-05-27 19:22:14	ActionGesture	Smile
+2024-05-27 19:22:51	ActionGesture	Smile
+2024-05-27 19:23:07	ActionGesture	Smile
+2024-05-27 19:23:23	ActionGesture	Smile
+2024-05-27 19:23:32	MonitorSpeechStart	Hello, I am a speaking robot	2101
+2024-05-27 19:23:33	ActionGesture	BrowRaise
+2024-05-27 19:23:34	ActionGesture	BrowRaise
+2024-05-27 19:23:39	ActionGesture	Smile
+2024-05-27 19:24:12	ActionGesture	Smile
+2024-05-27 19:24:28	ActionGesture	Smile
+2024-05-27 19:24:45	ActionGesture	Smile
+2024-05-27 19:24:50	SenseSpeech	hello	5226
+2024-05-27 19:24:50	MonitorSpeechStart	Hello to you too. That's a rejoinder I  agree<emphasis> with	3237
+2024-05-27 19:24:51	ActionGesture	BrowRaise
+2024-05-27 19:24:52	ActionGesture	BrowRaise
+2024-05-27 19:24:53	ActionGesture	BrowRaise
+2024-05-27 19:24:55	ActionGesture	Smile
+2024-05-27 19:25:01	SenseSpeech	can you say it again	6200
+2024-05-27 19:25:01	MonitorSpeechStart	You said something in about 6200 milliseconds.	4032
+2024-05-27 19:25:03	ActionGesture	BrowRaise
+2024-05-27 19:25:03	ActionGesture	BrowRaise
+2024-05-27 19:25:04	ActionGesture	BrowRaise
+2024-05-27 19:25:05	ActionGesture	BrowRaise
+2024-05-27 19:25:07	ActionGesture	Smile
+2024-05-27 19:25:08	SenseSpeech	repeat	819
+2024-05-27 19:25:08	MonitorSpeechStart	You want me to repeat	1275
+2024-05-27 19:25:09	ActionGesture	BrowRaise
+2024-05-27 19:25:11	ActionGesture	Smile
+2024-05-27 19:25:13	SenseSpeech	wait	2141
+2024-05-27 19:25:13	MonitorSpeechStart	<sig rate="1.0">You</sig>	386
+2024-05-27 19:25:14	ActionGesture	BrowRaise
+2024-05-27 19:25:14	ActionGesture	SubtleWobbleYes
+2024-05-27 19:25:15	MonitorSpeechStart	<sig rate="1.0">want time.</sig>	801
+2024-05-27 19:25:15	ActionGesture	BrowRaise
+2024-05-27 19:25:17	ActionGesture	Smile
+2024-05-27 19:25:24	SenseSpeech	wait	7272
+2024-05-27 19:25:24	MonitorSpeechStart	<sig rate="1.0">You</sig>	386
+2024-05-27 19:25:25	ActionGesture	BrowRaise
+2024-05-27 19:25:25	ActionGesture	SubtleWobbleYes
+2024-05-27 19:25:26	MonitorSpeechStart	<sig rate="1.0">want time.</sig>	801
+2024-05-27 19:25:26	ActionGesture	BrowRaise
+2024-05-27 19:25:32	MonitorSpeechStart	<sig rate="1.0">Mm now I will wobble with NO <mark name="action"/></sig>	2210
+2024-05-27 19:25:33	ActionGesture	BrowRaise
+2024-05-27 19:25:34	ActionGesture	BrowRaise
+2024-05-27 19:25:34	ActionGesture	SubtleWobbleNo
+2024-05-27 19:25:36	MonitorSpeechStart	<sig rate="1.0">um before continuing</sig>	1327
+2024-05-27 19:25:36	ActionGesture	BrowRaise
+2024-05-27 19:25:37	ActionGesture	BrowRaise
+2024-05-27 19:25:37	MonitorSpeechStart	<sig rate="1.0">Now I will wobble with YES <mark name="action"/></sig>	2248
+2024-05-27 19:25:39	ActionGesture	BrowRaise
+2024-05-27 19:25:40	ActionGesture	SubtleWobbleYes
+2024-05-27 19:25:41	MonitorSpeechStart	<sig rate="1.0">and finish</sig>	776
+2024-05-27 19:25:41	ActionGesture	BrowRaise
+2024-05-27 19:25:43	ActionGesture	Smile
+2024-05-27 19:25:59	ActionGesture	Smile
+2024-05-27 19:26:08	SenseSpeech	yes	8521
+2024-05-27 19:26:08	MonitorSpeechStart	<sig rate="1.0">I am quite certain <mark name="action"/></sig>	1228
+2024-05-27 19:26:08	ActionGesture	BrowRaise
+2024-05-27 19:26:09	ActionGesture	BrowRaise
+2024-05-27 19:26:09	ActionGesture	EyesOpenBrowUpNod
+2024-05-27 19:26:10	MonitorSpeechStart	<sig rate="1.0">Look at me <mark name="action"/></sig>	608
+2024-05-27 19:26:10	ActionGesture	BrowRaise
+2024-05-27 19:26:11	ActionGesture	EyesOpenBrowUpNod
+2024-05-27 19:26:11	MonitorSpeechStart	<sig rate="1.0">I'm determined</sig>	1016
+2024-05-27 19:26:12	ActionGesture	BrowRaise
+2024-05-27 19:26:14	ActionGesture	Smile
+2024-05-27 19:26:18	SenseSpeech	yes	3469
+2024-05-27 19:26:18	MonitorSpeechStart	<sig rate="1.0">I am quite certain <mark name="action"/></sig>	1228
+2024-05-27 19:26:18	ActionGesture	BrowRaise
+2024-05-27 19:26:19	ActionGesture	BrowRaise
+2024-05-27 19:26:19	ActionGesture	EyesOpenBrowUpNod
+2024-05-27 19:26:20	MonitorSpeechStart	<sig rate="1.0">Look at me <mark name="action"/></sig>	608
+2024-05-27 19:26:20	ActionGesture	BrowRaise
+2024-05-27 19:26:21	ActionGesture	EyesOpenBrowUpNod
+2024-05-27 19:26:21	MonitorSpeechStart	<sig rate="1.0">I'm determined</sig>	1016
+2024-05-27 19:26:22	ActionGesture	BrowRaise
+2024-05-27 19:26:24	ActionGesture	Smile
+2024-05-27 19:26:29	SenseSpeech	yes	4970
+2024-05-27 19:26:29	MonitorSpeechStart	<sig rate="1.0">I am quite certain <mark name="action"/></sig>	1228
+2024-05-27 19:26:29	ActionGesture	BrowRaise
+2024-05-27 19:26:30	ActionGesture	BrowRaise
+2024-05-27 19:26:30	ActionGesture	EyesOpenBrowUpNod
+2024-05-27 19:26:31	MonitorSpeechStart	<sig rate="1.0">Look at me <mark name="action"/></sig>	608
+2024-05-27 19:26:31	ActionGesture	BrowRaise
+2024-05-27 19:26:32	ActionGesture	EyesOpenBrowUpNod
+2024-05-27 19:26:32	MonitorSpeechStart	<sig rate="1.0">I'm determined</sig>	1016
+2024-05-27 19:26:33	ActionGesture	BrowRaise
+2024-05-27 19:26:35	ActionGesture	Smile
+2024-05-27 19:26:42	SenseSpeech	no	7048
+2024-05-27 19:26:42	MonitorSpeechStart	<sig rate="1.0">I am bit <mark name="action"/></sig>	628
+2024-05-27 19:26:42	ActionGesture	BrowRaise
+2024-05-27 19:26:43	ActionGesture	PauseUncertain
+2024-05-27 19:26:44	MonitorSpeechStart	<sig rate="1.0">uncertain. You see? <mark name="action"/></sig>	1882
+2024-05-27 19:26:45	ActionGesture	BrowRaise
+2024-05-27 19:26:46	ActionGesture	PauseUncertain
+2024-05-27 19:26:47	MonitorSpeechStart	<sig rate="1.0">Not much I can do</sig>	1194
+2024-05-27 19:26:48	ActionGesture	BrowRaise
+2024-05-27 19:26:50	ActionGesture	Smile
+2024-05-27 19:27:05	ActionGesture	Smile
+2024-05-27 19:27:06	SenseSpeech	is true	1074
+2024-05-27 19:27:07	MonitorSpeechStart	<sig rate="1.0">You said it is true</sig>	1255
+2024-05-27 19:27:08	ActionGesture	BrowRaise
+2024-05-27 19:27:09	ActionGesture	SubtleNod
+2024-05-27 19:27:10	MonitorSpeechStart	<sig rate="1.0">That's your choice</sig>	1145
+2024-05-27 19:27:11	ActionGesture	BrowRaise
+2024-05-27 19:27:12	ActionGesture	Smile
+2024-05-27 19:27:19	SenseSpeech	the answer is false	5967
+2024-05-27 19:27:19	ActionGesture	SubtleShake
+2024-05-27 19:27:19	MonitorSpeechStart	<sig rate="1.0">You said it is false</sig>	1376
+2024-05-27 19:27:19	ActionGesture	BrowRaise
+2024-05-27 19:27:20	ActionGesture	BrowRaise
+2024-05-27 19:27:21	ActionGesture	SubtleShake
+2024-05-27 19:27:22	MonitorSpeechStart	<sig rate="1.0">That's your choice</sig>	1145
+2024-05-27 19:27:23	ActionGesture	BrowRaise
+2024-05-27 19:27:25	ActionGesture	Smile
+2024-05-27 19:27:36	SenseSpeech	the answer is true	11729
+2024-05-27 19:27:37	MonitorSpeechStart	<sig rate="1.0">You said it is true</sig>	1255
+2024-05-27 19:27:38	ActionGesture	BrowRaise
+2024-05-27 19:27:39	ActionGesture	SubtleNod
+2024-05-27 19:27:40	MonitorSpeechStart	<sig rate="1.0">That's your choice</sig>	1145
+2024-05-27 19:27:41	ActionGesture	BrowRaise
+2024-05-27 19:27:47	MonitorSpeechStart	<sig rate="1.0">Mm now I will wobble with NO <mark name="action"/></sig>	2210
+2024-05-27 19:27:47	ActionGesture	BrowRaise
+2024-05-27 19:27:49	ActionGesture	BrowRaise
+2024-05-27 19:27:49	ActionGesture	SubtleWobbleNo
+2024-05-27 19:27:51	MonitorSpeechStart	<sig rate="1.0">um before continuing</sig>	1327
+2024-05-27 19:27:51	ActionGesture	BrowRaise
+2024-05-27 19:27:52	ActionGesture	BrowRaise
+2024-05-27 19:27:52	MonitorSpeechStart	<sig rate="1.0">Now I will wobble with YES <mark name="action"/></sig>	2248
+2024-05-27 19:27:54	ActionGesture	BrowRaise
+2024-05-27 19:27:55	ActionGesture	SubtleWobbleYes
+2024-05-27 19:27:56	MonitorSpeechStart	<sig rate="1.0">and finish</sig>	776
+2024-05-27 19:27:56	ActionGesture	BrowRaise
+2024-05-27 19:27:58	ActionGesture	Smile
+2024-05-27 19:28:10	SenseSpeech	no	12167
+2024-05-27 19:28:10	MonitorSpeechStart	<sig rate="1.0">I am bit <mark name="action"/></sig>	628
+2024-05-27 19:28:11	ActionGesture	BrowRaise
+2024-05-27 19:28:11	ActionGesture	PauseUncertain
+2024-05-27 19:28:12	MonitorSpeechStart	<sig rate="1.0">uncertain. You see? <mark name="action"/></sig>	1882
+2024-05-27 19:28:14	ActionGesture	BrowRaise
+2024-05-27 19:28:14	ActionGesture	PauseUncertain
+2024-05-27 19:28:15	MonitorSpeechStart	<sig rate="1.0">Not much I can do</sig>	1194
+2024-05-27 19:28:16	ActionGesture	BrowRaise
+2024-05-27 19:28:18	ActionGesture	Smile
+2024-05-27 19:28:20	SenseSpeech	no	2571
+2024-05-27 19:28:20	MonitorSpeechStart	<sig rate="1.0">I am bit <mark name="action"/></sig>	628
+2024-05-27 19:28:21	ActionGesture	BrowRaise
+2024-05-27 19:28:21	ActionGesture	PauseUncertain
+2024-05-27 19:28:22	MonitorSpeechStart	<sig rate="1.0">uncertain. You see? <mark name="action"/></sig>	1882
+2024-05-27 19:28:24	ActionGesture	BrowRaise
+2024-05-27 19:28:24	ActionGesture	PauseUncertain
+2024-05-27 19:28:25	MonitorSpeechStart	<sig rate="1.0">Not much I can do</sig>	1194
+2024-05-27 19:28:26	ActionGesture	BrowRaise
+2024-05-27 19:28:28	ActionGesture	Smile
+2024-05-27 19:29:45	Autoreload is disabled because the development mode is off.
+2024-05-27 19:29:46	Application started in 0.595 seconds.
+2024-05-27 19:29:46	Responding at http://127.0.0.1:8888
+2024-05-27 19:29:48	----------------- NEW EXECUTION-------------------
+2024-05-27 19:29:48	FlowEvent	NEW_FLOW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-27 19:29:49	MonitorSpeechStart	Mm. Now I will pause <mark name="action"/>	2319
+2024-05-27 19:29:50	ActionGesture	BrowRaise
+2024-05-27 19:29:51	ActionGesture	BrowRaise
+2024-05-27 19:29:51	ActionGesture	SubtleWobbleYes
+2024-05-27 19:29:53	MonitorSpeechStart	Um. before continuing	1908
+2024-05-27 19:29:54	ActionGesture	BrowRaise
+2024-05-27 19:29:54	ActionGesture	BrowRaise
+2024-05-27 19:29:55	MonitorSpeechStart	Ok, let's test.	1700
+2024-05-27 19:29:56	ActionGesture	BrowRaise
+2024-05-27 19:30:00	ActionGesture	Smile
+2024-05-27 19:30:01	SenseSpeech	the answer is false	1392
+2024-05-27 19:30:01	ActionGesture	SubtleShake
+2024-05-27 19:30:02	MonitorSpeechStart	<sig rate="1.0">You said it is false</sig>	1376
+2024-05-27 19:30:02	ActionGesture	BrowRaise
+2024-05-27 19:30:03	ActionGesture	BrowRaise
+2024-05-27 19:30:04	ActionGesture	SubtleShake
+2024-05-27 19:30:05	MonitorSpeechStart	<sig rate="1.0">That's your choice</sig>	1145
+2024-05-27 19:30:06	ActionGesture	BrowRaise
+2024-05-27 19:30:10	ActionGesture	Smile
+2024-05-27 19:30:11	SenseSpeech	and it says true	1114
+2024-05-27 19:30:11	MonitorSpeechStart	<sig rate="1.0">You said it is true</sig>	1255
+2024-05-27 19:30:12	ActionGesture	BrowRaise
+2024-05-27 19:30:13	ActionGesture	SubtleNod
+2024-05-27 19:30:15	MonitorSpeechStart	<sig rate="1.0">That's your choice</sig>	1145
+2024-05-27 19:30:16	ActionGesture	BrowRaise
+2024-05-27 19:30:17	ActionGesture	Smile
+2024-05-27 19:30:26	SenseSpeech	um	9027
+2024-05-27 19:30:27	MonitorSpeechStart	<sig rate="1.0">You said something in about 9027 milliseconds.</sig>	4234
+2024-05-27 19:30:28	ActionGesture	BrowRaise
+2024-05-27 19:30:28	ActionGesture	BrowRaise
+2024-05-27 19:30:28	ActionGesture	BrowRaise
+2024-05-27 19:30:30	ActionGesture	BrowRaise
+2024-05-27 19:30:32	ActionGesture	Smile
+2024-05-27 19:30:35	SenseSpeech	no	3173
+2024-05-27 19:30:36	MonitorSpeechStart	<sig rate="1.0">I am bit <mark name="action"/></sig>	628
+2024-05-27 19:30:36	ActionGesture	BrowRaise
+2024-05-27 19:30:36	ActionGesture	PauseUncertain
+2024-05-27 19:30:37	MonitorSpeechStart	<sig rate="1.0">uncertain. You see? <mark name="action"/></sig>	1882
+2024-05-27 19:30:39	ActionGesture	BrowRaise
+2024-05-27 19:30:39	ActionGesture	PauseUncertain
+2024-05-27 19:30:40	MonitorSpeechStart	<sig rate="1.0">Not much I can do</sig>	1194
+2024-05-27 19:30:41	ActionGesture	BrowRaise
+2024-05-27 19:30:47	MonitorSpeechStart	<sig rate="1.0">Mm now I will wobble with NO <mark name="action"/></sig>	2210
+2024-05-27 19:30:48	ActionGesture	BrowRaise
+2024-05-27 19:30:49	ActionGesture	BrowRaise
+2024-05-27 19:30:50	ActionGesture	SubtleWobbleNo
+2024-05-27 19:30:51	MonitorSpeechStart	<sig rate="1.0">um before continuing</sig>	1327
+2024-05-27 19:30:51	ActionGesture	BrowRaise
+2024-05-27 19:30:52	ActionGesture	BrowRaise
+2024-05-27 19:30:53	MonitorSpeechStart	<sig rate="1.0">Now I will wobble with YES <mark name="action"/></sig>	2248
+2024-05-27 19:30:54	ActionGesture	BrowRaise
+2024-05-27 19:30:55	ActionGesture	SubtleWobbleYes
+2024-05-27 19:30:56	MonitorSpeechStart	<sig rate="1.0">and finish</sig>	776
+2024-05-27 19:30:57	ActionGesture	BrowRaise
+2024-05-27 19:30:58	ActionGesture	Smile
+2024-05-27 19:31:04	SenseSpeech	yes	5400
+2024-05-27 19:31:04	MonitorSpeechStart	<sig rate="1.0">I am quite certain <mark name="action"/></sig>	1228
+2024-05-27 19:31:04	ActionGesture	BrowRaise
+2024-05-27 19:31:05	ActionGesture	BrowRaise
+2024-05-27 19:31:05	ActionGesture	EyesOpenBrowUpNod
+2024-05-27 19:31:06	MonitorSpeechStart	<sig rate="1.0">Look at me <mark name="action"/></sig>	608
+2024-05-27 19:31:07	ActionGesture	BrowRaise
+2024-05-27 19:31:07	ActionGesture	EyesOpenBrowUpNod
+2024-05-27 19:31:08	MonitorSpeechStart	<sig rate="1.0">I'm determined</sig>	1016
+2024-05-27 19:31:08	ActionGesture	BrowRaise
+2024-05-27 19:31:10	ActionGesture	Smile
+2024-05-27 19:34:14	Autoreload is disabled because the development mode is off.
+2024-05-27 19:34:14	Application started in 0.59 seconds.
+2024-05-27 19:34:15	Responding at http://127.0.0.1:8888
+2024-05-27 19:34:16	----------------- NEW EXECUTION-------------------
+2024-05-27 19:34:16	FlowEvent	NEW_FLOW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-27 19:34:17	MonitorSpeechStart	Mm. Now I will pause <mark name="action"/>	2319
+2024-05-27 19:34:18	ActionGesture	BrowRaise
+2024-05-27 19:34:19	ActionGesture	BrowRaise
+2024-05-27 19:34:19	ActionGesture	SubtleWobbleYes
+2024-05-27 19:34:21	MonitorSpeechStart	Um. before continuing	1908
+2024-05-27 19:34:22	ActionGesture	BrowRaise
+2024-05-27 19:34:22	ActionGesture	BrowRaise
+2024-05-27 19:34:23	MonitorSpeechStart	Ok, let's test.	1700
+2024-05-27 19:34:24	ActionGesture	BrowRaise
+2024-05-27 19:34:26	ActionGesture	Smile
+2024-05-27 19:34:30	SenseSpeech	is false	3913
+2024-05-27 19:34:30	ActionGesture	SubtleShake
+2024-05-27 19:34:30	MonitorSpeechStart	<sig rate="1.0">You said it is false</sig>	1376
+2024-05-27 19:34:31	ActionGesture	BrowRaise
+2024-05-27 19:34:31	ActionGesture	BrowRaise
+2024-05-27 19:34:32	ActionGesture	SubtleShake
+2024-05-27 19:34:34	MonitorSpeechStart	<sig rate="1.0">That's your choice</sig>	1145
+2024-05-27 19:34:35	ActionGesture	BrowRaise
+2024-05-27 19:34:36	ActionGesture	Smile
+2024-05-27 19:34:41	SenseSpeech	say no	4822
+2024-05-27 19:34:41	MonitorSpeechStart	<sig rate="1.0">I am bit <mark name="action"/></sig>	628
+2024-05-27 19:34:42	ActionGesture	BrowRaise
+2024-05-27 19:34:42	ActionGesture	PauseUncertain
+2024-05-27 19:34:43	MonitorSpeechStart	<sig rate="1.0">uncertain. You see? <mark name="action"/></sig>	1882
+2024-05-27 19:34:45	ActionGesture	BrowRaise
+2024-05-27 19:34:45	ActionGesture	PauseUncertain
+2024-05-27 19:34:46	MonitorSpeechStart	<sig rate="1.0">Not much I can do</sig>	1194
+2024-05-27 19:34:47	ActionGesture	BrowRaise
+2024-05-27 19:34:58	MonitorSpeechStart	<sig rate="1.0">Mm now I will wobble with NO <mark name="action"/></sig>	2210
+2024-05-27 19:34:58	ActionGesture	BrowRaise
+2024-05-27 19:35:00	ActionGesture	BrowRaise
+2024-05-27 19:35:00	ActionGesture	SubtleWobbleNo
+2024-05-27 19:35:01	MonitorSpeechStart	<sig rate="1.0">um before continuing</sig>	1327
+2024-05-27 19:35:02	ActionGesture	BrowRaise
+2024-05-27 19:35:03	ActionGesture	BrowRaise
+2024-05-27 19:35:03	MonitorSpeechStart	<sig rate="1.0">Now I will wobble with YES <mark name="action"/></sig>	2248
+2024-05-27 19:35:05	ActionGesture	BrowRaise
+2024-05-27 19:35:05	ActionGesture	SubtleWobbleYes
+2024-05-27 19:35:07	MonitorSpeechStart	<sig rate="1.0">and finish</sig>	776
+2024-05-27 19:35:07	ActionGesture	BrowRaise
+2024-05-27 19:35:09	ActionGesture	Smile
+2024-05-27 19:35:15	SenseSpeech	yes	6074
+2024-05-27 19:35:15	MonitorSpeechStart	<sig rate="1.0">I am quite certain <mark name="action"/></sig>	1228
+2024-05-27 19:35:15	ActionGesture	BrowRaise
+2024-05-27 19:35:16	ActionGesture	BrowRaise
+2024-05-27 19:35:16	ActionGesture	EyesOpenBrowUpNod
+2024-05-27 19:35:17	MonitorSpeechStart	<sig rate="1.0">Look at me <mark name="action"/></sig>	608
+2024-05-27 19:35:18	ActionGesture	BrowRaise
+2024-05-27 19:35:18	ActionGesture	EyesOpenBrowUpNod
+2024-05-27 19:35:19	MonitorSpeechStart	<sig rate="1.0">I'm determined</sig>	1016
+2024-05-27 19:35:19	ActionGesture	BrowRaise
+2024-05-27 19:35:22	ActionGesture	Smile
+2024-05-27 19:35:25	SenseSpeech	the answer is true	2491
+2024-05-27 19:35:25	MonitorSpeechStart	<sig rate="1.0">You said it is true</sig>	1255
+2024-05-27 19:35:26	ActionGesture	BrowRaise
+2024-05-27 19:35:27	ActionGesture	SubtleNod
+2024-05-27 19:35:28	MonitorSpeechStart	<sig rate="1.0">That's your choice</sig>	1145
+2024-05-27 19:35:29	ActionGesture	BrowRaise
+2024-05-27 19:35:35	MonitorSpeechStart	<sig rate="1.0">Mm now I will wobble with NO <mark name="action"/></sig>	2210
+2024-05-27 19:35:36	ActionGesture	BrowRaise
+2024-05-27 19:35:37	ActionGesture	BrowRaise
+2024-05-27 19:35:37	ActionGesture	SubtleWobbleNo
+2024-05-27 19:35:39	MonitorSpeechStart	<sig rate="1.0">um before continuing</sig>	1327
+2024-05-27 19:35:39	ActionGesture	BrowRaise
+2024-05-27 19:35:40	ActionGesture	BrowRaise
+2024-05-27 19:35:40	MonitorSpeechStart	<sig rate="1.0">Now I will wobble with YES <mark name="action"/></sig>	2248
+2024-05-27 19:35:42	ActionGesture	BrowRaise
+2024-05-27 19:35:43	ActionGesture	SubtleWobbleYes
+2024-05-27 19:35:44	MonitorSpeechStart	<sig rate="1.0">and finish</sig>	776
+2024-05-27 19:35:44	ActionGesture	BrowRaise
+2024-05-27 19:35:46	ActionGesture	Smile
+2024-05-27 19:36:02	ActionGesture	Smile
+2024-05-27 19:36:18	ActionGesture	Smile
+2024-05-27 19:36:55	ActionGesture	Smile
+2024-05-27 19:37:11	ActionGesture	Smile
+2024-05-27 19:37:27	ActionGesture	Smile
+2024-05-27 19:38:04	ActionGesture	Smile
+2024-05-27 19:38:20	ActionGesture	Smile
+2024-05-27 19:38:37	ActionGesture	Smile
+2024-05-27 19:38:53	ActionGesture	Smile
+2024-05-27 19:39:17	ActionGesture	Smile
+2024-05-27 19:40:13	ActionGesture	Smile
+2024-05-27 19:40:29	ActionGesture	Smile
+2024-05-27 19:40:45	ActionGesture	Smile
+2024-05-27 19:41:10	ActionGesture	Smile
+2024-05-27 19:41:47	ActionGesture	Smile
+2024-05-27 19:42:03	ActionGesture	Smile
+2024-05-27 19:42:19	ActionGesture	Smile
+2024-05-27 19:42:36	ActionGesture	Smile
+2024-05-27 19:42:52	ActionGesture	Smile
+2024-05-27 19:43:08	ActionGesture	Smile

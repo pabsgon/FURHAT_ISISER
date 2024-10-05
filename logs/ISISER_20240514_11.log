@@ -1,0 +1,114 @@
+2024-05-14 11:35:06	Autoreload is disabled because the development mode is off.
+2024-05-14 11:35:07	Application started in 0.651 seconds.
+2024-05-14 11:35:07	Responding at http://127.0.0.1:8888
+2024-05-14 11:35:09	----------------- NEW EXECUTION-------------------
+2024-05-14 11:35:09	ActionGesture	CloseEyes
+2024-05-14 11:36:51	Autoreload is disabled because the development mode is off.
+2024-05-14 11:36:51	Application started in 0.527 seconds.
+2024-05-14 11:36:51	Responding at http://127.0.0.1:8888
+2024-05-14 11:36:52	----------------- NEW EXECUTION-------------------
+2024-05-14 11:36:52	ActionGesture	CloseEyes
+2024-05-14 11:36:56	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	UNDEFINED
+GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	UNDEFINED
+2024-05-14 11:36:57	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	UNDEFINED
+SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	UNDEFINED
+2024-05-14 11:37:02	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [20] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	UNDEFINED
+NEW_STAGE_REQUESTED	STAGE[0.2] [20] REQUESTED .. [ACCEPTED]	0.2	UNDEFINED	UNDEFINED	UNDEFINED
+2024-05-14 11:37:02	SystemEvent	USER_SET	USER SET IN GUI.	0.2	20	UNDEFINED	UNDEFINED
+2024-05-14 11:37:02	ActionGesture	OpenEyes
+2024-05-14 11:37:02	ActionGesture	Smile
+2024-05-14 11:37:02	MonitorSpeechStart	Hi there	477
+2024-05-14 11:37:02	ActionGesture	BrowRaise
+2024-05-14 11:37:04	ActionGesture	BigSmile
+2024-05-14 11:37:04	MonitorSpeechStart	Nice to meet you.	824
+2024-05-14 11:37:04	ActionGesture	BrowRaise
+2024-05-14 11:37:06	MonitorSpeechStart	How you doing?	741
+2024-05-14 11:37:06	ActionGesture	BrowRaise
+2024-05-14 11:37:08	ActionGesture	Smile
+2024-05-14 11:37:09	SenseSpeech	what are you doing	1017
+2024-05-14 11:37:09	MonitorSpeechStart	Ok	618
+2024-05-14 11:37:09	ActionGesture	BrowRaise
+2024-05-14 11:37:10	MonitorSpeechStart	I suppose they told you what we are here for a little bit	2441
+2024-05-14 11:37:11	ActionGesture	BrowRaise
+2024-05-14 11:37:12	ActionGesture	BrowRaise
+2024-05-14 11:37:14	MonitorSpeechStart	Right?	438
+2024-05-14 11:37:14	ActionGesture	BrowRaise
+2024-05-14 11:37:15	ActionGesture	Smile
+2024-05-14 11:37:16	SenseSpeech	right	993
+2024-05-14 11:37:17	MonitorSpeechStart	So	386
+2024-05-14 11:37:18	MonitorSpeechStart	I guess we have clear what we have to do now, don't we?	2856
+2024-05-14 11:37:20	ActionGesture	BrowRaise
+2024-05-14 11:37:22	ActionGesture	Smile
+2024-05-14 11:37:22	GUIEvent	NEW_STAGE_REQUESTED	STAGE[1] [20] REQUESTED .. [ACCEPTED]	0.2	20	CONDITION1	UNDEFINED
+NEW_STAGE_REQUESTED	STAGE[1] [20] REQUESTED .. [ACCEPTED]	1	20	CONDITION1	UNDEFINED
+2024-05-14 11:37:22	SenseSpeech	don't we	318
+2024-05-14 11:37:24	MonitorSpeechStart	Question 1	821
+2024-05-14 11:37:25	ActionGesture	BrowRaise
+2024-05-14 11:37:27	MonitorSpeechStart	Holy	459
+2024-05-14 11:37:30	GUIEvent	ANSWER_SENT	ANSWER[FALSE] [1] [20] SENT .. [ACCEPTED]	1	20	CONDITION1	UNDEFINED
+ANSWER_SENT	ANSWER[FALSE] [1] [20] SENT .. [ACCEPTED]	1	20	CONDITION1	UNDEFINED
+2024-05-14 11:37:36	MonitorSpeechStart	So what do you think?	979
+2024-05-14 11:37:37	ActionGesture	BrowRaise
+2024-05-14 11:37:43	MonitorSpeechStart	So what do you think?	979
+2024-05-14 11:37:43	ActionGesture	BrowRaise
+2024-05-14 11:37:45	ActionGesture	Smile
+2024-05-14 11:37:46	SenseSpeech	what do you think	1086
+2024-05-14 11:37:46	MonitorSpeechStart	Just mark what I said, confirm and move on to next	2881
+2024-05-14 11:37:46	GUIEvent	NEW_STAGE_REQUESTED	STAGE[2] [20] REQUESTED .. [ACCEPTED]	1	20	CONDITION1	UNDEFINED
+NEW_STAGE_REQUESTED	STAGE[2] [20] REQUESTED .. [ACCEPTED]	2	20	CONDITION1	UNDEFINED
+2024-05-14 11:37:47	MonitorSpeechStart	Good boy. You confirmed	1743
+2024-05-14 11:37:48	ActionGesture	BrowRaise
+2024-05-14 11:37:51	MonitorSpeechStart	Number 2	699
+2024-05-14 11:37:51	ActionGesture	BrowRaise
+2024-05-14 11:37:53	MonitorSpeechStart	OK	618
+2024-05-14 11:37:53	ActionGesture	BrowRaise
+2024-05-14 11:37:55	ActionGesture	Smile
+2024-05-14 11:37:56	SenseSpeech	okay	1004
+2024-05-14 11:38:02	MonitorSpeechStart	So what do you think?	979
+2024-05-14 11:38:02	ActionGesture	BrowRaise
+2024-05-14 11:38:04	ActionGesture	Smile
+2024-05-14 11:38:05	SenseSpeech	so what do you think	1250
+2024-05-14 11:38:05	MonitorSpeechStart	Just mark what I said, confirm and move on to next	2881
+2024-05-14 11:38:06	ActionGesture	BrowRaise
+2024-05-14 11:50:50	Autoreload is disabled because the development mode is off.
+2024-05-14 11:50:51	Application started in 0.514 seconds.
+2024-05-14 11:50:51	Responding at http://127.0.0.1:8888
+2024-05-14 11:50:52	----------------- NEW EXECUTION-------------------
+2024-05-14 11:50:52	ActionGesture	CloseEyes
+2024-05-14 11:51:03	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	UNDEFINED
+2024-05-14 11:51:03	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	UNDEFINED
+2024-05-14 11:51:06	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [22] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	UNDEFINED
+2024-05-14 11:51:06	SystemEvent	USER_SET	USER SET IN GUI.	0.2	22	UNDEFINED	UNDEFINED
+2024-05-14 11:51:06	ActionGesture	OpenEyes
+2024-05-14 11:51:06	ActionGesture	Smile
+2024-05-14 11:51:06	MonitorSpeechStart	Oh, hello there	1105
+2024-05-14 11:51:07	ActionGesture	BrowRaise
+2024-05-14 11:51:08	ActionGesture	BigSmile
+2024-05-14 11:51:08	MonitorSpeechStart	Nice to meet you.	824
+2024-05-14 11:51:08	ActionGesture	BrowRaise
+2024-05-14 11:51:10	MonitorSpeechStart	How you doing?	741
+2024-05-14 11:51:10	ActionGesture	BrowRaise
+2024-05-14 11:51:10	GUIEvent	NEW_STAGE_REQUESTED	STAGE[1] [22] REQUESTED .. [ACCEPTED]	0.2	22	CONDITION2	UNDEFINED
+2024-05-14 11:51:12	MonitorSpeechStart	Question 1	821
+2024-05-14 11:51:13	ActionGesture	BrowRaise
+2024-05-14 11:51:14	GUIEvent	ANSWER_SENT	ANSWER[TRUE] [1] [22] SENT .. [ACCEPTED]	1	22	CONDITION2	UNDEFINED
+2024-05-14 11:51:18	MonitorSpeechStart	DISCLOSURE 1 UNCERTAIN	1453
+2024-05-14 11:51:19	ActionGesture	BrowRaise
+2024-05-14 11:51:26	GUIEvent	NEW_STAGE_REQUESTED	STAGE[2] [22] REQUESTED .. [ACCEPTED]	1	22	CONDITION2	UNDEFINED
+2024-05-14 11:51:26	MonitorSpeechStart	Good boy. You confirmed	1743
+2024-05-14 11:51:27	ActionGesture	BrowRaise
+2024-05-14 11:51:30	MonitorSpeechStart	2	383
+2024-05-14 11:51:32	MonitorSpeechStart	OK	618
+2024-05-14 11:51:32	ActionGesture	BrowRaise
+2024-05-14 11:51:33	ActionGesture	Smile
+2024-05-14 11:51:34	GUIEvent	ANSWER_SENT	ANSWER[TRUE] [2] [22] SENT .. [ACCEPTED]	2	22	CONDITION2	UNDEFINED
+2024-05-14 11:51:34	SenseSpeech	okay	648
+2024-05-14 11:51:37	MonitorSpeechStart	DISCLOSURE 2 NEUTRAL	1197
+2024-05-14 11:51:38	ActionGesture	BrowRaise
+2024-05-14 11:51:45	MonitorSpeechStart	So what do you think?	979
+2024-05-14 11:51:46	ActionGesture	BrowRaise
+2024-05-14 11:51:47	ActionGesture	Smile
+2024-05-14 11:51:48	SenseSpeech	so what do you think	1327
+2024-05-14 11:51:49	MonitorSpeechStart	Just mark what I said, confirm and move on to next	2881
+2024-05-14 11:51:50	ActionGesture	BrowRaise
+2024-05-14 11:51:51	ActionGesture	BrowRaise

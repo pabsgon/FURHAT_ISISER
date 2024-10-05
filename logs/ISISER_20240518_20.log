@@ -1,0 +1,145 @@
+2024-05-18 20:00:32	Autoreload is disabled because the development mode is off.
+2024-05-18 20:00:32	Application started in 0.531 seconds.
+2024-05-18 20:00:32	Responding at http://127.0.0.1:8888
+2024-05-18 20:00:34	----------------- NEW EXECUTION-------------------
+2024-05-18 20:00:34	ActionGesture	CloseEyes
+2024-05-18 20:00:41	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-18 20:00:41	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-18 20:00:42	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [4] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-18 20:00:42	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	4	UNDEFINED	Init
+2024-05-18 20:00:42	ActionGesture	OpenEyes
+2024-05-18 20:00:42	ActionGesture	Smile
+2024-05-18 20:00:42	ActionGesture	BigSmile
+2024-05-18 20:01:49	Autoreload is disabled because the development mode is off.
+2024-05-18 20:01:50	Application started in 0.632 seconds.
+2024-05-18 20:01:50	Responding at http://127.0.0.1:8888
+2024-05-18 20:01:52	----------------- NEW EXECUTION-------------------
+2024-05-18 20:01:52	ActionGesture	CloseEyes
+2024-05-18 20:01:54	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-18 20:01:55	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-18 20:01:56	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [3] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-18 20:01:56	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	3	UNDEFINED	Init
+2024-05-18 20:01:56	ActionGesture	OpenEyes
+2024-05-18 20:01:56	ActionGesture	Smile
+2024-05-18 20:01:57	MonitorSpeechStart	Hello there....Nice to meet you...How you doing?	2599
+2024-05-18 20:01:59	ActionGesture	BrowRaise
+2024-05-18 20:35:07	Autoreload is disabled because the development mode is off.
+2024-05-18 20:35:07	Application started in 0.596 seconds.
+2024-05-18 20:35:08	Responding at http://127.0.0.1:8888
+2024-05-18 20:35:09	----------------- NEW EXECUTION-------------------
+2024-05-18 20:35:10	ActionGesture	CloseEyes
+2024-05-18 20:35:14	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-18 20:35:15	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-18 20:35:16	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [4] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-18 20:35:16	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	4	UNDEFINED	Init
+2024-05-18 20:35:16	ActionGesture	OpenEyes
+2024-05-18 20:35:16	ActionGesture	Smile
+2024-05-18 20:35:16	MonitorSpeechStart	Hello there....Nice to meet you...How you doing?	2599
+2024-05-18 20:35:18	ActionGesture	BrowRaise
+2024-05-18 20:35:20	ActionGesture	Smile
+2024-05-18 20:35:21	SenseSpeech	yeah	949
+2024-05-18 20:35:22	MonitorSpeechStart	Ok	618
+2024-05-18 20:35:22	ActionGesture	BrowRaise
+2024-05-18 20:35:24	MonitorSpeechStart	However, i need to <emphasis>emphasize</emphasis> clearly this...Don't worry I suppose they told you what we are here for a little bit	5640
+2024-05-18 20:35:24	ActionGesture	BrowRaise
+2024-05-18 20:35:25	ActionGesture	BrowRaise
+2024-05-18 20:35:26	ActionGesture	BrowRaise
+2024-05-18 20:35:29	ActionGesture	BrowRaise
+2024-05-18 20:35:31	MonitorSpeechStart	Right?	438
+2024-05-18 20:35:31	ActionGesture	BrowRaise
+2024-05-18 20:35:36	MonitorSpeechStart	Oops, I don't hear you.	1345
+2024-05-18 20:35:37	ActionGesture	BrowRaise
+2024-05-18 20:35:38	MonitorSpeechStart	So	386
+2024-05-18 20:36:12	Autoreload is disabled because the development mode is off.
+2024-05-18 20:36:12	Application started in 0.58 seconds.
+2024-05-18 20:36:13	Responding at http://127.0.0.1:8888
+2024-05-18 20:36:14	----------------- NEW EXECUTION-------------------
+2024-05-18 20:36:14	ActionGesture	CloseEyes
+2024-05-18 20:36:16	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-18 20:36:17	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-18 20:36:18	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [29] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-18 20:36:18	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	29	UNDEFINED	Init
+2024-05-18 20:36:18	ActionGesture	OpenEyes
+2024-05-18 20:36:18	ActionGesture	Smile
+2024-05-18 20:36:18	MonitorSpeechStart	Hello there....Nice to meet you...How you doing?	2599
+2024-05-18 20:36:20	ActionGesture	BrowRaise
+2024-05-18 20:36:23	ActionGesture	Smile
+2024-05-18 20:36:24	SenseSpeech	yep	1229
+2024-05-18 20:36:25	MonitorSpeechStart	Ok	618
+2024-05-18 20:36:25	ActionGesture	BrowRaise
+2024-05-18 20:36:26	MonitorSpeechStart	However, i need to <emphasis>emphasize</emphasis> clearly this...Don't worry I suppose they told you what we are here for a little bit	5640
+2024-05-18 20:36:26	ActionGesture	BrowRaise
+2024-05-18 20:36:27	ActionGesture	BrowRaise
+2024-05-18 20:36:28	ActionGesture	BrowRaise
+2024-05-18 20:36:31	ActionGesture	BrowRaise
+2024-05-18 20:36:33	MonitorSpeechStart	Right?	438
+2024-05-18 20:36:33	ActionGesture	BrowRaise
+2024-05-18 20:36:35	ActionGesture	Smile
+2024-05-18 20:36:36	SenseSpeech	right	921
+2024-05-18 20:36:36	MonitorSpeechStart	So	386
+2024-05-18 20:36:38	MonitorSpeechStart	I guess we have <emphasis>clear</emphasis> what we have to do now, don't we?	2929
+2024-05-18 20:36:40	ActionGesture	BrowRaise
+2024-05-18 20:37:50	Autoreload is disabled because the development mode is off.
+2024-05-18 20:37:51	Application started in 0.583 seconds.
+2024-05-18 20:37:51	Responding at http://127.0.0.1:8888
+2024-05-18 20:37:53	----------------- NEW EXECUTION-------------------
+2024-05-18 20:37:53	ActionGesture	CloseEyes
+2024-05-18 20:37:54	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-18 20:37:54	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-18 20:37:56	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [21] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-18 20:37:56	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	21	UNDEFINED	Init
+2024-05-18 20:37:56	ActionGesture	OpenEyes
+2024-05-18 20:37:56	ActionGesture	Smile
+2024-05-18 20:37:56	MonitorSpeechStart	Hello there....Nice to meet you...How you doing?	2599
+2024-05-18 20:37:58	ActionGesture	BrowRaise
+2024-05-18 20:38:00	ActionGesture	Smile
+2024-05-18 20:38:00	SenseSpeech	yep	807
+2024-05-18 20:38:01	MonitorSpeechStart	Ok	618
+2024-05-18 20:38:01	ActionGesture	BrowRaise
+2024-05-18 20:38:03	MonitorSpeechStart	I need to <emphasis>emphasize</emphasis> clearly this...Don't worry	2613
+2024-05-18 20:38:04	ActionGesture	BrowRaise
+2024-05-18 20:38:06	ActionGesture	BrowRaise
+2024-05-18 20:38:07	MonitorSpeechStart	Ineed to emphasize clearly this...Don't worry I suppose they told you what we are here for a little bit	4748
+2024-05-18 20:38:08	ActionGesture	BrowRaise
+2024-05-18 20:38:10	ActionGesture	BrowRaise
+2024-05-18 20:38:12	ActionGesture	BrowRaise
+2024-05-18 20:38:13	MonitorSpeechStart	Right?	438
+2024-05-18 20:38:13	ActionGesture	BrowRaise
+2024-05-18 20:38:16	ActionGesture	Smile
+2024-05-18 20:38:17	SenseSpeech	yep	1150
+2024-05-18 20:38:18	MonitorSpeechStart	Right, as far as I know, once you press the button there on the tablet, we will both get a question to resolve together.	6190
+2024-05-18 20:38:18	ActionGesture	BrowRaise
+2024-05-18 20:38:19	ActionGesture	BrowRaise
+2024-05-18 20:38:21	ActionGesture	BrowRaise
+2024-05-18 20:38:24	ActionGesture	BrowRaise
+2024-05-18 20:38:25	MonitorSpeechStart	So	386
+2024-05-18 20:38:26	MonitorSpeechStart	Whenever you want, press the button, go ahead	2699
+2024-05-18 20:38:29	ActionGesture	BrowRaise
+2024-05-18 20:38:32	ActionGesture	Smile
+2024-05-18 20:38:33	SenseSpeech	UA	1085
+2024-05-18 20:38:33	MonitorSpeechStart	So	386
+2024-05-18 20:38:35	MonitorSpeechStart	I guess we have <emphasis>clear</emphasis> what we have to do now, don't we?	2929
+2024-05-18 20:38:37	ActionGesture	BrowRaise
+2024-05-18 20:38:39	MonitorSpeechStart	I guess we have clear what we have to do now, don't we?	2856
+2024-05-18 20:38:40	ActionGesture	BrowRaise
+2024-05-18 20:38:46	ActionGesture	Smile
+2024-05-18 20:38:47	SenseSpeech	UGI	1066
+2024-05-18 20:38:47	MonitorSpeechStart	So	386
+2024-05-18 20:38:49	MonitorSpeechStart	I guess we have <emphasis>clear</emphasis> what we have to do now, don't we?	2929
+2024-05-18 20:38:51	ActionGesture	BrowRaise
+2024-05-18 20:38:53	MonitorSpeechStart	I guess we have clear what we have to do now, don't we?	2856
+2024-05-18 20:38:55	ActionGesture	BrowRaise
+2024-05-18 20:39:01	MonitorSpeechStart	Oops, I don't hear you.	1345
+2024-05-18 20:39:02	ActionGesture	BrowRaise
+2024-05-18 20:39:03	MonitorSpeechStart	So	386
+2024-05-18 20:39:04	MonitorSpeechStart	I guess we have <emphasis>clear</emphasis> what we have to do now, don't we?	2929
+2024-05-18 20:39:06	ActionGesture	BrowRaise
+2024-05-18 20:39:08	MonitorSpeechStart	I guess we have clear what we have to do now, don't we?	2856
+2024-05-18 20:39:10	ActionGesture	BrowRaise
+2024-05-18 20:39:16	MonitorSpeechStart	Oops, I don't hear you.	1345
+2024-05-18 20:39:17	ActionGesture	BrowRaise
+2024-05-18 20:39:18	MonitorSpeechStart	So	386
+2024-05-18 20:39:19	MonitorSpeechStart	I guess we have <emphasis>clear</emphasis> what we have to do now, don't we?	2929
+2024-05-18 20:39:21	ActionGesture	BrowRaise
+2024-05-18 20:39:23	MonitorSpeechStart	I guess we have clear what we have to do now, don't we?	2856
+2024-05-18 20:39:25	ActionGesture	BrowRaise

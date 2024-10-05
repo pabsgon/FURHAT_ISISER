@@ -1,0 +1,1282 @@
+2024-05-28 15:02:00	MonitorSpeechStart	<prosody rate="1.0">No start signal received, terminating the program.</prosody>	2929
+2024-05-28 15:02:02	ActionGesture	BrowRaise
+2024-05-28 15:03:45	Autoreload is disabled because the development mode is off.
+2024-05-28 15:03:46	Application started in 0.659 seconds.
+2024-05-28 15:03:46	Responding at http://127.0.0.1:8888
+2024-05-28 15:04:01	----------------- NEW EXECUTION-------------------
+2024-05-28 15:04:01	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-28 15:04:01	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-28 15:04:01	ActionGesture	CloseEyes
+2024-05-28 15:04:01	ActionGesture	CloseEyes
+2024-05-28 15:04:21	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [5] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-28 15:04:21	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	5	UNDEFINED	Sleep
+2024-05-28 15:04:21	FlowEvent	NEW_FLOW_STATE	Welcome	0.2		CONDITION1	Welcome
+2024-05-28 15:04:21	ActionGesture	OpenEyes
+2024-05-28 15:04:21	ActionGesture	Smile
+2024-05-28 15:04:22	MonitorSpeechStart	<prosody rate="1.0">Hej</prosody>	450
+2024-05-28 15:04:22	ActionGesture	BrowRaise
+2024-05-28 15:04:23	MonitorSpeechStart	<prosody rate="1.0">Trevligt att träffas</prosody>	1350
+2024-05-28 15:04:24	ActionGesture	BrowRaise
+2024-05-28 15:04:25	MonitorSpeechStart	<prosody rate="1.0">Hur är läget?</prosody>	912
+2024-05-28 15:04:26	ActionGesture	BrowRaise
+2024-05-28 15:04:29	ActionGesture	Smile
+2024-05-28 15:04:31	SenseSpeech	har ju	1978
+2024-05-28 15:04:31	FlowEvent	NEW_FLOW_STATE	ReviewInstructions	0.2		CONDITION1	ReviewInstructions
+2024-05-28 15:04:32	MonitorSpeechStart	<prosody rate="1.0">Jag har fått veta att du och jag ska fundera på åtta problem om elkretsar. Har du också fårtt reda på det?</prosody>	6367
+2024-05-28 15:04:32	ActionGesture	BrowRaise
+2024-05-28 15:04:34	ActionGesture	BrowRaise
+2024-05-28 15:04:35	ActionGesture	BrowRaise
+2024-05-28 15:04:38	ActionGesture	BrowRaise
+2024-05-28 15:04:40	ActionGesture	Smile
+2024-05-28 15:04:43	SenseSpeech	Jason Swedish	2921
+2024-05-28 15:04:43	MonitorSpeechStart	<prosody rate="1.0">mm,</prosody>	437
+2024-05-28 15:04:44	ActionGesture	BrowRaise
+2024-05-28 15:04:45	MonitorSpeechStart	<prosody rate="1.0">Alltså, varje fråga kommer att visas på skärmen, och samtidigt skickas till mig. Vi funderar, svarar först båda två separat. Sedan diskuterar vi och kommer fram till ett definitivt svar.</prosody>	12685
+2024-05-28 15:04:45	ActionGesture	BrowRaise
+2024-05-28 15:04:47	ActionGesture	BrowRaise
+2024-05-28 15:04:50	ActionGesture	BrowRaise
+2024-05-28 15:04:51	ActionGesture	BrowRaise
+2024-05-28 15:04:53	ActionGesture	BrowRaise
+2024-05-28 15:04:57	ActionGesture	BrowRaise
+2024-05-28 15:05:41	MonitorSpeechStart	<prosody rate="1.0">Vill du att jag ska förklara mer eller är du klar att börja?</prosody>	2925
+2024-05-28 15:06:03	Autoreload is disabled because the development mode is off.
+2024-05-28 15:06:03	Application started in 0.659 seconds.
+2024-05-28 15:06:04	Responding at http://127.0.0.1:8888
+2024-05-28 15:06:19	----------------- NEW EXECUTION-------------------
+2024-05-28 15:06:19	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-28 15:06:19	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-28 15:06:20	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-28 15:06:20	ActionGesture	CloseEyes
+2024-05-28 15:06:20	ActionGesture	CloseEyes
+2024-05-28 15:06:22	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [5] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-28 15:06:22	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	5	UNDEFINED	Sleep
+2024-05-28 15:06:22	FlowEvent	NEW_FLOW_STATE	Welcome	0.2		CONDITION1	Welcome
+2024-05-28 15:06:22	ActionGesture	OpenEyes
+2024-05-28 15:06:22	ActionGesture	Smile
+2024-05-28 15:06:23	MonitorSpeechStart	<prosody rate="1.0">Hej</prosody>	450
+2024-05-28 15:06:23	ActionGesture	BrowRaise
+2024-05-28 15:06:24	MonitorSpeechStart	<prosody rate="1.0">Trevligt att träffas</prosody>	1350
+2024-05-28 15:06:25	ActionGesture	BrowRaise
+2024-05-28 15:06:26	MonitorSpeechStart	<prosody rate="1.0">Hur är läget?</prosody>	912
+2024-05-28 15:06:27	ActionGesture	BrowRaise
+2024-05-28 15:06:31	FlowEvent	NEW_FLOW_STATE	ReviewInstructions	0.2		CONDITION1	ReviewInstructions
+2024-05-28 15:06:32	MonitorSpeechStart	<prosody rate="1.0">Jag har fått veta att du och jag ska fundera på åtta problem om elkretsar. Har du också fårtt reda på det?</prosody>	6367
+2024-05-28 15:06:32	ActionGesture	BrowRaise
+2024-05-28 15:06:34	ActionGesture	BrowRaise
+2024-05-28 15:06:35	ActionGesture	BrowRaise
+2024-05-28 15:06:38	ActionGesture	BrowRaise
+2024-05-28 15:06:42	MonitorSpeechStart	<prosody rate="1.0">Ursäkta</prosody>	600
+2024-05-28 15:06:43	ActionGesture	BrowRaise
+2024-05-28 15:06:44	MonitorSpeechStart	<prosody rate="1.0">jag hörde inte. Vad har du fått veta om vad du och jag ska göra?</prosody>	4067
+2024-05-28 15:06:45	ActionGesture	BrowRaise
+2024-05-28 15:06:48	ActionGesture	BrowRaise
+2024-05-28 15:06:49	ActionGesture	Smile
+2024-05-28 15:06:51	SenseSpeech	Nej de har inte fått svar	1798
+2024-05-28 15:06:51	SenseNLUIntent	Nej de har inte fått svar	No
+2024-05-28 15:06:51	MonitorSpeechStart	<prosody rate="1.0">Nja</prosody>	487
+2024-05-28 15:06:51	ActionGesture	BrowRaise
+2024-05-28 15:06:52	MonitorSpeechStart	<prosody rate="1.0">Alltså, varje fråga kommer att visas på skärmen, och samtidigt skickas till mig. Vi funderar, svarar först båda två separat. Sedan diskuterar vi och kommer fram till ett definitivt svar.</prosody>	12685
+2024-05-28 15:06:52	ActionGesture	BrowRaise
+2024-05-28 15:06:55	ActionGesture	BrowRaise
+2024-05-28 15:06:58	ActionGesture	BrowRaise
+2024-05-28 15:06:58	ActionGesture	BrowRaise
+2024-05-28 15:07:00	ActionGesture	BrowRaise
+2024-05-28 15:07:04	ActionGesture	BrowRaise
+2024-05-28 15:07:05	MonitorSpeechStart	<prosody rate="1.0">Vill du att jag ska förklara mer eller är du klar att börja?</prosody>	2925
+2024-05-28 15:07:06	ActionGesture	BrowRaise
+2024-05-28 15:07:08	ActionGesture	BrowRaise
+2024-05-28 15:07:09	ActionGesture	Smile
+2024-05-28 15:07:11	SenseSpeech	nej klareberg	1396
+2024-05-28 15:07:11	SenseNLUIntent	nej klareberg	No
+2024-05-28 15:07:11	MonitorSpeechStart	<prosody rate="1.0">mm,</prosody>	437
+2024-05-28 15:07:11	ActionGesture	BrowRaise
+2024-05-28 15:07:12	MonitorSpeechStart	<prosody rate="1.0">Jag fattar</prosody>	787
+2024-05-28 15:07:13	ActionGesture	BrowRaise
+2024-05-28 15:07:15	MonitorSpeechStart	<prosody rate="1.0">För varje fråga på skärmen ska du först välja om du tror att påståendet är sant eller falskt</prosody>	5812
+2024-05-28 15:07:16	ActionGesture	BrowRaise
+2024-05-28 15:07:17	ActionGesture	BrowRaise
+2024-05-28 15:07:20	ActionGesture	BrowRaise
+2024-05-28 15:07:22	MonitorSpeechStart	<prosody rate="1.0">Sedan diskuterar vi våra val innan vi ska välja igen och bekräfta svaret</prosody>	4550
+2024-05-28 15:07:22	ActionGesture	BrowRaise
+2024-05-28 15:07:23	ActionGesture	BrowRaise
+2024-05-28 15:07:26	ActionGesture	BrowRaise
+2024-05-28 15:07:26	ActionGesture	BrowRaise
+2024-05-28 15:07:27	MonitorSpeechStart	<prosody rate="1.0">Är du redo?</prosody>	712
+2024-05-28 15:07:27	ActionGesture	BrowRaise
+2024-05-28 15:07:29	ActionGesture	Smile
+2024-05-28 15:07:29	SenseSpeech	ja	830
+2024-05-28 15:07:29	SenseNLUIntent	ja	Yes
+2024-05-28 15:07:30	GUIEvent	NEW_STAGE_REQUESTED	STAGE[1] [5] REQUESTED .. [ACCEPTED]	0.2	5	CONDITION1	ReviewInstructions
+2024-05-28 15:07:30	SessionEvent	QUESTION_SET	NEW QUESTION TO ACTIVATE	1		CONDITION1	ReviewInstructions
+2024-05-28 15:07:30	MonitorSpeechStart	<prosody rate="1.0">Perfekt</prosody>	700
+2024-05-28 15:07:30	FlowEvent	NEW_FLOW_STATE	QuestionReflection	1		CONDITION1	QuestionReflection
+2024-05-28 15:07:30	MonitorSpeechStart	<prosody rate="1.0">Okej, då är det dags för fråga 1</prosody>	2237
+2024-05-28 15:07:32	ActionGesture	BrowRaise
+2024-05-28 15:07:37	GUIEvent	ANSWER_MARKED	ANSWER[TRUE] [1] [5] SENT .. [ACCEPTED]	1	5	CONDITION1	QuestionReflection
+2024-05-28 15:07:37	MonitorSpeechStart	<prosody rate="1.0">Har du svarat?</prosody>	962
+2024-05-28 15:07:38	ActionGesture	BrowRaise
+2024-05-28 15:07:40	GUIEvent	ANSWER_MARKED	ANSWER[FALSE] [1] [5] SENT .. [ACCEPTED]	1	5	CONDITION1	QuestionReflection
+2024-05-28 15:07:41	ActionGesture	Smile
+2024-05-28 15:07:42	SenseSpeech	ja	904
+2024-05-28 15:07:42	SenseNLUIntent	ja	Yes
+2024-05-28 15:07:42	FlowEvent	NEW_FLOW_STATE	QuestionDisclosure	1		CONDITION1	QuestionDisclosure
+2024-05-28 15:07:43	MonitorSpeechStart	<prosody rate="1.0">Bra. Jag svarade att det är TRUE. Vad svarade du?</prosody>	4085
+2024-05-28 15:07:43	ActionGesture	BrowRaise
+2024-05-28 15:07:44	ActionGesture	BrowRaise
+2024-05-28 15:07:46	ActionGesture	BrowRaise
+2024-05-28 15:07:49	ActionGesture	Smile
+2024-05-28 15:07:51	SenseSpeech	Nej jag svarat dig fast	2213
+2024-05-28 15:07:52	SenseNLUIntent	Nej jag svarat dig fast	No
+2024-05-28 15:07:52	FlowEvent	NEW_FLOW_STATE	QuestionPersuasion	1		CONDITION1	QuestionPersuasion
+2024-05-28 15:07:52	MonitorSpeechStart	<prosody rate="1.0">Njaa</prosody>	512
+2024-05-28 15:07:53	ActionGesture	BrowRaise
+2024-05-28 15:07:54	MonitorSpeechStart	<prosody rate="1.0">Om en till lampa kopplas in ökar resi stansen</prosody>	2950
+2024-05-28 15:07:54	ActionGesture	BrowRaise
+2024-05-28 15:07:56	ActionGesture	BrowRaise
+2024-05-28 15:07:57	ActionGesture	BrowRaise
+2024-05-28 15:08:00	ActionGesture	Smile
+2024-05-28 15:08:01	SenseSpeech	Jaha	846
+2024-05-28 15:08:02	MonitorSpeechStart	<prosody rate="1.0">Okej</prosody>	525
+2024-05-28 15:08:02	ActionGesture	BrowRaise
+2024-05-28 15:08:03	MonitorSpeechStart	<prosody rate="1.0">Eftersom det är samma batteri är spänningen konstant.</prosody>	3087
+2024-05-28 15:08:05	ActionGesture	BrowRaise
+2024-05-28 15:08:06	ActionGesture	BrowRaise
+2024-05-28 15:08:09	ActionGesture	Smile
+2024-05-28 15:08:10	SenseSpeech	ja	1028
+2024-05-28 15:08:10	SenseNLUIntent	ja	Yes
+2024-05-28 15:08:10	FlowEvent	NEW_FLOW_STATE	QuestionCheckpoint	1		CONDITION1	QuestionCheckpoint
+2024-05-28 15:08:11	MonitorSpeechStart	<prosody rate="1.0">Snyggt</prosody>	650
+2024-05-28 15:08:13	MonitorSpeechStart	<prosody rate="1.0">Jag svarar att det är TRUE</prosody>	1637
+2024-05-28 15:08:13	ActionGesture	BrowRaise
+2024-05-28 15:08:14	ActionGesture	BrowRaise
+2024-05-28 15:08:15	MonitorSpeechStart	<prosody rate="1.0">Svarar du också det?</prosody>	1237
+2024-05-28 15:08:16	ActionGesture	BrowRaise
+2024-05-28 15:08:20	GUIEvent	ANSWER_MARKED	ANSWER[TRUE] [1] [5] SENT .. [ACCEPTED]	1	5	CONDITION1	QuestionCheckpoint
+2024-05-28 15:08:21	MonitorSpeechStart	<prosody rate="1.0">Får jag fråga</prosody>	812
+2024-05-28 15:08:21	ActionGesture	BrowRaise
+2024-05-28 15:08:22	MonitorSpeechStart	<prosody rate="1.0">Så</prosody>	512
+2024-05-28 15:08:23	MonitorSpeechStart	<prosody rate="1.0">är vi överens om att det är TRUE?</prosody>	1837
+2024-05-28 15:08:24	ActionGesture	BrowRaise
+2024-05-28 15:08:26	ActionGesture	Smile
+2024-05-28 15:08:27	SenseSpeech	ja	718
+2024-05-28 15:08:27	SenseNLUIntent	ja	Yes
+2024-05-28 15:08:27	FlowEvent	NEW_FLOW_STATE	QuestionReview	1		CONDITION1	QuestionReview
+2024-05-28 15:08:27	MonitorSpeechStart	<prosody rate="1.0">Bra. Du ser att det är så?</prosody>	2130
+2024-05-28 15:08:28	ActionGesture	BrowRaise
+2024-05-28 15:08:29	ActionGesture	BrowRaise
+2024-05-28 15:08:31	MonitorSpeechStart	<prosody rate="1.0">Om spänningen är konstant och resi stansen högre blir strömmen lägre och lamporna lyser svagare.</prosody>	6425
+2024-05-28 15:08:32	ActionGesture	BrowRaise
+2024-05-28 15:08:35	ActionGesture	BrowRaise
+2024-05-28 15:08:37	ActionGesture	BrowRaise
+2024-05-28 15:08:37	ActionGesture	BrowRaise
+2024-05-28 15:08:39	ActionGesture	Smile
+2024-05-28 15:08:40	SenseSpeech	hej	732
+2024-05-28 15:08:40	FlowEvent	NEW_FLOW_STATE	QuestionConfirmation	1		CONDITION1	QuestionConfirmation
+2024-05-28 15:08:40	MonitorSpeechStart	<prosody rate="1.0">mm,</prosody>	437
+2024-05-28 15:08:40	ActionGesture	BrowRaise
+2024-05-28 15:08:41	MonitorSpeechStart	<prosody rate="1.0">Okej, Jag har bekräftat att det är TRUE. Kan du ge ditt svar och trycka på Bekräfta?</prosody>	4917
+2024-05-28 15:08:44	ActionGesture	BrowRaise
+2024-05-28 15:08:45	ActionGesture	BrowRaise
+2024-05-28 15:08:46	ActionGesture	BrowRaise
+2024-05-28 15:08:47	GUIEvent	NEW_STAGE_REQUESTED	STAGE[2] [5] REQUESTED .. [ACCEPTED]	1	5	CONDITION1	QuestionConfirmation
+2024-05-28 15:08:47	SessionEvent	ANSWER_CONFIRMED	QUESTION CONFIRMED IN GUI.	2		CONDITION1	QuestionConfirmation
+2024-05-28 15:08:47	SessionEvent	QUESTION_SET	NEW QUESTION TO ACTIVATE	2		CONDITION1	QuestionConfirmation
+2024-05-28 15:08:47	FlowEvent	NEW_FLOW_STATE	QuestionReflection	2		CONDITION1	QuestionReflection
+2024-05-28 15:08:47	MonitorSpeechStart	<prosody rate="1.0">Då ska vi ge oss på fråga 2</prosody>	1937
+2024-05-28 15:08:49	ActionGesture	BrowRaise
+2024-05-28 15:08:54	MonitorSpeechStart	<prosody rate="1.0">Har du redan svarat?</prosody>	1287
+2024-05-28 15:08:55	ActionGesture	BrowRaise
+2024-05-28 15:08:55	ActionGesture	BrowRaise
+2024-05-28 15:08:58	GUIEvent	ANSWER_MARKED	ANSWER[TRUE] [2] [5] SENT .. [ACCEPTED]	2	5	CONDITION1	QuestionReflection
+2024-05-28 15:09:00	ActionGesture	Smile
+2024-05-28 15:09:01	SenseSpeech	Nu har jag svarat	1363
+2024-05-28 15:09:01	SenseNLUIntent	Nu har jag svarat	Agree
+2024-05-28 15:09:01	FlowEvent	NEW_FLOW_STATE	QuestionDisclosure	2		CONDITION1	QuestionDisclosure
+2024-05-28 15:09:01	MonitorSpeechStart	<prosody rate="1.0">Perfekt</prosody>	700
+2024-05-28 15:09:02	ActionGesture	BrowRaise
+2024-05-28 15:09:03	MonitorSpeechStart	<prosody rate="1.0">Jag tog FALSE. Vad svarade du?</prosody>	2542
+2024-05-28 15:09:04	ActionGesture	BrowRaise
+2024-05-28 15:09:05	ActionGesture	BrowRaise
+2024-05-28 15:09:07	ActionGesture	Smile
+2024-05-28 15:09:09	SenseSpeech	jag sa ju att det är sant	1493
+2024-05-28 15:09:09	SenseNLUIntent	jag sa ju att det är sant	Agree
+2024-05-28 15:09:09	SenseNLUIntent	jag sa ju att det är sant	AnswerTrue
+2024-05-28 15:09:09	FlowEvent	NEW_FLOW_STATE	QuestionPersuasion	2		CONDITION1	QuestionPersuasion
+2024-05-28 15:09:10	MonitorSpeechStart	<prosody rate="1.0">Okej, låt mig förklara så här</prosody>	1900
+2024-05-28 15:09:11	ActionGesture	BrowRaise
+2024-05-28 15:09:12	MonitorSpeechStart	<prosody rate="1.0">De vita, gula och röda lamporna är parallelkopplade i både C1 och C2.</prosody>	5400
+2024-05-28 15:09:13	ActionGesture	BrowRaise
+2024-05-28 15:09:16	ActionGesture	BrowRaise
+2024-05-28 15:09:16	ActionGesture	BrowRaise
+2024-05-28 15:09:17	ActionGesture	BrowRaise
+2024-05-28 15:09:20	ActionGesture	Smile
+2024-05-28 15:09:21	SenseSpeech	okej	1085
+2024-05-28 15:09:21	SenseNLUIntent	okej	Yes
+2024-05-28 15:09:22	MonitorSpeechStart	<prosody rate="1.0">Det är bra!</prosody>	700
+2024-05-28 15:09:22	ActionGesture	BrowRaise
+2024-05-28 15:09:23	MonitorSpeechStart	<prosody rate="1.0">C1 och C2 är ritade olika, men det är samma krets</prosody>	4061
+2024-05-28 15:09:23	ActionGesture	BrowRaise
+2024-05-28 15:09:25	ActionGesture	BrowRaise
+2024-05-28 15:09:27	ActionGesture	BrowRaise
+2024-05-28 15:09:31	ActionGesture	Smile
+2024-05-28 15:09:32	SenseSpeech	okej	1043
+2024-05-28 15:09:32	SenseNLUIntent	okej	Yes
+2024-05-28 15:09:32	FlowEvent	NEW_FLOW_STATE	QuestionCheckpoint	2		CONDITION1	QuestionCheckpoint
+2024-05-28 15:09:33	MonitorSpeechStart	<prosody rate="1.0">Utmärkt. Så, håller du med om att det är FALSE</prosody>	3467
+2024-05-28 15:09:35	ActionGesture	BrowRaise
+2024-05-28 15:09:36	ActionGesture	BrowRaise
+2024-05-28 15:09:37	MonitorSpeechStart	<prosody rate="1.0">?</prosody>	1025
+2024-05-28 15:09:46	GUIEvent	ANSWER_MARKED	ANSWER[FALSE] [2] [5] SENT .. [ACCEPTED]	2	5	CONDITION1	QuestionCheckpoint
+2024-05-28 15:10:12	GUIEvent	ANSWER_MARKED	ANSWER[TRUE] [2] [5] SENT .. [ACCEPTED]	2	5	CONDITION1	QuestionCheckpoint
+2024-05-28 15:23:08	Autoreload is disabled because the development mode is off.
+2024-05-28 15:23:09	Application started in 0.703 seconds.
+2024-05-28 15:23:09	Responding at http://127.0.0.1:8888
+2024-05-28 15:23:11	----------------- NEW EXECUTION-------------------
+2024-05-28 15:23:11	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-28 15:23:11	ActionGesture	CloseEyes
+2024-05-28 15:23:11	ActionGesture	CloseEyes
+2024-05-28 15:23:15	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-28 15:23:19	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [5] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-28 15:23:19	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	5	UNDEFINED	Sleep
+2024-05-28 15:23:19	FlowEvent	NEW_FLOW_STATE	Welcome	0.2		CONDITION1	Welcome
+2024-05-28 15:23:19	ActionGesture	OpenEyes
+2024-05-28 15:23:19	ActionGesture	Smile
+2024-05-28 15:23:20	MonitorSpeechStart	<prosody rate="1.0">Hello there</prosody>	543
+2024-05-28 15:23:21	ActionGesture	BrowRaise
+2024-05-28 15:23:22	MonitorSpeechStart	<prosody rate="1.0">Nice to meet you</prosody>	824
+2024-05-28 15:23:22	ActionGesture	BrowRaise
+2024-05-28 15:23:23	GUIEvent	NEW_STAGE_REQUESTED	STAGE[1] [5] REQUESTED .. [ACCEPTED]	0.2	5	CONDITION1	Welcome
+2024-05-28 15:23:23	SessionEvent	QUESTION_SET	NEW QUESTION TO ACTIVATE	1		CONDITION1	Welcome
+2024-05-28 15:23:23	FlowEvent	NEW_FLOW_STATE	QuestionReflection	1		CONDITION1	QuestionReflection
+2024-05-28 15:23:24	MonitorSpeechStart	<prosody rate="1.0">Ok</prosody>	618
+2024-05-28 15:23:24	ActionGesture	BrowRaise
+2024-05-28 15:23:25	MonitorSpeechStart	<prosody rate="1.0">I think I am getting the question 1</prosody>	1802
+2024-05-28 15:23:25	ActionGesture	BrowRaise
+2024-05-28 15:23:26	ActionGesture	BrowRaise
+2024-05-28 15:23:27	MonitorSpeechStart	<prosody rate="1.0">Let's see</prosody>	658
+2024-05-28 15:23:27	ActionGesture	BrowRaise
+2024-05-28 15:23:31	GUIEvent	ANSWER_MARKED	ANSWER[FALSE] [1] [5] SENT .. [ACCEPTED]	1	5	CONDITION1	QuestionReflection
+2024-05-28 15:23:32	MonitorSpeechStart	<prosody rate="1.0">Have you answered?</prosody>	752
+2024-05-28 15:23:33	ActionGesture	BrowRaise
+2024-05-28 15:23:34	ActionGesture	Smile
+2024-05-28 15:23:35	SenseSpeech	yes	884
+2024-05-28 15:23:35	SenseNLUIntent	yes	Yes
+2024-05-28 15:23:35	FlowEvent	NEW_FLOW_STATE	QuestionDisclosure	1		CONDITION1	QuestionDisclosure
+2024-05-28 15:23:35	MonitorSpeechStart	<prosody rate="1.0">Good</prosody>	391
+2024-05-28 15:23:38	MonitorSpeechStart	<prosody rate="1.0">I replied that it is TRUE</prosody>	1387
+2024-05-28 15:23:38	ActionGesture	BrowRaise
+2024-05-28 15:23:40	MonitorSpeechStart	<prosody rate="1.0">What do you think?</prosody>	726
+2024-05-28 15:23:40	ActionGesture	BrowRaise
+2024-05-28 15:23:45	FlowEvent	NEW_FLOW_STATE	QuestionPersuasion	1		CONDITION1	QuestionPersuasion
+2024-05-28 15:23:45	MonitorSpeechStart	<prosody rate="1.0">I mean</prosody>	609
+2024-05-28 15:23:47	MonitorSpeechStart	<prosody rate="1.0">If one more lamp is added, then the resistance increases.</prosody>	3222
+2024-05-28 15:23:48	ActionGesture	BrowRaise
+2024-05-28 15:23:50	ActionGesture	BrowRaise
+2024-05-28 15:23:52	ActionGesture	Smile
+2024-05-28 15:23:53	SenseSpeech	okay	868
+2024-05-28 15:23:53	SenseNLUIntent	okay	Yes
+2024-05-28 15:23:53	MonitorSpeechStart	<prosody rate="1.0">Good. You see it too?</prosody>	1507
+2024-05-28 15:23:56	MonitorSpeechStart	<prosody rate="1.0">Since it is the same battery, the voltage remains constant.</prosody>	3262
+2024-05-28 15:23:57	ActionGesture	BrowRaise
+2024-05-28 15:23:59	ActionGesture	BrowRaise
+2024-05-28 15:24:01	ActionGesture	Smile
+2024-05-28 15:24:02	SenseSpeech	yes	872
+2024-05-28 15:24:02	SenseNLUIntent	yes	Yes
+2024-05-28 15:24:02	FlowEvent	NEW_FLOW_STATE	QuestionCheckpoint	1		CONDITION1	QuestionCheckpoint
+2024-05-28 15:24:02	MonitorSpeechStart	<prosody rate="1.0">Nice</prosody>	438
+2024-05-28 15:24:02	ActionGesture	BrowRaise
+2024-05-28 15:24:04	MonitorSpeechStart	<prosody rate="1.0">I believe it's TRUE</prosody>	1056
+2024-05-28 15:24:04	ActionGesture	BrowRaise
+2024-05-28 15:24:06	MonitorSpeechStart	<prosody rate="1.0">So</prosody>	386
+2024-05-28 15:24:06	MonitorSpeechStart	<prosody rate="1.0">do you agree?</prosody>	649
+2024-05-28 15:24:07	ActionGesture	BrowRaise
+2024-05-28 15:24:10	ActionGesture	Smile
+2024-05-28 15:24:11	SenseSpeech	yes	851
+2024-05-28 15:24:11	SenseNLUIntent	yes	Yes
+2024-05-28 15:24:11	FlowEvent	NEW_FLOW_STATE	QuestionReview	1		CONDITION1	QuestionReview
+2024-05-28 15:24:12	MonitorSpeechStart	<prosody rate="1.0">That's fine!</prosody>	759
+2024-05-28 15:24:12	ActionGesture	BrowRaise
+2024-05-28 15:24:13	MonitorSpeechStart	<prosody rate="1.0">With the same voltage and higher resistance, the current will be lower and the lights will shine more dimly.</prosody>	4949
+2024-05-28 15:24:14	ActionGesture	BrowRaise
+2024-05-28 15:24:15	ActionGesture	BrowRaise
+2024-05-28 15:24:17	ActionGesture	BrowRaise
+2024-05-28 15:24:18	ActionGesture	BrowRaise
+2024-05-28 15:24:22	FlowEvent	NEW_FLOW_STATE	QuestionUltimatum	1		CONDITION1	QuestionUltimatum
+2024-05-28 15:24:23	MonitorSpeechStart	<prosody rate="1.0">umh,</prosody>	443
+2024-05-28 15:24:24	MonitorSpeechStart	<prosody rate="1.0">Kindly</prosody>	534
+2024-05-28 15:24:24	ActionGesture	BrowRaise
+2024-05-28 15:24:26	MonitorSpeechStart	<prosody rate="1.0">I need to check</prosody>	780
+2024-05-28 15:24:26	ActionGesture	BrowRaise
+2024-05-28 15:24:28	MonitorSpeechStart	<prosody rate="1.0">What should we choose for the final answer, TRUE?</prosody>	2446
+2024-05-28 15:24:29	ActionGesture	BrowRaise
+2024-05-28 15:24:31	MonitorSpeechStart	<prosody rate="1.0">or FALSE?</prosody>	608
+2024-05-28 15:24:31	ActionGesture	BrowRaise
+2024-05-28 15:24:36	Autoreload is disabled because the development mode is off.
+2024-05-28 15:24:36	Application started in 0.596 seconds.
+2024-05-28 15:24:36	Responding at http://127.0.0.1:8888
+2024-05-28 15:24:38	----------------- NEW EXECUTION-------------------
+2024-05-28 15:24:38	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-28 15:24:38	ActionGesture	CloseEyes
+2024-05-28 15:24:38	ActionGesture	CloseEyes
+2024-05-28 15:24:40	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-28 15:24:41	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [5] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-28 15:24:41	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	5	UNDEFINED	Sleep
+2024-05-28 15:24:41	FlowEvent	NEW_FLOW_STATE	Welcome	0.2		CONDITION1	Welcome
+2024-05-28 15:24:41	ActionGesture	OpenEyes
+2024-05-28 15:24:41	ActionGesture	Smile
+2024-05-28 15:24:42	MonitorSpeechStart	<prosody rate="1.0">Hello there</prosody>	543
+2024-05-28 15:24:43	ActionGesture	BrowRaise
+2024-05-28 15:24:44	MonitorSpeechStart	<prosody rate="1.0">Nice to meet you</prosody>	824
+2024-05-28 15:24:44	ActionGesture	BrowRaise
+2024-05-28 15:24:45	MonitorSpeechStart	<prosody rate="1.0">How you doing?</prosody>	741
+2024-05-28 15:24:45	ActionGesture	BrowRaise
+2024-05-28 15:24:50	FlowEvent	NEW_FLOW_STATE	ReviewInstructions	0.2		CONDITION1	ReviewInstructions
+2024-05-28 15:24:50	MonitorSpeechStart	<prosody rate="1.0">Right, as far as I know,we will get some Electronics questions to resolve together. Somebody told you?</prosody>	6104
+2024-05-28 15:24:50	ActionGesture	BrowRaise
+2024-05-28 15:24:51	ActionGesture	BrowRaise
+2024-05-28 15:24:52	GUIEvent	NEW_STAGE_REQUESTED	STAGE[1] [5] REQUESTED .. [ACCEPTED]	0.2	5	CONDITION1	ReviewInstructions
+2024-05-28 15:24:52	SessionEvent	QUESTION_SET	NEW QUESTION TO ACTIVATE	1		CONDITION1	ReviewInstructions
+2024-05-28 15:24:52	FlowEvent	NEW_FLOW_STATE	QuestionReflection	1		CONDITION1	QuestionReflection
+2024-05-28 15:24:53	MonitorSpeechStart	<prosody rate="1.0">Ok</prosody>	618
+2024-05-28 15:24:53	ActionGesture	BrowRaise
+2024-05-28 15:24:54	MonitorSpeechStart	<prosody rate="1.0">I think I am getting the question 1</prosody>	1802
+2024-05-28 15:24:54	ActionGesture	BrowRaise
+2024-05-28 15:24:55	ActionGesture	BrowRaise
+2024-05-28 15:24:56	MonitorSpeechStart	<prosody rate="1.0">Let's see</prosody>	658
+2024-05-28 15:24:57	ActionGesture	BrowRaise
+2024-05-28 15:24:58	GUIEvent	ANSWER_MARKED	ANSWER[TRUE] [1] [5] SENT .. [ACCEPTED]	1	5	CONDITION1	QuestionReflection
+2024-05-28 15:25:02	MonitorSpeechStart	<prosody rate="1.0">Have you answered?</prosody>	752
+2024-05-28 15:25:02	ActionGesture	BrowRaise
+2024-05-28 15:25:07	MonitorSpeechStart	<prosody rate="1.0">Have you answered already?</prosody>	1137
+2024-05-28 15:25:07	ActionGesture	BrowRaise
+2024-05-28 15:25:07	ActionGesture	BrowRaise
+2024-05-28 15:25:08	ActionGesture	Smile
+2024-05-28 15:25:09	SenseSpeech	yes	1004
+2024-05-28 15:25:09	SenseNLUIntent	yes	Yes
+2024-05-28 15:25:09	FlowEvent	NEW_FLOW_STATE	QuestionDisclosure	1		CONDITION1	QuestionDisclosure
+2024-05-28 15:25:10	MonitorSpeechStart	<prosody rate="1.0">Good</prosody>	391
+2024-05-28 15:25:11	MonitorSpeechStart	<prosody rate="1.0">I replied that it is TRUE</prosody>	1387
+2024-05-28 15:25:11	ActionGesture	BrowRaise
+2024-05-28 15:25:13	MonitorSpeechStart	<prosody rate="1.0">What do you think?</prosody>	726
+2024-05-28 15:25:13	ActionGesture	BrowRaise
+2024-05-28 15:25:16	ActionGesture	Smile
+2024-05-28 15:25:17	SenseSpeech	yes I think so	1200
+2024-05-28 15:25:17	SenseNLUIntent	yes I think so	Yes
+2024-05-28 15:25:17	SenseNLUIntent	yes I think so	ElaborationRequest
+2024-05-28 15:25:17	FlowEvent	NEW_FLOW_STATE	QuestionReview	1		CONDITION1	QuestionReview
+2024-05-28 15:25:18	MonitorSpeechStart	<prosody rate="1.0">well</prosody>	454
+2024-05-28 15:25:18	ActionGesture	BrowRaise
+2024-05-28 15:25:19	MonitorSpeechStart	<prosody rate="1.0">Because the voltage is the same and the resistance increases if a lamp is added</prosody>	3824
+2024-05-28 15:25:21	ActionGesture	BrowRaise
+2024-05-28 15:25:23	ActionGesture	BrowRaise
+2024-05-28 15:25:23	ActionGesture	BrowRaise
+2024-05-28 15:25:27	ActionGesture	Smile
+2024-05-28 15:25:28	SenseSpeech	yeah I agree	1045
+2024-05-28 15:25:28	SenseNLUIntent	yeah I agree	Yes
+2024-05-28 15:25:28	SenseNLUIntent	yeah I agree	Agree
+2024-05-28 15:25:28	MonitorSpeechStart	<prosody rate="1.0">Good. You see it too?</prosody>	1507
+2024-05-28 15:25:30	MonitorSpeechStart	<prosody rate="1.0">With the same voltage and higher resistance, the current will be lower and the lights will shine more dimly.</prosody>	4949
+2024-05-28 15:25:31	ActionGesture	BrowRaise
+2024-05-28 15:25:32	ActionGesture	BrowRaise
+2024-05-28 15:25:35	ActionGesture	BrowRaise
+2024-05-28 15:25:35	ActionGesture	BrowRaise
+2024-05-28 15:25:38	ActionGesture	Smile
+2024-05-28 15:25:39	SenseSpeech	yes	964
+2024-05-28 15:25:39	SenseNLUIntent	yes	Yes
+2024-05-28 15:25:39	FlowEvent	NEW_FLOW_STATE	QuestionCheckpoint	1		CONDITION1	QuestionCheckpoint
+2024-05-28 15:25:40	MonitorSpeechStart	<prosody rate="1.0">Nice</prosody>	438
+2024-05-28 15:25:40	ActionGesture	BrowRaise
+2024-05-28 15:25:41	MonitorSpeechStart	<prosody rate="1.0">So</prosody>	386
+2024-05-28 15:25:42	MonitorSpeechStart	<prosody rate="1.0">do we agree it's TRUE?</prosody>	1157
+2024-05-28 15:25:42	ActionGesture	BrowRaise
+2024-05-28 15:25:46	ActionGesture	Smile
+2024-05-28 15:25:47	SenseSpeech	yes	868
+2024-05-28 15:25:47	SenseNLUIntent	yes	Yes
+2024-05-28 15:26:05	FlowEvent	NEW_FLOW_STATE	QuestionReview	1		CONDITION1	QuestionReview
+2024-05-28 15:26:05	GUIEvent	GUI_STARTED	GUI_STARTED [ACCEPTED]	1	5	CONDITION1	QuestionCheckpoint
+2024-05-28 15:26:05	FlowEvent	NEW_FLOW_STATE	QuestionConfirmation	1		CONDITION1	QuestionConfirmation
+2024-05-28 15:26:09	Autoreload is disabled because the development mode is off.
+2024-05-28 15:26:10	Application started in 0.754 seconds.
+2024-05-28 15:26:10	Responding at http://127.0.0.1:8888
+2024-05-28 15:26:12	----------------- NEW EXECUTION-------------------
+2024-05-28 15:26:12	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-28 15:26:12	ActionGesture	CloseEyes
+2024-05-28 15:26:12	ActionGesture	CloseEyes
+2024-05-28 15:26:13	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-28 15:26:15	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [5] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-28 15:26:15	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	5	UNDEFINED	Sleep
+2024-05-28 15:26:15	FlowEvent	NEW_FLOW_STATE	Welcome	0.2		CONDITION1	Welcome
+2024-05-28 15:26:15	ActionGesture	OpenEyes
+2024-05-28 15:26:15	ActionGesture	Smile
+2024-05-28 15:26:16	MonitorSpeechStart	<prosody rate="1.0">Hello there</prosody>	543
+2024-05-28 15:26:16	ActionGesture	BrowRaise
+2024-05-28 15:26:17	MonitorSpeechStart	<prosody rate="1.0">Nice to meet you</prosody>	824
+2024-05-28 15:26:17	ActionGesture	BrowRaise
+2024-05-28 15:26:18	GUIEvent	NEW_STAGE_REQUESTED	STAGE[1] [5] REQUESTED .. [ACCEPTED]	0.2	5	CONDITION1	Welcome
+2024-05-28 15:26:18	SessionEvent	QUESTION_SET	NEW QUESTION TO ACTIVATE	1		CONDITION1	Welcome
+2024-05-28 15:26:18	FlowEvent	NEW_FLOW_STATE	QuestionReflection	1		CONDITION1	QuestionReflection
+2024-05-28 15:26:19	MonitorSpeechStart	<prosody rate="1.0">Ok</prosody>	618
+2024-05-28 15:26:19	ActionGesture	BrowRaise
+2024-05-28 15:26:20	MonitorSpeechStart	<prosody rate="1.0">I think I am getting the question 1</prosody>	1802
+2024-05-28 15:26:20	ActionGesture	BrowRaise
+2024-05-28 15:26:22	ActionGesture	BrowRaise
+2024-05-28 15:26:23	MonitorSpeechStart	<prosody rate="1.0">Let's see</prosody>	658
+2024-05-28 15:26:23	ActionGesture	BrowRaise
+2024-05-28 15:26:23	GUIEvent	ANSWER_MARKED	ANSWER[TRUE] [1] [5] SENT .. [ACCEPTED]	1	5	CONDITION1	QuestionReflection
+2024-05-28 15:26:26	ActionGesture	Smile
+2024-05-28 15:26:27	SenseSpeech	I answered	1027
+2024-05-28 15:26:27	MonitorSpeechStart	<prosody rate="1.0">mm,</prosody>	248
+2024-05-28 15:26:29	MonitorSpeechStart	<prosody rate="1.0">Have you answered?</prosody>	752
+2024-05-28 15:26:29	ActionGesture	BrowRaise
+2024-05-28 15:26:30	ActionGesture	Smile
+2024-05-28 15:26:31	SenseSpeech	yes	945
+2024-05-28 15:26:31	SenseNLUIntent	yes	Yes
+2024-05-28 15:26:31	FlowEvent	NEW_FLOW_STATE	QuestionDisclosure	1		CONDITION1	QuestionDisclosure
+2024-05-28 15:26:31	MonitorSpeechStart	<prosody rate="1.0">Good</prosody>	391
+2024-05-28 15:26:32	MonitorSpeechStart	<prosody rate="1.0">I replied that it is TRUE</prosody>	1387
+2024-05-28 15:26:33	ActionGesture	BrowRaise
+2024-05-28 15:26:34	MonitorSpeechStart	<prosody rate="1.0">What do you think?</prosody>	726
+2024-05-28 15:26:34	ActionGesture	BrowRaise
+2024-05-28 15:26:36	ActionGesture	Smile
+2024-05-28 15:26:38	SenseSpeech	yes it's true	1944
+2024-05-28 15:26:38	SenseNLUIntent	yes it's true	Yes
+2024-05-28 15:26:38	SenseNLUIntent	yes it's true	AnswerTrue
+2024-05-28 15:26:38	FlowEvent	NEW_FLOW_STATE	QuestionReview	1		CONDITION1	QuestionReview
+2024-05-28 15:26:38	MonitorSpeechStart	<prosody rate="1.0">Good. You see it too?</prosody>	1507
+2024-05-28 15:26:41	MonitorSpeechStart	<prosody rate="1.0">Because the voltage is the same and the resistance increases if a lamp is added</prosody>	3824
+2024-05-28 15:26:42	ActionGesture	BrowRaise
+2024-05-28 15:26:44	ActionGesture	BrowRaise
+2024-05-28 15:26:44	ActionGesture	BrowRaise
+2024-05-28 15:26:47	ActionGesture	Smile
+2024-05-28 15:26:48	SenseSpeech	yes	910
+2024-05-28 15:26:48	SenseNLUIntent	yes	Yes
+2024-05-28 15:26:48	MonitorSpeechStart	<prosody rate="1.0">That's fine!</prosody>	759
+2024-05-28 15:26:48	ActionGesture	BrowRaise
+2024-05-28 15:26:49	MonitorSpeechStart	<prosody rate="1.0">With the same voltage and higher resistance, the current will be lower and the lights will shine more dimly.</prosody>	4949
+2024-05-28 15:26:50	ActionGesture	BrowRaise
+2024-05-28 15:26:51	ActionGesture	BrowRaise
+2024-05-28 15:26:54	ActionGesture	BrowRaise
+2024-05-28 15:26:54	ActionGesture	BrowRaise
+2024-05-28 15:26:57	ActionGesture	Smile
+2024-05-28 15:26:58	SenseSpeech	yes	766
+2024-05-28 15:26:58	SenseNLUIntent	yes	Yes
+2024-05-28 15:26:58	FlowEvent	NEW_FLOW_STATE	QuestionCheckpoint	1		CONDITION1	QuestionCheckpoint
+2024-05-28 15:26:58	MonitorSpeechStart	<prosody rate="1.0">Nice</prosody>	438
+2024-05-28 15:26:58	ActionGesture	BrowRaise
+2024-05-28 15:26:59	MonitorSpeechStart	<prosody rate="1.0">So</prosody>	386
+2024-05-28 15:27:00	MonitorSpeechStart	<prosody rate="1.0">do we agree it's TRUE?</prosody>	1157
+2024-05-28 15:27:01	ActionGesture	BrowRaise
+2024-05-28 15:27:05	ActionGesture	Smile
+2024-05-28 15:27:06	SenseSpeech	I marked the answer	1387
+2024-05-28 15:27:06	SenseNLUIntent	I marked the answer	AnswerMarked
+2024-05-28 15:27:44	MonitorSpeechStart	<prosody rate="1.0">Can you explain?</prosody>	851
+2024-05-28 15:27:44	ActionGesture	BrowRaise
+2024-05-28 15:27:55	ActionGesture	Smile
+2024-05-28 15:27:55	MonitorSpeechStart	<prosody rate="1.0">Can I ask you</prosody>	780
+2024-05-28 15:27:55	ActionGesture	BrowRaise
+2024-05-28 15:27:56	MonitorSpeechStart	<prosody rate="1.0">It's TRUE</prosody>	657
+2024-05-28 15:27:58	MonitorSpeechStart	<prosody rate="1.0">Shall we go for it?</prosody>	1070
+2024-05-28 15:27:58	ActionGesture	BrowRaise
+2024-05-28 15:36:45	Autoreload is disabled because the development mode is off.
+2024-05-28 15:36:46	Application started in 0.595 seconds.
+2024-05-28 15:36:46	Responding at http://127.0.0.1:8888
+2024-05-28 15:36:48	----------------- NEW EXECUTION-------------------
+2024-05-28 15:36:48	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-28 15:36:48	ActionGesture	CloseEyes
+2024-05-28 15:36:48	ActionGesture	CloseEyes
+2024-05-28 15:36:51	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-28 15:39:51	Autoreload is disabled because the development mode is off.
+2024-05-28 15:39:52	Application started in 0.546 seconds.
+2024-05-28 15:39:52	Responding at http://127.0.0.1:8888
+2024-05-28 15:39:59	Autoreload is disabled because the development mode is off.
+2024-05-28 15:40:00	Application started in 0.635 seconds.
+2024-05-28 15:40:00	Responding at http://127.0.0.1:8888
+2024-05-28 15:40:02	----------------- NEW EXECUTION-------------------
+2024-05-28 15:40:02	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-28 15:40:02	ActionGesture	CloseEyes
+2024-05-28 15:40:02	ActionGesture	CloseEyes
+2024-05-28 15:40:02	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-28 15:40:07	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [5] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-28 15:40:07	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	5	UNDEFINED	Sleep
+2024-05-28 15:40:07	FlowEvent	NEW_FLOW_STATE	Welcome	0.2		CONDITION1	Welcome
+2024-05-28 15:40:07	ActionGesture	OpenEyes
+2024-05-28 15:40:07	ActionGesture	Smile
+2024-05-28 15:40:08	MonitorSpeechStart	<prosody rate="1.0">Hej</prosody>	450
+2024-05-28 15:40:08	ActionGesture	BrowRaise
+2024-05-28 15:40:10	MonitorSpeechStart	<prosody rate="1.0">Trevligt att träffas</prosody>	1350
+2024-05-28 15:40:11	ActionGesture	BrowRaise
+2024-05-28 15:40:12	MonitorSpeechStart	<prosody rate="1.0">Hur är läget?</prosody>	912
+2024-05-28 15:40:12	ActionGesture	BrowRaise
+2024-05-28 15:40:14	ActionGesture	Smile
+2024-05-28 15:40:16	SenseSpeech	Jo men det är ganska bra	2074
+2024-05-28 15:40:16	FlowEvent	NEW_FLOW_STATE	ReviewInstructions	0.2		CONDITION1	ReviewInstructions
+2024-05-28 15:40:16	MonitorSpeechStart	<prosody rate="1.0">Jag har fått veta att du och jag ska fundera på åtta problem om elkretsar. Har du också fårtt reda på det?</prosody>	6367
+2024-05-28 15:40:17	ActionGesture	BrowRaise
+2024-05-28 15:40:18	ActionGesture	BrowRaise
+2024-05-28 15:40:19	ActionGesture	BrowRaise
+2024-05-28 15:40:23	ActionGesture	BrowRaise
+2024-05-28 15:40:27	ActionGesture	Smile
+2024-05-28 15:40:28	SenseSpeech	ja	1043
+2024-05-28 15:40:28	SenseNLUIntent	ja	Yes
+2024-05-28 15:40:29	MonitorSpeechStart	<prosody rate="1.0">Bra. Alltså, varje fråga kommer att visas på skärmen, och samtidigt skickas till mig. Vi funderar, svarar först båda två separat. Sedan diskuterar vi och kommer fram till ett definitivt svar.</prosody>	13577
+2024-05-28 15:40:29	ActionGesture	BrowRaise
+2024-05-28 15:40:30	ActionGesture	BrowRaise
+2024-05-28 15:40:32	ActionGesture	BrowRaise
+2024-05-28 15:40:36	ActionGesture	BrowRaise
+2024-05-28 15:40:36	ActionGesture	BrowRaise
+2024-05-28 15:40:38	ActionGesture	BrowRaise
+2024-05-28 15:40:42	ActionGesture	BrowRaise
+2024-05-28 15:40:43	MonitorSpeechStart	<prosody rate="1.0">Vill du att jag ska förklara mer eller är du klar att börja?</prosody>	2925
+2024-05-28 15:40:44	ActionGesture	BrowRaise
+2024-05-28 15:40:46	ActionGesture	BrowRaise
+2024-05-28 15:40:47	ActionGesture	Smile
+2024-05-28 15:40:49	SenseSpeech	jag är klar att börja	1520
+2024-05-28 15:40:49	SenseNLUIntent	jag är klar att börja	Understand
+2024-05-28 15:40:49	MonitorSpeechStart	<prosody rate="1.0">Perfekt</prosody>	700
+2024-05-28 15:40:49	ActionGesture	BrowRaise
+2024-05-28 15:40:51	GUIEvent	NEW_STAGE_REQUESTED	STAGE[1] [5] REQUESTED .. [ACCEPTED]	0.2	5	CONDITION1	ReviewInstructions
+2024-05-28 15:40:51	SessionEvent	QUESTION_SET	NEW QUESTION TO ACTIVATE	1		CONDITION1	ReviewInstructions
+2024-05-28 15:40:51	FlowEvent	NEW_FLOW_STATE	QuestionReflection	1		CONDITION1	QuestionReflection
+2024-05-28 15:40:51	MonitorSpeechStart	<prosody rate="1.0">Okej, då är det dags för fråga 1</prosody>	2237
+2024-05-28 15:40:53	ActionGesture	BrowRaise
+2024-05-28 15:40:58	GUIEvent	ANSWER_MARKED	ANSWER[TRUE] [1] [5] SENT .. [ACCEPTED]	1	5	CONDITION1	QuestionReflection
+2024-05-28 15:40:58	MonitorSpeechStart	<prosody rate="1.0">Har du svarat?</prosody>	962
+2024-05-28 15:40:59	ActionGesture	BrowRaise
+2024-05-28 15:41:01	ActionGesture	Smile
+2024-05-28 15:41:14	ActionGesture	Smile
+2024-05-28 15:41:15	SenseSpeech	Jag har svarat redan	1545
+2024-05-28 15:41:15	SenseNLUIntent	Jag har svarat redan	Agree
+2024-05-28 15:41:15	FlowEvent	NEW_FLOW_STATE	QuestionDisclosure	1		CONDITION1	QuestionDisclosure
+2024-05-28 15:41:16	MonitorSpeechStart	<prosody rate="1.0">Snyggt</prosody>	650
+2024-05-28 15:41:19	MonitorSpeechStart	<prosody rate="1.0">Jag svarade att det är TRUE. Vad svarade du?</prosody>	3192
+2024-05-28 15:41:19	ActionGesture	BrowRaise
+2024-05-28 15:41:21	ActionGesture	BrowRaise
+2024-05-28 15:41:22	ActionGesture	BrowRaise
+2024-05-28 15:41:23	ActionGesture	Smile
+2024-05-28 15:41:25	SenseSpeech	Ja Jag svarade att det är sant	2035
+2024-05-28 15:41:25	SenseNLUIntent	Ja Jag svarade att det är sant	Yes
+2024-05-28 15:41:25	SenseNLUIntent	Ja Jag svarade att det är sant	AnswerTrue
+2024-05-28 15:41:25	FlowEvent	NEW_FLOW_STATE	QuestionReview	1		CONDITION1	QuestionReview
+2024-05-28 15:41:26	MonitorSpeechStart	<prosody rate="1.0">Bra. Du ser att det är så?</prosody>	2130
+2024-05-28 15:41:26	ActionGesture	BrowRaise
+2024-05-28 15:41:27	ActionGesture	BrowRaise
+2024-05-28 15:41:29	MonitorSpeechStart	<prosody rate="1.0">Spänningen är ju densamma och resi stannsen ökar om en lampa läggs till</prosody>	4775
+2024-05-28 15:41:30	ActionGesture	BrowRaise
+2024-05-28 15:41:30	ActionGesture	BrowRaise
+2024-05-28 15:41:31	ActionGesture	BrowRaise
+2024-05-28 15:41:33	ActionGesture	BrowRaise
+2024-05-28 15:41:38	MonitorSpeechStart	<prosody rate="1.0">Jag menar</prosody>	725
+2024-05-28 15:41:39	ActionGesture	BrowRaise
+2024-05-28 15:41:40	MonitorSpeechStart	<prosody rate="1.0">Med samma spänning och högre resi stanns blir strömmen lägre och lamporna lyser svagare.</prosody>	5662
+2024-05-28 15:41:43	ActionGesture	BrowRaise
+2024-05-28 15:41:45	ActionGesture	BrowRaise
+2024-05-28 15:41:46	ActionGesture	BrowRaise
+2024-05-28 15:41:48	ActionGesture	Smile
+2024-05-28 15:41:49	SenseSpeech	Ja jag håller med	837
+2024-05-28 15:41:49	SenseNLUIntent	Ja jag håller med	Yes
+2024-05-28 15:41:49	SenseNLUIntent	Ja jag håller med	Agree
+2024-05-28 15:41:49	FlowEvent	NEW_FLOW_STATE	QuestionCheckpoint	1		CONDITION1	QuestionCheckpoint
+2024-05-28 15:41:49	MonitorSpeechStart	<prosody rate="1.0">Perfekt</prosody>	700
+2024-05-28 15:41:49	ActionGesture	BrowRaise
+2024-05-28 15:41:51	MonitorSpeechStart	<prosody rate="1.0">Så</prosody>	512
+2024-05-28 15:41:52	MonitorSpeechStart	<prosody rate="1.0">är vi överens om att det är TRUE?</prosody>	1837
+2024-05-28 15:41:53	ActionGesture	BrowRaise
+2024-05-28 15:41:55	ActionGesture	Smile
+2024-05-28 15:41:56	SenseSpeech	ja	856
+2024-05-28 15:41:56	SenseNLUIntent	ja	Yes
+2024-05-28 15:41:56	FlowEvent	NEW_FLOW_STATE	QuestionReview	1		CONDITION1	QuestionReview
+2024-05-28 15:41:56	FlowEvent	NEW_FLOW_STATE	QuestionConfirmation	1		CONDITION1	QuestionConfirmation
+2024-05-28 15:41:57	MonitorSpeechStart	<prosody rate="1.0">Utmärkt. Okej, Jag har bekräftat att det är TRUE. Kan du ge ditt svar och trycka på Bekräfta?</prosody>	6110
+2024-05-28 15:42:00	ActionGesture	BrowRaise
+2024-05-28 15:42:01	ActionGesture	BrowRaise
+2024-05-28 15:42:03	ActionGesture	BrowRaise
+2024-05-28 15:42:03	GUIEvent	NEW_STAGE_REQUESTED	STAGE[2] [5] REQUESTED .. [ACCEPTED]	1	5	CONDITION1	QuestionConfirmation
+2024-05-28 15:42:03	SessionEvent	ANSWER_CONFIRMED	QUESTION CONFIRMED IN GUI.	2		CONDITION1	QuestionConfirmation
+2024-05-28 15:42:03	SessionEvent	QUESTION_SET	NEW QUESTION TO ACTIVATE	2		CONDITION1	QuestionConfirmation
+2024-05-28 15:42:03	FlowEvent	NEW_FLOW_STATE	QuestionReflection	2		CONDITION1	QuestionReflection
+2024-05-28 15:42:04	MonitorSpeechStart	<prosody rate="1.0">Då ska vi ge oss på fråga 2</prosody>	1937
+2024-05-28 15:42:05	ActionGesture	BrowRaise
+2024-05-28 15:42:11	MonitorSpeechStart	<prosody rate="1.0">Har du redan svarat?</prosody>	1287
+2024-05-28 15:42:12	ActionGesture	BrowRaise
+2024-05-28 15:42:12	ActionGesture	BrowRaise
+2024-05-28 15:42:17	MonitorSpeechStart	<prosody rate="1.0">Jag är klar. Är du?</prosody>	1555
+2024-05-28 15:42:18	ActionGesture	BrowRaise
+2024-05-28 15:42:22	ActionGesture	Smile
+2024-05-28 15:42:24	SenseSpeech	Ja visst är det kvar	1838
+2024-05-28 15:42:24	SenseNLUIntent	Ja visst är det kvar	Yes
+2024-05-28 15:42:24	FlowEvent	NEW_FLOW_STATE	QuestionMarking	2		CONDITION1	QuestionMarking
+2024-05-28 15:42:24	MonitorSpeechStart	<prosody rate="1.0">Det är bra!</prosody>	700
+2024-05-28 15:42:24	ActionGesture	BrowRaise
+2024-05-28 15:42:26	MonitorSpeechStart	<prosody rate="1.0">Vi måste registrera vårt preliminära svar.</prosody>	2800
+2024-05-28 15:42:28	ActionGesture	BrowRaise
+2024-05-28 15:42:32	ActionGesture	Smile
+2024-05-28 15:42:35	SenseSpeech	Ja men det är någon som håller på med	3018
+2024-05-28 15:42:35	SenseNLUIntent	Ja men det är någon som håller på med	Yes
+2024-05-28 15:42:35	SenseNLUIntent	Ja men det är någon som håller på med	Agree
+2024-05-28 15:42:35	MonitorSpeechStart	<prosody rate="1.0">Bra. Det jag menar är att du måste klicka på någon av val-knapparna. Har du gjort det?</prosody>	5697
+2024-05-28 15:42:36	ActionGesture	BrowRaise
+2024-05-28 15:42:37	ActionGesture	BrowRaise
+2024-05-28 15:42:41	ActionGesture	BrowRaise
+2024-05-28 15:42:43	ActionGesture	Smile
+2024-05-28 15:42:45	SenseSpeech	Nej jag har inte gjort det då	1862
+2024-05-28 15:42:45	SenseNLUIntent	Nej jag har inte gjort det då	Agree
+2024-05-28 15:42:45	SenseNLUIntent	Nej jag har inte gjort det då	Disagree
+2024-05-28 15:42:45	MonitorSpeechStart	<prosody rate="1.0">Snyggt</prosody>	650
+2024-05-28 15:42:47	MonitorSpeechStart	<prosody rate="1.0">När du klickat på en av knapparna ska den lysa upp. Gör någon av dem det?</prosody>	4692
+2024-05-28 15:42:48	ActionGesture	BrowRaise
+2024-05-28 15:42:48	GUIEvent	ANSWER_MARKED	ANSWER[TRUE] [2] [5] SENT .. [ACCEPTED]	2	5	CONDITION1	QuestionMarking
+2024-05-28 15:42:51	ActionGesture	BrowRaise
+2024-05-28 15:42:54	ActionGesture	Smile
+2024-05-28 15:42:55	SenseSpeech	Ja nu gör den det	1464
+2024-05-28 15:42:55	SenseNLUIntent	Ja nu gör den det	Yes
+2024-05-28 15:42:55	FlowEvent	NEW_FLOW_STATE	QuestionDisclosure	2		CONDITION1	QuestionDisclosure
+2024-05-28 15:42:56	MonitorSpeechStart	<prosody rate="1.0">Perfekt</prosody>	700
+2024-05-28 15:42:56	ActionGesture	BrowRaise
+2024-05-28 15:42:57	MonitorSpeechStart	<prosody rate="1.0">Jag tog FALSE. Vad svarade du?</prosody>	2542
+2024-05-28 15:42:58	ActionGesture	BrowRaise
+2024-05-28 15:42:59	ActionGesture	BrowRaise
+2024-05-28 15:43:02	ActionGesture	Smile
+2024-05-28 15:43:04	SenseSpeech	jag svarar att det är sant	1895
+2024-05-28 15:43:04	SenseNLUIntent	jag svarar att det är sant	Agree
+2024-05-28 15:43:04	SenseNLUIntent	jag svarar att det är sant	AnswerTrue
+2024-05-28 15:43:04	FlowEvent	NEW_FLOW_STATE	QuestionPersuasion	2		CONDITION1	QuestionPersuasion
+2024-05-28 15:43:04	MonitorSpeechStart	<prosody rate="1.0">Njaa</prosody>	512
+2024-05-28 15:43:05	ActionGesture	BrowRaise
+2024-05-28 15:43:06	MonitorSpeechStart	<prosody rate="1.0">De vita, gula och röda lamporna är parallelkopplade i både C1 och C2.</prosody>	5400
+2024-05-28 15:43:06	ActionGesture	BrowRaise
+2024-05-28 15:43:10	ActionGesture	BrowRaise
+2024-05-28 15:43:10	ActionGesture	BrowRaise
+2024-05-28 15:43:10	ActionGesture	BrowRaise
+2024-05-28 15:43:14	ActionGesture	Smile
+2024-05-28 15:43:16	SenseSpeech	okej	1222
+2024-05-28 15:43:16	SenseNLUIntent	okej	Yes
+2024-05-28 15:43:16	MonitorSpeechStart	<prosody rate="1.0">Det är bra!</prosody>	700
+2024-05-28 15:43:16	ActionGesture	BrowRaise
+2024-05-28 15:43:17	MonitorSpeechStart	<prosody rate="1.0">C1 och C2 är ritade olika, men det är samma krets</prosody>	4061
+2024-05-28 15:43:18	ActionGesture	BrowRaise
+2024-05-28 15:43:20	ActionGesture	BrowRaise
+2024-05-28 15:43:21	ActionGesture	BrowRaise
+2024-05-28 15:43:24	ActionGesture	Smile
+2024-05-28 15:43:25	SenseSpeech	Jaha	1622
+2024-05-28 15:43:25	MonitorSpeechStart	<prosody rate="1.0">Okej</prosody>	525
+2024-05-28 15:43:26	ActionGesture	BrowRaise
+2024-05-28 15:43:27	MonitorSpeechStart	<prosody rate="1.0">Båda kretsarna är kortslutna, så ingen ström går genom de andra lamporna.</prosody>	4987
+2024-05-28 15:43:28	ActionGesture	BrowRaise
+2024-05-28 15:43:29	ActionGesture	BrowRaise
+2024-05-28 15:43:31	ActionGesture	BrowRaise
+2024-05-28 15:43:34	ActionGesture	Smile
+2024-05-28 15:43:35	SenseSpeech	Jaha	1015
+2024-05-28 15:43:36	MonitorSpeechStart	<prosody rate="1.0">Okej, tänk så här Därför lyser de blå lamporna lika starkt.</prosody>	4212
+2024-05-28 15:43:38	ActionGesture	BrowRaise
+2024-05-28 15:43:40	ActionGesture	BrowRaise
+2024-05-28 15:43:44	FlowEvent	NEW_FLOW_STATE	QuestionCheckpoint	2		CONDITION1	QuestionCheckpoint
+2024-05-28 15:43:45	MonitorSpeechStart	<prosody rate="1.0">Får jag fråga</prosody>	812
+2024-05-28 15:43:45	ActionGesture	BrowRaise
+2024-05-28 15:43:46	MonitorSpeechStart	<prosody rate="1.0">Jag svarar att det är FALSE</prosody>	1762
+2024-05-28 15:43:48	ActionGesture	BrowRaise
+2024-05-28 15:43:49	MonitorSpeechStart	<prosody rate="1.0">Svarar du också det?</prosody>	1237
+2024-05-28 15:43:50	ActionGesture	BrowRaise
+2024-05-28 15:43:51	GUIEvent	ANSWER_MARKED	ANSWER[FALSE] [2] [5] SENT .. [ACCEPTED]	2	5	CONDITION1	QuestionCheckpoint
+2024-05-28 15:43:52	ActionGesture	Smile
+2024-05-28 15:43:53	SenseSpeech	Ja det gör jag	1342
+2024-05-28 15:43:53	SenseNLUIntent	Ja det gör jag	Yes
+2024-05-28 15:43:53	FlowEvent	NEW_FLOW_STATE	QuestionReview	2		CONDITION1	QuestionReview
+2024-05-28 15:43:53	FlowEvent	NEW_FLOW_STATE	QuestionConfirmation	2		CONDITION1	QuestionConfirmation
+2024-05-28 15:43:54	MonitorSpeechStart	<prosody rate="1.0">Utmärkt. Nu har jag svarat FALSE. Svarar du också och bekräftar?</prosody>	4935
+2024-05-28 15:43:56	ActionGesture	BrowRaise
+2024-05-28 15:43:56	ActionGesture	BrowRaise
+2024-05-28 15:43:57	ActionGesture	BrowRaise
+2024-05-28 15:43:59	ActionGesture	BrowRaise
+2024-05-28 15:44:00	GUIEvent	NEW_STAGE_REQUESTED	STAGE[3] [5] REQUESTED .. [ACCEPTED]	2	5	CONDITION1	QuestionConfirmation
+2024-05-28 15:44:00	SessionEvent	ANSWER_CONFIRMED	QUESTION CONFIRMED IN GUI.	3		CONDITION1	QuestionConfirmation
+2024-05-28 15:44:00	SessionEvent	QUESTION_SET	NEW QUESTION TO ACTIVATE	3		CONDITION1	QuestionConfirmation
+2024-05-28 15:44:00	FlowEvent	NEW_FLOW_STATE	QuestionReflection	3		CONDITION1	QuestionReflection
+2024-05-28 15:44:00	MonitorSpeechStart	<prosody rate="1.0">Vi går vidare med fråga 3</prosody>	1850
+2024-05-28 15:44:02	ActionGesture	BrowRaise
+2024-05-28 15:44:03	MonitorSpeechStart	<prosody rate="1.0">Låt oss titta på den.</prosody>	1287
+2024-05-28 15:44:04	ActionGesture	BrowRaise
+2024-05-28 15:44:08	GUIEvent	ANSWER_MARKED	ANSWER[TRUE] [3] [5] SENT .. [ACCEPTED]	3	5	CONDITION1	QuestionReflection
+2024-05-28 15:44:09	MonitorSpeechStart	<prosody rate="1.0">Har du svarat nu?</prosody>	1075
+2024-05-28 15:44:09	ActionGesture	BrowRaise
+2024-05-28 15:44:11	ActionGesture	Smile
+2024-05-28 15:44:17	ActionGesture	Smile
+2024-05-28 15:44:18	SenseSpeech	Jag har svarat	1115
+2024-05-28 15:44:18	SenseNLUIntent	Jag har svarat	Agree
+2024-05-28 15:44:18	FlowEvent	NEW_FLOW_STATE	QuestionDisclosure	3		CONDITION1	QuestionDisclosure
+2024-05-28 15:44:19	MonitorSpeechStart	<prosody rate="1.0">Det är bra!</prosody>	700
+2024-05-28 15:44:19	ActionGesture	BrowRaise
+2024-05-28 15:44:20	MonitorSpeechStart	<prosody rate="1.0">Jag svarade att det är FALSE. Vad svarade du?</prosody>	3405
+2024-05-28 15:44:20	ActionGesture	BrowRaise
+2024-05-28 15:44:22	ActionGesture	BrowRaise
+2024-05-28 15:44:23	ActionGesture	BrowRaise
+2024-05-28 15:44:25	ActionGesture	Smile
+2024-05-28 15:44:27	SenseSpeech	Nej jag sa att det är sant	1981
+2024-05-28 15:44:27	SenseNLUIntent	Nej jag sa att det är sant	No
+2024-05-28 15:44:27	SenseNLUIntent	Nej jag sa att det är sant	AnswerTrue
+2024-05-28 15:44:27	FlowEvent	NEW_FLOW_STATE	QuestionPersuasion	3		CONDITION1	QuestionPersuasion
+2024-05-28 15:44:27	MonitorSpeechStart	<prosody rate="1.0">Okej, låt mig förklara så här</prosody>	1900
+2024-05-28 15:44:28	ActionGesture	BrowRaise
+2024-05-28 15:44:30	MonitorSpeechStart	<prosody rate="1.0">När brytaren slås till blir de röda och gula lamporna parallell kopplade, och deras ekvivalenta resi stanns blir då lägre än för var och en av dem.</prosody>	10037
+2024-05-28 15:44:32	ActionGesture	BrowRaise
+2024-05-28 15:44:35	ActionGesture	BrowRaise
+2024-05-28 15:44:38	ActionGesture	BrowRaise
+2024-05-28 15:44:38	ActionGesture	BrowRaise
+2024-05-28 15:44:39	ActionGesture	BrowRaise
+2024-05-28 15:44:39	ActionGesture	BrowRaise
+2024-05-28 15:44:40	ActionGesture	BrowRaise
+2024-05-28 15:44:42	ActionGesture	Smile
+2024-05-28 15:44:43	SenseSpeech	okej	1041
+2024-05-28 15:44:43	SenseNLUIntent	okej	Yes
+2024-05-28 15:44:43	MonitorSpeechStart	<prosody rate="1.0">Höll du med?</prosody>	675
+2024-05-28 15:44:43	ActionGesture	BrowRaise
+2024-05-28 15:44:45	MonitorSpeechStart	<prosody rate="1.0">Eftersom de gula och röda lamporna tillsammans har lägre resi stanns kommer det att gå mer ström genom dem än genom den blå och därför lyser de starkare.</prosody>	9287
+2024-05-28 15:44:46	ActionGesture	BrowRaise
+2024-05-28 15:44:46	ActionGesture	BrowRaise
+2024-05-28 15:44:47	ActionGesture	BrowRaise
+2024-05-28 15:44:48	ActionGesture	BrowRaise
+2024-05-28 15:44:50	ActionGesture	BrowRaise
+2024-05-28 15:44:53	ActionGesture	BrowRaise
+2024-05-28 15:44:54	ActionGesture	BrowRaise
+2024-05-28 15:44:56	ActionGesture	Smile
+2024-05-28 15:44:57	SenseSpeech	nej	1030
+2024-05-28 15:44:57	SenseNLUIntent	nej	No
+2024-05-28 15:44:58	MonitorSpeechStart	<prosody rate="1.0">Nja</prosody>	487
+2024-05-28 15:44:58	ActionGesture	BrowRaise
+2024-05-28 15:44:59	MonitorSpeechStart	<prosody rate="1.0">Vad menar du med det?</prosody>	1087
+2024-05-28 15:45:00	ActionGesture	BrowRaise
+2024-05-28 15:45:01	ActionGesture	Smile
+2024-05-28 15:45:14	SenseSpeech	Nämen alltså det går i samma ström från början och så dela den på sig mellan gul röd lampan och så kommer de tillbaka och genom den blå lampa så det går ner ska jag med dem	12609
+2024-05-28 15:45:14	SenseNLUIntent	Nämen alltså det går i samma ström från början och så dela den på sig mellan gul röd lampan och så kommer de tillbaka och genom den blå lampa så det går ner ska jag med dem	Agree
+2024-05-28 15:45:14	SenseNLUIntent	Nämen alltså det går i samma ström från början och så dela den på sig mellan gul röd lampan och så kommer de tillbaka och genom den blå lampa så det går ner ska jag med dem	ElaborationRequest
+2024-05-28 15:45:14	MonitorSpeechStart	<prosody rate="1.0">Njaa</prosody>	512
+2024-05-28 15:45:15	ActionGesture	BrowRaise
+2024-05-28 15:45:16	MonitorSpeechStart	<prosody rate="1.0">Det blir en spänningsdelning mellan den blå lampan och de gula och röda</prosody>	4700
+2024-05-28 15:45:17	ActionGesture	BrowRaise
+2024-05-28 15:45:20	ActionGesture	BrowRaise
+2024-05-28 15:45:22	MonitorSpeechStart	<prosody rate="1.0">och eftersom  den blå lampan har högre resi stanns säger åms lag att den kommer att lysa svagare.</prosody>	6037
+2024-05-28 15:45:22	ActionGesture	BrowRaise
+2024-05-28 15:45:26	ActionGesture	BrowRaise
+2024-05-28 15:45:28	ActionGesture	BrowRaise
+2024-05-28 15:45:28	ActionGesture	BrowRaise
+2024-05-28 15:45:30	ActionGesture	Smile
+2024-05-28 15:45:31	SenseSpeech	Nej så är det	1438
+2024-05-28 15:45:31	SenseNLUIntent	Nej så är det	No
+2024-05-28 15:45:31	SenseNLUIntent	Nej så är det	ElaborationRequest
+2024-05-28 15:45:32	MonitorSpeechStart	<prosody rate="1.0">okej</prosody>	525
+2024-05-28 15:45:32	ActionGesture	BrowRaise
+2024-05-28 15:45:34	MonitorSpeechStart	<prosody rate="1.0">Lampornas effekt är resi stannsen gånger strömmen i kvadrat. Eftersom det är tre lampor kommer det gå åt mer effekt för de parallell kopplade lamporna än den ensamma blå</prosody>	10755
+2024-05-28 15:45:35	ActionGesture	BrowRaise
+2024-05-28 15:45:36	ActionGesture	BrowRaise
+2024-05-28 15:45:36	ActionGesture	BrowRaise
+2024-05-28 15:45:37	ActionGesture	BrowRaise
+2024-05-28 15:45:39	ActionGesture	BrowRaise
+2024-05-28 15:45:39	ActionGesture	BrowRaise
+2024-05-28 15:45:41	ActionGesture	BrowRaise
+2024-05-28 15:45:43	ActionGesture	BrowRaise
+2024-05-28 15:45:44	ActionGesture	BrowRaise
+2024-05-28 15:45:45	MonitorSpeechStart	<prosody rate="1.0">Så den lyser svagare.</prosody>	1612
+2024-05-28 15:45:46	ActionGesture	BrowRaise
+2024-05-28 15:45:49	ActionGesture	Smile
+2024-05-28 15:45:50	SenseSpeech	Nej det var fel	1416
+2024-05-28 15:45:50	SenseNLUIntent	Nej det var fel	No
+2024-05-28 15:45:50	SenseNLUIntent	Nej det var fel	Disagree
+2024-05-28 15:45:50	FlowEvent	NEW_FLOW_STATE	QuestionCheckpoint	3		CONDITION1	QuestionCheckpoint
+2024-05-28 15:45:51	MonitorSpeechStart	<prosody rate="1.0">mm,</prosody>	437
+2024-05-28 15:45:51	ActionGesture	BrowRaise
+2024-05-28 15:45:52	MonitorSpeechStart	<prosody rate="1.0">Jag fattar</prosody>	787
+2024-05-28 15:45:52	ActionGesture	BrowRaise
+2024-05-28 15:45:54	MonitorSpeechStart	<prosody rate="1.0">Så, håller du med om att det är FALSE?</prosody>	2150
+2024-05-28 15:45:56	ActionGesture	BrowRaise
+2024-05-28 15:45:57	ActionGesture	Smile
+2024-05-28 15:45:58	SenseSpeech	nej	880
+2024-05-28 15:45:58	SenseNLUIntent	nej	No
+2024-05-28 15:45:58	FlowEvent	NEW_FLOW_STATE	QuestionPersuasion	3		CONDITION1	QuestionPersuasion
+2024-05-28 15:45:58	FlowEvent	NEW_FLOW_STATE	QuestionUltimatum	3		CONDITION1	QuestionUltimatum
+2024-05-28 15:45:59	MonitorSpeechStart	<prosody rate="1.0">Vad menar du? Jag svarade FALSE</prosody>	2505
+2024-05-28 15:46:01	ActionGesture	BrowRaise
+2024-05-28 15:46:02	MonitorSpeechStart	<prosody rate="1.0">men du behöver bestämma om du ska svara</prosody>	2162
+2024-05-28 15:46:04	ActionGesture	BrowRaise
+2024-05-28 15:46:04	ActionGesture	BrowRaise
+2024-05-28 15:46:06	MonitorSpeechStart	<prosody rate="1.0">FALSE eller "TRUE?</prosody>	1287
+2024-05-28 15:46:06	ActionGesture	BrowRaise
+2024-05-28 15:46:08	ActionGesture	Smile
+2024-05-28 15:46:09	SenseSpeech	det är sant	1244
+2024-05-28 15:46:09	SenseNLUIntent	det är sant	Agree
+2024-05-28 15:46:09	SenseNLUIntent	det är sant	AnswerTrue
+2024-05-28 15:46:09	FlowEvent	NEW_FLOW_STATE	QuestionConfirmation	3		CONDITION1	QuestionConfirmation
+2024-05-28 15:46:10	MonitorSpeechStart	<prosody rate="1.0">Kan du svara och bekräfta? Jag har valt TRUE.</prosody>	2917
+2024-05-28 15:46:11	ActionGesture	BrowRaise
+2024-05-28 15:46:11	ActionGesture	BrowRaise
+2024-05-28 15:46:12	ActionGesture	BrowRaise
+2024-05-28 15:46:15	GUIEvent	NEW_STAGE_REQUESTED	STAGE[4] [5] REQUESTED .. [ACCEPTED]	3	5	CONDITION1	QuestionConfirmation
+2024-05-28 15:46:15	SessionEvent	ANSWER_CONFIRMED	QUESTION CONFIRMED IN GUI.	4		CONDITION1	QuestionConfirmation
+2024-05-28 15:46:15	SessionEvent	QUESTION_SET	NEW QUESTION TO ACTIVATE	4		CONDITION1	QuestionConfirmation
+2024-05-28 15:46:15	FlowEvent	NEW_FLOW_STATE	QuestionReflection	4		CONDITION1	QuestionReflection
+2024-05-28 15:46:16	MonitorSpeechStart	<prosody rate="1.0">Då ska vi få upp fråga 4</prosody>	1762
+2024-05-28 15:46:17	ActionGesture	BrowRaise
+2024-05-28 15:46:22	MonitorSpeechStart	<prosody rate="1.0">Jag tror att jag tänkt klart. Har du?</prosody>	2580
+2024-05-28 15:46:24	ActionGesture	BrowRaise
+2024-05-28 15:46:25	ActionGesture	BrowRaise
+2024-05-28 15:46:29	MonitorSpeechStart	<prosody rate="1.0">Säg till när du svarat.</prosody>	1475
+2024-05-28 15:46:30	GUIEvent	ANSWER_MARKED	ANSWER[TRUE] [4] [5] SENT .. [ACCEPTED]	4	5	CONDITION1	QuestionReflection
+2024-05-28 15:46:30	ActionGesture	BrowRaise
+2024-05-28 15:46:35	MonitorSpeechStart	<prosody rate="1.0">Är du redo?</prosody>	712
+2024-05-28 15:46:36	ActionGesture	BrowRaise
+2024-05-28 15:46:41	MonitorSpeechStart	<prosody rate="1.0">Jag har valt. Har du?</prosody>	1717
+2024-05-28 15:46:42	ActionGesture	BrowRaise
+2024-05-28 15:46:44	ActionGesture	Smile
+2024-05-28 15:46:44	SenseSpeech	ja	843
+2024-05-28 15:46:44	SenseNLUIntent	ja	Yes
+2024-05-28 15:46:44	FlowEvent	NEW_FLOW_STATE	QuestionDisclosure	4		CONDITION1	QuestionDisclosure
+2024-05-28 15:46:45	MonitorSpeechStart	<prosody rate="1.0">Bra. Jag tog TRUE. Vad svarade du?</prosody>	3310
+2024-05-28 15:46:45	ActionGesture	BrowRaise
+2024-05-28 15:46:48	ActionGesture	BrowRaise
+2024-05-28 15:46:53	FlowEvent	NEW_FLOW_STATE	QuestionReview	4		CONDITION1	QuestionReview
+2024-05-28 15:46:53	MonitorSpeechStart	<prosody rate="1.0">Umh,</prosody>	400
+2024-05-28 15:46:55	MonitorSpeechStart	<prosody rate="1.0">Jag svarade också att det är falskt. I C1 är den blå lampan i serie med de två parallell kopplade gula lamporna, men i C2 är alla lampor parallell kopplade.</prosody>	11230
+2024-05-28 15:46:55	ActionGesture	BrowRaise
+2024-05-28 15:46:58	ActionGesture	BrowRaise
+2024-05-28 15:46:58	ActionGesture	BrowRaise
+2024-05-28 15:46:58	ActionGesture	BrowRaise
+2024-05-28 15:47:00	ActionGesture	BrowRaise
+2024-05-28 15:47:02	ActionGesture	BrowRaise
+2024-05-28 15:47:03	ActionGesture	BrowRaise
+2024-05-28 15:47:06	ActionGesture	BrowRaise
+2024-05-28 15:47:08	ActionGesture	Smile
+2024-05-28 15:47:22	ActionGesture	Smile
+2024-05-28 15:47:27	ActionGesture	Smile
+2024-05-28 15:47:28	SenseSpeech	Hello	910
+2024-05-28 15:47:28	MonitorSpeechStart	<prosody rate="1.0">Jag kan förklara så här Eftersom den totala resi stannsen är 22,5 Ohm i C1 och 5 Ohm i C2 kommer den blå lampan i C2 lysa starkare.</prosody>	10200
+2024-05-28 15:47:29	ActionGesture	BrowRaise
+2024-05-28 15:47:31	ActionGesture	BrowRaise
+2024-05-28 15:47:34	ActionGesture	BrowRaise
+2024-05-28 15:47:34	ActionGesture	BrowRaise
+2024-05-28 15:47:37	ActionGesture	BrowRaise
+2024-05-28 15:47:38	ActionGesture	BrowRaise
+2024-05-28 15:47:43	FlowEvent	NEW_FLOW_STATE	QuestionCheckpoint	4		CONDITION1	QuestionCheckpoint
+2024-05-28 15:47:43	MonitorSpeechStart	<prosody rate="1.0">Jag vidhåller</prosody>	937
+2024-05-28 15:47:44	ActionGesture	BrowRaise
+2024-05-28 15:47:45	MonitorSpeechStart	<prosody rate="1.0">Ska vi välja TRUE då?</prosody>	1250
+2024-05-28 15:47:45	ActionGesture	BrowRaise
+2024-05-28 15:47:50	MonitorSpeechStart	<prosody rate="1.0">Jag behöver få veta</prosody>	1237
+2024-05-28 15:47:51	ActionGesture	BrowRaise
+2024-05-28 15:47:52	MonitorSpeechStart	<prosody rate="1.0">Så</prosody>	512
+2024-05-28 15:47:53	MonitorSpeechStart	<prosody rate="1.0">är vi överens om att det är TRUE?</prosody>	1837
+2024-05-28 15:47:55	ActionGesture	BrowRaise
+2024-05-28 15:47:59	ActionGesture	Smile
+2024-05-28 15:48:00	SenseSpeech	ja	1076
+2024-05-28 15:48:00	SenseNLUIntent	ja	Yes
+2024-05-28 15:48:00	FlowEvent	NEW_FLOW_STATE	QuestionReview	4		CONDITION1	QuestionReview
+2024-05-28 15:48:00	FlowEvent	NEW_FLOW_STATE	QuestionConfirmation	4		CONDITION1	QuestionConfirmation
+2024-05-28 15:48:00	MonitorSpeechStart	<prosody rate="1.0">Snyggt</prosody>	650
+2024-05-28 15:48:02	MonitorSpeechStart	<prosody rate="1.0">Det är dags att svara och befräfta.</prosody>	1950
+2024-05-28 15:48:03	ActionGesture	BrowRaise
+2024-05-28 15:48:04	ActionGesture	BrowRaise
+2024-05-28 15:48:05	ActionGesture	Smile
+2024-05-28 15:48:06	GUIEvent	NEW_STAGE_REQUESTED	STAGE[5] [5] REQUESTED .. [ACCEPTED]	4	5	CONDITION1	QuestionConfirmation
+2024-05-28 15:48:06	SessionEvent	ANSWER_CONFIRMED	QUESTION CONFIRMED IN GUI.	5		CONDITION1	QuestionConfirmation
+2024-05-28 15:48:06	SessionEvent	QUESTION_SET	NEW QUESTION TO ACTIVATE	5		CONDITION1	QuestionConfirmation
+2024-05-28 15:48:06	FlowEvent	NEW_FLOW_STATE	QuestionReflection	5		CONDITION1	QuestionReflection
+2024-05-28 15:48:06	SenseSpeech	okej så	873
+2024-05-28 15:48:07	MonitorSpeechStart	<prosody rate="1.0">Låt oss titta på fråga 5</prosody>	1650
+2024-05-28 15:48:08	ActionGesture	BrowRaise
+2024-05-28 15:48:13	MonitorSpeechStart	<prosody rate="1.0">Ska vi börja diskutera?</prosody>	1487
+2024-05-28 15:48:14	ActionGesture	BrowRaise
+2024-05-28 15:48:15	GUIEvent	ANSWER_MARKED	ANSWER[FALSE] [5] [5] SENT .. [ACCEPTED]	5	5	CONDITION1	QuestionReflection
+2024-05-28 15:48:16	ActionGesture	Smile
+2024-05-28 15:48:17	SenseSpeech	Stäng av allt	1055
+2024-05-28 15:48:18	MonitorSpeechStart	<prosody rate="1.0">mm,</prosody>	437
+2024-05-28 15:48:18	ActionGesture	BrowRaise
+2024-05-28 15:48:19	MonitorSpeechStart	<prosody rate="1.0">Jag fattar</prosody>	787
+2024-05-28 15:48:19	ActionGesture	BrowRaise
+2024-05-28 15:48:20	MonitorSpeechStart	<prosody rate="1.0">Har du svarat?</prosody>	962
+2024-05-28 15:48:21	ActionGesture	BrowRaise
+2024-05-28 15:48:22	ActionGesture	Smile
+2024-05-28 15:48:23	SenseSpeech	ja	827
+2024-05-28 15:48:23	SenseNLUIntent	ja	Yes
+2024-05-28 15:48:23	FlowEvent	NEW_FLOW_STATE	QuestionDisclosure	5		CONDITION1	QuestionDisclosure
+2024-05-28 15:48:23	MonitorSpeechStart	<prosody rate="1.0">Perfekt</prosody>	700
+2024-05-28 15:48:23	ActionGesture	BrowRaise
+2024-05-28 15:48:24	MonitorSpeechStart	<prosody rate="1.0">Jag svarade att det är TRUE. Vad svarade du?</prosody>	3192
+2024-05-28 15:48:25	ActionGesture	BrowRaise
+2024-05-28 15:48:27	ActionGesture	BrowRaise
+2024-05-28 15:48:27	ActionGesture	BrowRaise
+2024-05-28 15:48:30	ActionGesture	Smile
+2024-05-28 15:48:32	SenseSpeech	Jag sa att det fanns	1513
+2024-05-28 15:48:32	FlowEvent	NEW_FLOW_STATE	QuestionPersuasion	5		CONDITION1	QuestionPersuasion
+2024-05-28 15:48:33	MonitorSpeechStart	<prosody rate="1.0">Jag är inte säker på det. De gula, blåa och röda lamporna är parallell kopplade</prosody>	5692
+2024-05-28 15:48:34	ActionGesture	BrowRaise
+2024-05-28 15:48:35	ActionGesture	BrowRaise
+2024-05-28 15:48:37	ActionGesture	BrowRaise
+2024-05-28 15:48:38	ActionGesture	BrowRaise
+2024-05-28 15:48:43	MonitorSpeechStart	<prosody rate="1.0">mm,</prosody>	437
+2024-05-28 15:48:43	ActionGesture	BrowRaise
+2024-05-28 15:48:44	MonitorSpeechStart	<prosody rate="1.0">Den gröna lampan är också parallell kopplad med batteriet</prosody>	4061
+2024-05-28 15:48:46	ActionGesture	BrowRaise
+2024-05-28 15:48:46	ActionGesture	BrowRaise
+2024-05-28 15:48:47	ActionGesture	BrowRaise
+2024-05-28 15:48:48	ActionGesture	BrowRaise
+2024-05-28 15:48:50	ActionGesture	Smile
+2024-05-28 15:48:51	SenseSpeech	ja	1273
+2024-05-28 15:48:51	SenseNLUIntent	ja	Yes
+2024-05-28 15:48:51	FlowEvent	NEW_FLOW_STATE	QuestionCheckpoint	5		CONDITION1	QuestionCheckpoint
+2024-05-28 15:48:52	MonitorSpeechStart	<prosody rate="1.0">Utmärkt. Jag svarar att det är TRUE</prosody>	2830
+2024-05-28 15:48:54	ActionGesture	BrowRaise
+2024-05-28 15:48:54	ActionGesture	BrowRaise
+2024-05-28 15:48:56	MonitorSpeechStart	<prosody rate="1.0">Svarar du också det?</prosody>	1237
+2024-05-28 15:48:57	ActionGesture	BrowRaise
+2024-05-28 15:48:59	ActionGesture	Smile
+2024-05-28 15:49:00	SenseSpeech	nej	943
+2024-05-28 15:49:00	SenseNLUIntent	nej	No
+2024-05-28 15:49:00	FlowEvent	NEW_FLOW_STATE	QuestionPersuasion	5		CONDITION1	QuestionPersuasion
+2024-05-28 15:49:01	MonitorSpeechStart	<prosody rate="1.0">Jaha</prosody>	537
+2024-05-28 15:49:01	ActionGesture	BrowRaise
+2024-05-28 15:49:02	MonitorSpeechStart	<prosody rate="1.0">Okej</prosody>	525
+2024-05-28 15:49:02	ActionGesture	BrowRaise
+2024-05-28 15:49:04	MonitorSpeechStart	<prosody rate="1.0">I menar</prosody>	675
+2024-05-28 15:49:04	ActionGesture	BrowRaise
+2024-05-28 15:49:06	MonitorSpeechStart	<prosody rate="1.0">Det spelar ingen roll vilken sida om batteriet som lampan är på</prosody>	4012
+2024-05-28 15:49:06	ActionGesture	BrowRaise
+2024-05-28 15:49:07	ActionGesture	BrowRaise
+2024-05-28 15:49:09	ActionGesture	BrowRaise
+2024-05-28 15:49:11	ActionGesture	Smile
+2024-05-28 15:49:12	SenseSpeech	Jag vet inte	1123
+2024-05-28 15:49:12	SenseNLUIntent	Jag vet inte	DontKnow
+2024-05-28 15:49:13	MonitorSpeechStart	<prosody rate="1.0">Okej, låt mig förklara så här. Eftersom alla lampor är parallell kopplade lyser de lika starkt</prosody>	6430
+2024-05-28 15:49:15	ActionGesture	BrowRaise
+2024-05-28 15:49:15	ActionGesture	BrowRaise
+2024-05-28 15:49:16	ActionGesture	BrowRaise
+2024-05-28 15:49:18	ActionGesture	BrowRaise
+2024-05-28 15:49:19	ActionGesture	BrowRaise
+2024-05-28 15:49:24	FlowEvent	NEW_FLOW_STATE	QuestionUltimatum	5		CONDITION1	QuestionUltimatum
+2024-05-28 15:49:24	MonitorSpeechStart	<prosody rate="1.0">Umh,</prosody>	400
+2024-05-28 15:49:25	MonitorSpeechStart	<prosody rate="1.0">Ursäkta</prosody>	600
+2024-05-28 15:49:26	GUIEvent	ANSWER_MARKED	ANSWER[TRUE] [5] [5] SENT .. [ACCEPTED]	5	5	CONDITION1	QuestionUltimatum
+2024-05-28 15:49:26	ActionGesture	BrowRaise
+2024-05-28 15:49:27	MonitorSpeechStart	<prosody rate="1.0">Jag måste kolla</prosody>	950
+2024-05-28 15:49:28	ActionGesture	BrowRaise
+2024-05-28 15:49:29	MonitorSpeechStart	<prosody rate="1.0">Jag har svarat TRUE, men det är upp till dig: Sant eller Falskt?</prosody>	3562
+2024-05-28 15:49:30	ActionGesture	BrowRaise
+2024-05-28 15:49:32	ActionGesture	BrowRaise
+2024-05-28 15:49:34	ActionGesture	Smile
+2024-05-28 15:49:36	SenseSpeech	Ja jag tror också Samt	1735
+2024-05-28 15:49:36	SenseNLUIntent	Ja jag tror också Samt	Yes
+2024-05-28 15:49:36	SenseNLUIntent	Ja jag tror också Samt	Agree
+2024-05-28 15:49:37	MonitorSpeechStart	<prosody rate="1.0">Utmärkt</prosody>	762
+2024-05-28 15:49:37	ActionGesture	BrowRaise
+2024-05-28 15:49:39	MonitorSpeechStart	<prosody rate="1.0">men Jag har bekräftat mitt svar att det är TRUE, men du får bestämma om du svarar TRUE eller "FALSE?</prosody>	5325
+2024-05-28 15:49:40	ActionGesture	BrowRaise
+2024-05-28 15:49:42	ActionGesture	BrowRaise
+2024-05-28 15:49:42	ActionGesture	BrowRaise
+2024-05-28 15:49:44	ActionGesture	BrowRaise
+2024-05-28 15:49:49	MonitorSpeechStart	<prosody rate="1.0">Ledsen, men jag vidhåller</prosody>	1787
+2024-05-28 15:49:49	ActionGesture	BrowRaise
+2024-05-28 15:49:50	ActionGesture	BrowRaise
+2024-05-28 15:49:52	MonitorSpeechStart	<prosody rate="1.0">Jag tog TRUE, men du får bestämma om du vill svara Sant eller Falskt?</prosody>	4050
+2024-05-28 15:49:53	ActionGesture	BrowRaise
+2024-05-28 15:49:54	ActionGesture	BrowRaise
+2024-05-28 15:49:55	ActionGesture	BrowRaise
+2024-05-28 15:49:57	ActionGesture	Smile
+2024-05-28 15:49:58	SenseSpeech	Ja jag svarar att det är sant	1340
+2024-05-28 15:49:58	SenseNLUIntent	Ja jag svarar att det är sant	Yes
+2024-05-28 15:49:58	SenseNLUIntent	Ja jag svarar att det är sant	AnswerTrue
+2024-05-28 15:49:58	FlowEvent	NEW_FLOW_STATE	QuestionConfirmation	5		CONDITION1	QuestionConfirmation
+2024-05-28 15:49:59	MonitorSpeechStart	<prosody rate="1.0">Okej, Jag har bekräftat att det är TRUE. Kan du ge ditt svar och trycka på Bekräfta?</prosody>	4917
+2024-05-28 15:50:02	ActionGesture	BrowRaise
+2024-05-28 15:50:02	ActionGesture	BrowRaise
+2024-05-28 15:50:02	GUIEvent	NEW_STAGE_REQUESTED	STAGE[6] [5] REQUESTED .. [ACCEPTED]	5	5	CONDITION1	QuestionConfirmation
+2024-05-28 15:50:02	SessionEvent	ANSWER_CONFIRMED	QUESTION CONFIRMED IN GUI.	6		CONDITION1	QuestionConfirmation
+2024-05-28 15:50:02	SessionEvent	QUESTION_SET	NEW QUESTION TO ACTIVATE	6		CONDITION1	QuestionConfirmation
+2024-05-28 15:50:02	FlowEvent	NEW_FLOW_STATE	QuestionReflection	6		CONDITION1	QuestionReflection
+2024-05-28 15:50:03	MonitorSpeechStart	<prosody rate="1.0">Då är det dags att fundera över fråga 6</prosody>	2762
+2024-05-28 15:50:04	ActionGesture	BrowRaise
+2024-05-28 15:50:06	ActionGesture	BrowRaise
+2024-05-28 15:50:11	MonitorSpeechStart	<prosody rate="1.0">Har du redan svarat?</prosody>	1287
+2024-05-28 15:50:11	ActionGesture	BrowRaise
+2024-05-28 15:50:12	ActionGesture	BrowRaise
+2024-05-28 15:50:16	MonitorSpeechStart	<prosody rate="1.0">Jag är klar. Är du?</prosody>	1555
+2024-05-28 15:50:17	GUIEvent	ANSWER_MARKED	ANSWER[TRUE] [6] [5] SENT .. [ACCEPTED]	6	5	CONDITION1	QuestionReflection
+2024-05-28 15:50:18	ActionGesture	BrowRaise
+2024-05-28 15:50:20	ActionGesture	Smile
+2024-05-28 15:50:21	SenseSpeech	Ja jag är klar	811
+2024-05-28 15:50:21	SenseNLUIntent	Ja jag är klar	Yes
+2024-05-28 15:50:21	SenseNLUIntent	Ja jag är klar	Understand
+2024-05-28 15:50:21	FlowEvent	NEW_FLOW_STATE	QuestionDisclosure	6		CONDITION1	QuestionDisclosure
+2024-05-28 15:50:21	MonitorSpeechStart	<prosody rate="1.0">Det är bra!</prosody>	700
+2024-05-28 15:50:21	ActionGesture	BrowRaise
+2024-05-28 15:50:22	MonitorSpeechStart	<prosody rate="1.0">Jag tog FALSE. Vad svarade du?</prosody>	2542
+2024-05-28 15:50:23	ActionGesture	BrowRaise
+2024-05-28 15:50:24	ActionGesture	BrowRaise
+2024-05-28 15:50:27	ActionGesture	Smile
+2024-05-28 15:50:28	SenseSpeech	så att det är sant	1418
+2024-05-28 15:50:28	SenseNLUIntent	så att det är sant	Agree
+2024-05-28 15:50:28	SenseNLUIntent	så att det är sant	AnswerTrue
+2024-05-28 15:50:28	FlowEvent	NEW_FLOW_STATE	QuestionPersuasion	6		CONDITION1	QuestionPersuasion
+2024-05-28 15:50:29	MonitorSpeechStart	<prosody rate="1.0">Aha,</prosody>	525
+2024-05-28 15:50:29	ActionGesture	BrowRaise
+2024-05-28 15:50:30	MonitorSpeechStart	<prosody rate="1.0">Jag förstår</prosody>	625
+2024-05-28 15:50:31	ActionGesture	BrowRaise
+2024-05-28 15:50:32	MonitorSpeechStart	<prosody rate="1.0">Det är nästan samma krets som i en av de första frågorna.</prosody>	3462
+2024-05-28 15:50:32	ActionGesture	BrowRaise
+2024-05-28 15:50:36	ActionGesture	BrowRaise
+2024-05-28 15:50:41	MonitorSpeechStart	<prosody rate="1.0">okej. Skillnaden är att den blå lampan i C2 är placerad annorlunda</prosody>	5755
+2024-05-28 15:50:42	ActionGesture	BrowRaise
+2024-05-28 15:50:45	ActionGesture	BrowRaise
+2024-05-28 15:50:46	ActionGesture	BrowRaise
+2024-05-28 15:50:51	MonitorSpeechStart	<prosody rate="1.0">Okej, låt mig förklara så här. Den blå lampans placering spelar ingen roll</prosody>	5142
+2024-05-28 15:50:53	ActionGesture	BrowRaise
+2024-05-28 15:50:55	ActionGesture	BrowRaise
+2024-05-28 15:50:56	ActionGesture	BrowRaise
+2024-05-28 15:51:02	MonitorSpeechStart	<prosody rate="1.0">Okej, tänk så här De blå lamporna lyser lika starkt eftersom båda kretsarna är kortslutna</prosody>	6162
+2024-05-28 15:51:02	ActionGesture	BrowRaise
+2024-05-28 15:51:05	ActionGesture	BrowRaise
+2024-05-28 15:51:07	ActionGesture	BrowRaise
+2024-05-28 15:51:08	ActionGesture	BrowRaise
+2024-05-28 15:51:12	FlowEvent	NEW_FLOW_STATE	QuestionCheckpoint	6		CONDITION1	QuestionCheckpoint
+2024-05-28 15:51:12	MonitorSpeechStart	<prosody rate="1.0">Får jag fråga</prosody>	812
+2024-05-28 15:51:13	ActionGesture	BrowRaise
+2024-05-28 15:51:14	MonitorSpeechStart	<prosody rate="1.0">Så, håller du med om att det är FALSE?</prosody>	2150
+2024-05-28 15:51:16	ActionGesture	BrowRaise
+2024-05-28 15:51:17	GUIEvent	ANSWER_MARKED	ANSWER[FALSE] [6] [5] SENT .. [ACCEPTED]	6	5	CONDITION1	QuestionCheckpoint
+2024-05-28 15:51:20	MonitorSpeechStart	<prosody rate="1.0">Jag vidhåller</prosody>	937
+2024-05-28 15:51:21	ActionGesture	BrowRaise
+2024-05-28 15:51:22	MonitorSpeechStart	<prosody rate="1.0">Ska vi välja FALSE då?</prosody>	1337
+2024-05-28 15:51:22	ActionGesture	BrowRaise
+2024-05-28 15:51:23	ActionGesture	BrowRaise
+2024-05-28 15:51:25	ActionGesture	Smile
+2024-05-28 15:51:25	SenseSpeech	ja	861
+2024-05-28 15:51:25	SenseNLUIntent	ja	Yes
+2024-05-28 15:51:25	FlowEvent	NEW_FLOW_STATE	QuestionReview	6		CONDITION1	QuestionReview
+2024-05-28 15:51:25	FlowEvent	NEW_FLOW_STATE	QuestionConfirmation	6		CONDITION1	QuestionConfirmation
+2024-05-28 15:51:26	MonitorSpeechStart	<prosody rate="1.0">Bra. Nu har jag svarat FALSE. Svarar du också och bekräftar?</prosody>	4635
+2024-05-28 15:51:26	ActionGesture	BrowRaise
+2024-05-28 15:51:28	ActionGesture	BrowRaise
+2024-05-28 15:51:29	ActionGesture	BrowRaise
+2024-05-28 15:51:30	ActionGesture	BrowRaise
+2024-05-28 15:51:31	GUIEvent	NEW_STAGE_REQUESTED	STAGE[7] [5] REQUESTED .. [ACCEPTED]	6	5	CONDITION1	QuestionConfirmation
+2024-05-28 15:51:31	SessionEvent	ANSWER_CONFIRMED	QUESTION CONFIRMED IN GUI.	7		CONDITION1	QuestionConfirmation
+2024-05-28 15:51:31	SessionEvent	QUESTION_SET	NEW QUESTION TO ACTIVATE	7		CONDITION1	QuestionConfirmation
+2024-05-28 15:51:31	FlowEvent	NEW_FLOW_STATE	QuestionReflection	7		CONDITION1	QuestionReflection
+2024-05-28 15:51:32	MonitorSpeechStart	<prosody rate="1.0">Då ska vi se om vi kan svara på fråga 7.</prosody>	2537
+2024-05-28 15:51:34	ActionGesture	BrowRaise
+2024-05-28 15:51:34	ActionGesture	BrowRaise
+2024-05-28 15:51:39	MonitorSpeechStart	<prosody rate="1.0">Har du svarat nu?</prosody>	1075
+2024-05-28 15:51:40	ActionGesture	BrowRaise
+2024-05-28 15:51:40	GUIEvent	ANSWER_MARKED	ANSWER[TRUE] [7] [5] SENT .. [ACCEPTED]	7	5	CONDITION1	QuestionReflection
+2024-05-28 15:51:45	MonitorSpeechStart	<prosody rate="1.0">Jag tror att jag tänkt klart. Har du?</prosody>	2580
+2024-05-28 15:51:46	ActionGesture	BrowRaise
+2024-05-28 15:51:47	ActionGesture	BrowRaise
+2024-05-28 15:51:52	MonitorSpeechStart	<prosody rate="1.0">Säg till när du svarat.</prosody>	1475
+2024-05-28 15:51:53	ActionGesture	BrowRaise
+2024-05-28 15:51:58	MonitorSpeechStart	<prosody rate="1.0">Är du redo?</prosody>	712
+2024-05-28 15:51:58	ActionGesture	BrowRaise
+2024-05-28 15:51:59	ActionGesture	Smile
+2024-05-28 15:52:00	SenseSpeech	ja	927
+2024-05-28 15:52:00	SenseNLUIntent	ja	Yes
+2024-05-28 15:52:00	FlowEvent	NEW_FLOW_STATE	QuestionDisclosure	7		CONDITION1	QuestionDisclosure
+2024-05-28 15:52:00	MonitorSpeechStart	<prosody rate="1.0">Snyggt</prosody>	650
+2024-05-28 15:52:02	MonitorSpeechStart	<prosody rate="1.0">Jag svarade att det är FALSE. Vad svarade du?</prosody>	3405
+2024-05-28 15:52:02	ActionGesture	BrowRaise
+2024-05-28 15:52:04	ActionGesture	BrowRaise
+2024-05-28 15:52:05	ActionGesture	BrowRaise
+2024-05-28 15:52:06	ActionGesture	Smile
+2024-05-28 15:52:08	SenseSpeech	Nej jag tror att det är sant	1609
+2024-05-28 15:52:08	SenseNLUIntent	Nej jag tror att det är sant	No
+2024-05-28 15:52:08	SenseNLUIntent	Nej jag tror att det är sant	AnswerTrue
+2024-05-28 15:52:08	FlowEvent	NEW_FLOW_STATE	QuestionPersuasion	7		CONDITION1	QuestionPersuasion
+2024-05-28 15:52:08	MonitorSpeechStart	<prosody rate="1.0">Njaa</prosody>	512
+2024-05-28 15:52:08	ActionGesture	BrowRaise
+2024-05-28 15:52:10	MonitorSpeechStart	<prosody rate="1.0">Den ekvivalenta resi stannsen för de röda och gula lamporna räknas ut som den inverterad summa.</prosody>	6437
+2024-05-28 15:52:13	ActionGesture	BrowRaise
+2024-05-28 15:52:14	ActionGesture	BrowRaise
+2024-05-28 15:52:15	ActionGesture	BrowRaise
+2024-05-28 15:52:16	ActionGesture	BrowRaise
+2024-05-28 15:52:21	MonitorSpeechStart	<prosody rate="1.0">Jag menar</prosody>	725
+2024-05-28 15:52:21	ActionGesture	BrowRaise
+2024-05-28 15:52:23	MonitorSpeechStart	<prosody rate="1.0">Eftersom den ekvivalenta resi stannsen för de gula och röda lamporna blir hälften av den ursprungliga kommer  alla lampor lysa starkare när det går mer ström genom kretsen.</prosody>	10400
+2024-05-28 15:52:25	ActionGesture	BrowRaise
+2024-05-28 15:52:26	ActionGesture	BrowRaise
+2024-05-28 15:52:26	ActionGesture	BrowRaise
+2024-05-28 15:52:27	ActionGesture	BrowRaise
+2024-05-28 15:52:28	ActionGesture	BrowRaise
+2024-05-28 15:52:29	ActionGesture	BrowRaise
+2024-05-28 15:52:31	ActionGesture	BrowRaise
+2024-05-28 15:52:33	ActionGesture	BrowRaise
+2024-05-28 15:52:38	MonitorSpeechStart	<prosody rate="1.0">Umh,</prosody>	400
+2024-05-28 15:52:40	MonitorSpeechStart	<prosody rate="1.0">Innan strömbrytaren slås till går ingen ström genom den röda lampan, så då är resi stannsen i kretsen 30 Ohm. Eftersom det två lamporna är parallelkopplade, minskar totala resi stannsen till 22,5 Ohm, så då blir strömmen högre.</prosody>	17080
+2024-05-28 15:52:44	ActionGesture	BrowRaise
+2024-05-28 15:52:48	ActionGesture	BrowRaise
+2024-05-28 15:52:49	ActionGesture	BrowRaise
+2024-05-28 15:52:49	ActionGesture	BrowRaise
+2024-05-28 15:52:50	ActionGesture	BrowRaise
+2024-05-28 15:52:51	ActionGesture	BrowRaise
+2024-05-28 15:52:54	ActionGesture	BrowRaise
+2024-05-28 15:52:56	ActionGesture	BrowRaise
+2024-05-28 15:53:01	MonitorSpeechStart	<prosody rate="1.0">mm,</prosody>	437
+2024-05-28 15:53:01	ActionGesture	BrowRaise
+2024-05-28 15:53:03	MonitorSpeechStart	<prosody rate="1.0">I en julgransslinga börjar ju inte de andra lamporna lysa svagare för att man skruvar i en lampa som varit bortkopplad.</prosody>	7337
+2024-05-28 15:53:04	ActionGesture	BrowRaise
+2024-05-28 15:53:07	ActionGesture	BrowRaise
+2024-05-28 15:53:08	ActionGesture	BrowRaise
+2024-05-28 15:53:09	ActionGesture	BrowRaise
+2024-05-28 15:53:10	ActionGesture	BrowRaise
+2024-05-28 15:53:14	FlowEvent	NEW_FLOW_STATE	QuestionCheckpoint	7		CONDITION1	QuestionCheckpoint
+2024-05-28 15:53:15	MonitorSpeechStart	<prosody rate="1.0">Jag behöver få veta</prosody>	1237
+2024-05-28 15:53:16	ActionGesture	BrowRaise
+2024-05-28 15:53:17	MonitorSpeechStart	<prosody rate="1.0">Jag svarar att det är FALSE</prosody>	1762
+2024-05-28 15:53:18	ActionGesture	BrowRaise
+2024-05-28 15:53:19	MonitorSpeechStart	<prosody rate="1.0">Svarar du också det?</prosody>	1237
+2024-05-28 15:53:20	ActionGesture	BrowRaise
+2024-05-28 15:53:21	GUIEvent	ANSWER_MARKED	ANSWER[FALSE] [7] [5] SENT .. [ACCEPTED]	7	5	CONDITION1	QuestionCheckpoint
+2024-05-28 15:53:25	MonitorSpeechStart	<prosody rate="1.0">Får jag fråga</prosody>	812
+2024-05-28 15:53:25	ActionGesture	BrowRaise
+2024-05-28 15:53:26	MonitorSpeechStart	<prosody rate="1.0">Så</prosody>	512
+2024-05-28 15:53:27	MonitorSpeechStart	<prosody rate="1.0">är vi överens om att det är FALSE?</prosody>	1862
+2024-05-28 15:53:29	ActionGesture	BrowRaise
+2024-05-28 15:53:34	MonitorSpeechStart	<prosody rate="1.0">Jag vidhåller</prosody>	937
+2024-05-28 15:53:34	ActionGesture	BrowRaise
+2024-05-28 15:53:35	MonitorSpeechStart	<prosody rate="1.0">Ska vi välja FALSE då?</prosody>	1337
+2024-05-28 15:53:36	ActionGesture	BrowRaise
+2024-05-28 15:53:36	ActionGesture	BrowRaise
+2024-05-28 15:53:38	ActionGesture	Smile
+2024-05-28 15:53:40	SenseSpeech	ja	1253
+2024-05-28 15:53:40	SenseNLUIntent	ja	Yes
+2024-05-28 15:53:40	FlowEvent	NEW_FLOW_STATE	QuestionReview	7		CONDITION1	QuestionReview
+2024-05-28 15:53:40	FlowEvent	NEW_FLOW_STATE	QuestionConfirmation	7		CONDITION1	QuestionConfirmation
+2024-05-28 15:53:40	MonitorSpeechStart	<prosody rate="1.0">Perfekt</prosody>	700
+2024-05-28 15:53:40	ActionGesture	BrowRaise
+2024-05-28 15:53:42	MonitorSpeechStart	<prosody rate="1.0">Kan du svara och bekräfta? Jag har valt FALSE.</prosody>	3067
+2024-05-28 15:53:44	ActionGesture	BrowRaise
+2024-05-28 15:53:45	GUIEvent	NEW_STAGE_REQUESTED	STAGE[8] [5] REQUESTED .. [ACCEPTED]	7	5	CONDITION1	QuestionConfirmation
+2024-05-28 15:53:45	SessionEvent	ANSWER_CONFIRMED	QUESTION CONFIRMED IN GUI.	8		CONDITION1	QuestionConfirmation
+2024-05-28 15:53:45	SessionEvent	QUESTION_SET	NEW QUESTION TO ACTIVATE	8		CONDITION1	QuestionConfirmation
+2024-05-28 15:53:45	FlowEvent	NEW_FLOW_STATE	QuestionReflection	8		CONDITION1	QuestionReflection
+2024-05-28 15:53:45	ActionGesture	BrowRaise
+2024-05-28 15:53:46	MonitorSpeechStart	<prosody rate="1.0">Nu är det fråga 8 vi ska svara på</prosody>	2250
+2024-05-28 15:53:48	ActionGesture	BrowRaise
+2024-05-28 15:53:48	ActionGesture	BrowRaise
+2024-05-28 15:53:53	MonitorSpeechStart	<prosody rate="1.0">Jag har valt. Har du?</prosody>	1717
+2024-05-28 15:53:55	ActionGesture	BrowRaise
+2024-05-28 15:53:59	MonitorSpeechStart	<prosody rate="1.0">Ska vi börja diskutera?</prosody>	1487
+2024-05-28 15:54:01	ActionGesture	BrowRaise
+2024-05-28 15:54:05	MonitorSpeechStart	<prosody rate="1.0">Har du svarat?</prosody>	962
+2024-05-28 15:54:06	ActionGesture	BrowRaise
+2024-05-28 15:54:11	MonitorSpeechStart	<prosody rate="1.0">Har du redan svarat?</prosody>	1287
+2024-05-28 15:54:11	ActionGesture	BrowRaise
+2024-05-28 15:54:11	ActionGesture	BrowRaise
+2024-05-28 15:54:14	ActionGesture	Smile
+2024-05-28 15:54:16	SenseSpeech	Jag kollar	1462
+2024-05-28 15:54:16	MonitorSpeechStart	<prosody rate="1.0">mm,</prosody>	437
+2024-05-28 15:54:16	ActionGesture	BrowRaise
+2024-05-28 15:54:17	MonitorSpeechStart	<prosody rate="1.0">Jag är klar. Är du?</prosody>	1555
+2024-05-28 15:54:18	ActionGesture	BrowRaise
+2024-05-28 15:54:19	GUIEvent	ANSWER_MARKED	ANSWER[FALSE] [8] [5] SENT .. [ACCEPTED]	8	5	CONDITION1	QuestionReflection
+2024-05-28 15:54:23	MonitorSpeechStart	<prosody rate="1.0">Jag menar</prosody>	725
+2024-05-28 15:54:23	ActionGesture	BrowRaise
+2024-05-28 15:54:24	MonitorSpeechStart	<prosody rate="1.0">Har du svarat nu?</prosody>	1075
+2024-05-28 15:54:25	ActionGesture	BrowRaise
+2024-05-28 15:54:30	MonitorSpeechStart	<prosody rate="1.0">Umh,</prosody>	400
+2024-05-28 15:54:31	MonitorSpeechStart	<prosody rate="1.0">Jag tror att jag tänkt klart. Har du?</prosody>	2580
+2024-05-28 15:54:32	ActionGesture	BrowRaise
+2024-05-28 15:54:33	ActionGesture	BrowRaise
+2024-05-28 15:54:35	ActionGesture	Smile
+2024-05-28 15:54:37	SenseSpeech	Ja jag tänkte	1945
+2024-05-28 15:54:37	SenseNLUIntent	Ja jag tänkte	Yes
+2024-05-28 15:54:37	FlowEvent	NEW_FLOW_STATE	QuestionDisclosure	8		CONDITION1	QuestionDisclosure
+2024-05-28 15:54:38	MonitorSpeechStart	<prosody rate="1.0">Utmärkt. Jag tog TRUE. Vad svarade du?</prosody>	3610
+2024-05-28 15:54:41	ActionGesture	BrowRaise
+2024-05-28 15:54:41	ActionGesture	BrowRaise
+2024-05-28 15:54:46	ActionGesture	Smile
+2024-05-28 15:54:47	SenseSpeech	jag såg att det var fan	1262
+2024-05-28 15:54:47	FlowEvent	NEW_FLOW_STATE	QuestionPersuasion	8		CONDITION1	QuestionPersuasion
+2024-05-28 15:54:48	MonitorSpeechStart	<prosody rate="1.0">Nja, jag ser det inte så</prosody>	1687
+2024-05-28 15:54:48	ActionGesture	BrowRaise
+2024-05-28 15:54:49	ActionGesture	BrowRaise
+2024-05-28 15:54:51	MonitorSpeechStart	<prosody rate="1.0">Jag svarade att det är sant. Det spelar ingen roll om den blå lampan är placerad först eller sist.</prosody>	6930
+2024-05-28 15:54:51	ActionGesture	BrowRaise
+2024-05-28 15:54:51	ActionGesture	BrowRaise
+2024-05-28 15:54:54	ActionGesture	BrowRaise
+2024-05-28 15:54:56	ActionGesture	BrowRaise
+2024-05-28 15:54:57	ActionGesture	BrowRaise
+2024-05-28 15:55:02	MonitorSpeechStart	<prosody rate="1.0">okej. De gula lamporna är parallell kopplade i C2, så deras ekvivalenta resi stanns är lägre</prosody>	7417
+2024-05-28 15:55:05	ActionGesture	BrowRaise
+2024-05-28 15:55:05	ActionGesture	BrowRaise
+2024-05-28 15:55:06	ActionGesture	BrowRaise
+2024-05-28 15:55:09	ActionGesture	BrowRaise
+2024-05-28 15:55:10	ActionGesture	BrowRaise
+2024-05-28 15:55:13	ActionGesture	Smile
+2024-05-28 15:55:16	SenseSpeech	men det är ju högre	2353
+2024-05-28 15:55:17	MonitorSpeechStart	<prosody rate="1.0">Det finns ett problem med det</prosody>	1387
+2024-05-28 15:55:18	ActionGesture	BrowRaise
+2024-05-28 15:55:19	MonitorSpeechStart	<prosody rate="1.0">Spänningen är densamma eftersom det är samma batteri, så om resi stannsen minskar så ökar strömmen</prosody>	6762
+2024-05-28 15:55:20	ActionGesture	BrowRaise
+2024-05-28 15:55:21	ActionGesture	BrowRaise
+2024-05-28 15:55:21	ActionGesture	BrowRaise
+2024-05-28 15:55:24	ActionGesture	BrowRaise
+2024-05-28 15:55:26	ActionGesture	BrowRaise
+2024-05-28 15:55:31	MonitorSpeechStart	<prosody rate="1.0">Okej, låt mig förklara så här. Effekten beror på resi stannsen, men på strömmen i kvadrat, så om strömmen ökar ökar effekten även om resi stannsen minskar.</prosody>	11517
+2024-05-28 15:55:32	ActionGesture	BrowRaise
+2024-05-28 15:55:33	ActionGesture	BrowRaise
+2024-05-28 15:55:35	ActionGesture	BrowRaise
+2024-05-28 15:55:37	ActionGesture	BrowRaise
+2024-05-28 15:55:40	ActionGesture	BrowRaise
+2024-05-28 15:55:42	ActionGesture	BrowRaise
+2024-05-28 15:55:44	ActionGesture	Smile
+2024-05-28 15:55:46	SenseSpeech	Ja det är lätt	1423
+2024-05-28 15:55:46	SenseNLUIntent	Ja det är lätt	Yes
+2024-05-28 15:55:46	FlowEvent	NEW_FLOW_STATE	QuestionCheckpoint	8		CONDITION1	QuestionCheckpoint
+2024-05-28 15:55:46	MonitorSpeechStart	<prosody rate="1.0">Det är bra!</prosody>	700
+2024-05-28 15:55:47	ActionGesture	BrowRaise
+2024-05-28 15:55:48	MonitorSpeechStart	<prosody rate="1.0">Så, håller du med om att det är TRUE?</prosody>	2162
+2024-05-28 15:55:49	ActionGesture	BrowRaise
+2024-05-28 15:55:50	ActionGesture	BrowRaise
+2024-05-28 15:55:51	GUIEvent	ANSWER_MARKED	ANSWER[TRUE] [8] [5] SENT .. [ACCEPTED]	8	5	CONDITION1	QuestionCheckpoint
+2024-05-28 15:55:55	MonitorSpeechStart	<prosody rate="1.0">Jag behöver få veta</prosody>	1237
+2024-05-28 15:55:56	ActionGesture	BrowRaise
+2024-05-28 15:55:56	MonitorSpeechStart	<prosody rate="1.0">Så</prosody>	512
+2024-05-28 15:55:58	MonitorSpeechStart	<prosody rate="1.0">är vi överens om att det är TRUE?</prosody>	1837
+2024-05-28 15:55:59	ActionGesture	BrowRaise
+2024-05-28 15:56:00	ActionGesture	Smile
+2024-05-28 15:56:01	SenseSpeech	bra	942
+2024-05-28 15:56:02	MonitorSpeechStart	<prosody rate="1.0">Umh, Ska vi välja TRUE då?</prosody>	1625
+2024-05-28 15:56:03	ActionGesture	BrowRaise
+2024-05-28 15:56:06	ActionGesture	Smile
+2024-05-28 15:56:31	ActionGesture	Smile
+2024-05-28 15:56:32	SenseSpeech	Hallå	950
+2024-05-28 15:56:32	MonitorSpeechStart	<prosody rate="1.0">Okej, jag tänker så här</prosody>	1562
+2024-05-28 15:56:33	ActionGesture	BrowRaise
+2024-05-28 15:56:34	MonitorSpeechStart	<prosody rate="1.0">Så</prosody>	512
+2024-05-28 15:56:36	MonitorSpeechStart	<prosody rate="1.0">är vi överens om att det är TRUE?</prosody>	1837
+2024-05-28 15:56:37	ActionGesture	BrowRaise
+2024-05-28 15:56:38	ActionGesture	Smile
+2024-05-28 15:56:59	ActionGesture	Smile
+2024-05-28 15:57:02	SenseSpeech	Ja vi kan väl gå vidare då	2165
+2024-05-28 15:57:02	SenseNLUIntent	Ja vi kan väl gå vidare då	Yes
+2024-05-28 15:57:02	FlowEvent	NEW_FLOW_STATE	QuestionReview	8		CONDITION1	QuestionReview
+2024-05-28 15:57:02	FlowEvent	NEW_FLOW_STATE	QuestionConfirmation	8		CONDITION1	QuestionConfirmation
+2024-05-28 15:57:02	MonitorSpeechStart	<prosody rate="1.0">Bra. Det är dags att svara och befräfta.</prosody>	2842
+2024-05-28 15:57:03	ActionGesture	BrowRaise
+2024-05-28 15:57:05	ActionGesture	BrowRaise
+2024-05-28 15:57:07	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.3] [5] REQUESTED .. [ACCEPTED]	8	5	CONDITION1	QuestionConfirmation
+2024-05-28 15:57:07	SessionEvent	ANSWER_CONFIRMED	QUESTION CONFIRMED IN GUI.	0.3		CONDITION1	QuestionConfirmation
+2024-05-28 15:57:07	SessionEvent	SESSION_END	NO MORE QUESTIONS.	0.3		CONDITION1	QuestionConfirmation
+2024-05-28 15:57:07	FlowEvent	NEW_FLOW_STATE	Farewell	0.3		CONDITION1	Farewell
+2024-05-28 15:57:07	ActionGesture	Smile
+2024-05-28 15:57:08	MonitorSpeechStart	<prosody rate="1.0">Det var den sista frågan. Det var intressant att samarbeta med dig. Hoppas att du också tyckte det.</prosody>	6535
+2024-05-28 15:57:08	ActionGesture	BrowRaise
+2024-05-28 15:57:12	ActionGesture	BrowRaise
+2024-05-28 15:57:14	ActionGesture	BrowRaise
+2024-05-28 15:57:14	ActionGesture	BrowRaise
+2024-05-28 15:57:16	ActionGesture	Smile
+2024-05-28 15:57:22	SenseSpeech	Ja jag tyckte det var lite långsam och snö och så frågar du samma sak matchen igång	5636
+2024-05-28 15:57:22	SenseNLUIntent	Ja jag tyckte det var lite långsam och snö och så frågar du samma sak matchen igång	Yes
+2024-05-28 15:57:23	MonitorSpeechStart	<prosody rate="1.0">Jag tycker att det gick bra för oss ihop. Tack. Ha en fortsatt bra dag!</prosody>	5035
+2024-05-28 15:57:24	ActionGesture	BrowRaise
+2024-05-28 15:57:28	ActionGesture	BrowRaise
+2024-05-28 15:57:29	ActionGesture	Smile
+2024-05-28 15:57:30	SenseSpeech	Tack detsamma	1331
+2024-05-28 15:57:30	FlowEvent	NEW_FLOW_STATE	Sleep	0.3		CONDITION1	Sleep
+2024-05-28 15:57:30	ActionGesture	CloseEyes
+2024-05-28 15:59:31	MonitorSpeechStart	<prosody rate="1.0">No start signal received, terminating the program.</prosody>	3512
+2024-05-28 15:59:32	ActionGesture	BrowRaise
+2024-05-28 15:59:34	ActionGesture	BrowRaise

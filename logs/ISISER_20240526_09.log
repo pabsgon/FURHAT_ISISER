@@ -1,0 +1,44 @@
+2024-05-26 09:55:10	Autoreload is disabled because the development mode is off.
+2024-05-26 09:55:10	Application started in 0.818 seconds.
+2024-05-26 09:55:11	Responding at http://127.0.0.1:8888
+2024-05-26 09:55:14	----------------- NEW EXECUTION-------------------
+2024-05-26 09:55:14	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-26 09:55:14	ActionGesture	CloseEyes
+2024-05-26 09:55:14	ActionGesture	CloseEyes
+2024-05-26 09:55:19	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-26 09:55:21	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [4] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-26 09:55:21	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	4	UNDEFINED	Sleep
+2024-05-26 09:55:21	FlowEvent	NEW_FLOW_STATE	Welcome	0.2		CONDITION1	Welcome
+2024-05-26 09:55:21	ActionGesture	OpenEyes
+2024-05-26 09:55:29	ActionGesture	Smile
+2024-05-26 09:55:30	MonitorSpeechStart	<prosody rate="1.0">Hello there</prosody>	543
+2024-05-26 09:55:30	ActionGesture	BrowRaise
+2024-05-26 09:55:32	MonitorSpeechStart	<prosody rate="1.0">Nice to meet you</prosody>	824
+2024-05-26 09:55:32	ActionGesture	BrowRaise
+2024-05-26 09:55:33	MonitorSpeechStart	<prosody rate="1.0">How you doing?</prosody>	741
+2024-05-26 09:55:34	ActionGesture	BrowRaise
+2024-05-26 09:55:42	FlowEvent	NEW_FLOW_STATE	ReviewInstructions	0.2		CONDITION1	ReviewInstructions
+2024-05-26 09:55:43	MonitorSpeechStart	<prosody rate="1.0">Right, as far as I know,we will get some Electronics questions to resolve together. Somebody told you?</prosody>	6104
+2024-05-26 09:55:43	ActionGesture	BrowRaise
+2024-05-26 09:55:44	ActionGesture	BrowRaise
+2024-05-26 09:55:47	ActionGesture	BrowRaise
+2024-05-26 09:55:48	ActionGesture	BrowRaise
+2024-05-26 09:55:57	MonitorSpeechStart	<prosody rate="1.0">Sorry</prosody>	510
+2024-05-26 09:55:57	ActionGesture	BrowRaise
+2024-05-26 09:55:59	MonitorSpeechStart	<prosody rate="1.0">I could not hear you</prosody>	897
+2024-05-26 09:55:59	ActionGesture	BrowRaise
+2024-05-26 09:56:00	MonitorSpeechStart	<prosody rate="1.0">You know something about our meeting?</prosody>	1349
+2024-05-26 09:56:01	ActionGesture	BrowRaise
+2024-05-26 09:56:04	ActionGesture	Smile
+2024-05-26 09:56:05	SenseSpeech	no	1185
+2024-05-26 09:56:05	MonitorSpeechStart	<prosody rate="1.0">Oh</prosody>	459
+2024-05-26 09:56:07	MonitorSpeechStart	<prosody rate="1.0">well</prosody>	454
+2024-05-26 09:56:07	ActionGesture	BrowRaise
+2024-05-26 09:56:08	MonitorSpeechStart	<prosody rate="1.0">Basically a question will come up on the tablet, I receive it, we think, we answer separately and then we discuss</prosody>	5938
+2024-05-26 09:56:08	ActionGesture	BrowRaise
+2024-05-26 09:56:10	ActionGesture	BrowRaise
+2024-05-26 09:56:14	ActionGesture	BrowRaise
+2024-05-26 09:56:16	MonitorSpeechStart	<prosody rate="1.0">Do you want me to explain or are you ready?</prosody>	1666
+2024-05-26 09:56:17	ActionGesture	BrowRaise
+2024-05-26 09:56:17	ActionGesture	BrowRaise
+2024-05-26 09:56:26	MonitorSpeechStart	<prosody rate="1.0">I mean</prosody>	609

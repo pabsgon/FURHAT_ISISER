@@ -1,0 +1,261 @@
+2024-05-14 16:00:00	ActionGesture	BrowRaise
+2024-05-14 16:00:04	ActionGesture	Smile
+2024-05-14 16:00:06	SenseSpeech	okay	1279
+2024-05-14 16:00:06	MonitorSpeechStart	You assented	663
+2024-05-14 16:00:07	ActionGesture	BrowRaise
+2024-05-14 16:00:10	ActionGesture	Smile
+2024-05-14 16:00:11	SenseSpeech	I disagree	1095
+2024-05-14 16:00:12	MonitorSpeechStart	You disagreed	875
+2024-05-14 16:00:12	ActionGesture	BrowRaise
+2024-05-14 16:00:15	ActionGesture	Smile
+2024-05-14 16:00:17	SenseSpeech	I don't concur	1669
+2024-05-14 16:00:17	MonitorSpeechStart	You disagreed	875
+2024-05-14 16:00:18	ActionGesture	BrowRaise
+2024-05-14 16:00:21	ActionGesture	Smile
+2024-05-14 16:00:22	SenseSpeech	can you elaborate	1299
+2024-05-14 16:00:23	MonitorSpeechStart	You want me to elaborate	1182
+2024-05-14 16:00:24	ActionGesture	BrowRaise
+2024-05-14 16:00:27	ActionGesture	Smile
+2024-05-14 16:00:33	SenseSpeech	um the batteries are in connection	5131
+2024-05-14 16:00:33	MonitorSpeechStart	You said something I couldn't understand	1827
+2024-05-14 16:00:35	ActionGesture	BrowRaise
+2024-05-14 16:00:38	ActionGesture	Smile
+2024-05-14 16:00:39	SenseSpeech	okay	1223
+2024-05-14 16:00:39	MonitorSpeechStart	You assented	663
+2024-05-14 16:00:40	ActionGesture	BrowRaise
+2024-05-14 16:00:46	MonitorSpeechStart	I'm listening.	676
+2024-05-14 16:00:48	ActionGesture	Smile
+2024-05-14 16:00:49	SenseSpeech	yes I know	1439
+2024-05-14 16:00:50	MonitorSpeechStart	You assented	663
+2024-05-14 16:00:50	ActionGesture	BrowRaise
+2024-05-14 16:00:54	ActionGesture	Smile
+2024-05-14 16:00:56	SenseSpeech	I'm not sure	1952
+2024-05-14 16:00:56	MonitorSpeechStart	That was non-committal	966
+2024-05-14 16:00:57	ActionGesture	BrowRaise
+2024-05-14 16:01:00	ActionGesture	Smile
+2024-05-14 16:01:01	SenseSpeech	can you repeat	1191
+2024-05-14 16:01:02	MonitorSpeechStart	You want me to repeat	1133
+2024-05-14 16:01:02	ActionGesture	BrowRaise
+2024-05-14 16:01:06	ActionGesture	Smile
+2024-05-14 16:01:07	SenseSpeech	what do you mean	1036
+2024-05-14 16:01:07	MonitorSpeechStart	You want me to elaborate	1182
+2024-05-14 16:01:08	ActionGesture	BrowRaise
+2024-05-14 16:01:12	ActionGesture	Smile
+2024-05-14 16:01:13	SenseSpeech	no	877
+2024-05-14 16:01:14	MonitorSpeechStart	You denied	734
+2024-05-14 16:01:14	ActionGesture	BrowRaise
+2024-05-14 16:01:16	ActionGesture	Smile
+2024-05-14 16:01:17	SenseSpeech	I think it's false	1417
+2024-05-14 16:01:18	MonitorSpeechStart	You said it is false	1122
+2024-05-14 16:01:19	ActionGesture	BrowRaise
+2024-05-14 16:01:21	ActionGesture	Smile
+2024-05-14 16:01:22	SenseSpeech	it's false	1144
+2024-05-14 16:01:22	MonitorSpeechStart	You said it is false	1122
+2024-05-14 16:01:23	ActionGesture	BrowRaise
+2024-05-14 16:01:25	ActionGesture	Smile
+2024-05-14 16:01:26	SenseSpeech	it's true	1127
+2024-05-14 16:01:27	MonitorSpeechStart	You said it is true	992
+2024-05-14 16:01:27	ActionGesture	BrowRaise
+2024-05-14 16:01:29	ActionGesture	Smile
+2024-05-14 16:01:30	SenseSpeech	it is not true	1283
+2024-05-14 16:01:30	MonitorSpeechStart	You said it is false	1122
+2024-05-14 16:01:31	ActionGesture	BrowRaise
+2024-05-14 16:01:37	MonitorSpeechStart	I'm listening.	676
+2024-05-14 16:01:40	ActionGesture	Smile
+2024-05-14 16:01:41	SenseSpeech	I'm done	1113
+2024-05-14 16:19:08	Autoreload is disabled because the development mode is off.
+2024-05-14 16:19:08	Application started in 0.491 seconds.
+2024-05-14 16:19:08	Responding at http://127.0.0.1:8888
+2024-05-14 16:19:10	----------------- NEW EXECUTION-------------------
+2024-05-14 16:19:10	SystemEvent	FLOW_START	FLOW STARTED	0.0		UNDEFINED	UNDEFINED
+2024-05-14 16:19:10	FlowEvent	NEW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-14 16:19:10	MonitorSpeechStart	Ok, let's test. Say whatever you want.	2873
+2024-05-14 16:19:11	ActionGesture	BrowRaise
+2024-05-14 16:19:13	ActionGesture	BrowRaise
+2024-05-14 16:19:15	ActionGesture	Smile
+2024-05-14 16:19:16	SenseSpeech	Arabic	991
+2024-05-14 16:19:17	MonitorSpeechStart	You said something I couldn't understand in 0 milliseconds.	2946
+2024-05-14 16:19:19	ActionGesture	BrowRaise
+2024-05-14 16:19:20	ActionGesture	BrowRaise
+2024-05-14 16:19:26	MonitorSpeechStart	I'm listening.	676
+2024-05-14 16:24:13	Autoreload is disabled because the development mode is off.
+2024-05-14 16:24:13	Application started in 0.512 seconds.
+2024-05-14 16:24:13	Responding at http://127.0.0.1:8888
+2024-05-14 16:24:15	----------------- NEW EXECUTION-------------------
+2024-05-14 16:24:15	SystemEvent	FLOW_START	FLOW STARTED	0.0		UNDEFINED	UNDEFINED
+2024-05-14 16:24:15	FlowEvent	NEW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-14 16:24:15	MonitorSpeechStart	Ok, let's test. Say whatever you want.	2873
+2024-05-14 16:24:16	ActionGesture	BrowRaise
+2024-05-14 16:24:18	ActionGesture	BrowRaise
+2024-05-14 16:24:21	ActionGesture	Smile
+2024-05-14 16:24:22	SenseSpeech	whatever you want	1167
+2024-05-14 16:24:22	MonitorSpeechStart	You said something I couldn't understand in 0 milliseconds.	2946
+2024-05-14 16:24:23	ActionGesture	BrowRaise
+2024-05-14 16:24:25	ActionGesture	BrowRaise
+2024-05-14 16:24:30	MonitorSpeechStart	I'm listening.	676
+2024-05-14 16:28:53	Autoreload is disabled because the development mode is off.
+2024-05-14 16:28:54	Application started in 0.502 seconds.
+2024-05-14 16:28:54	Responding at http://127.0.0.1:8888
+2024-05-14 16:28:56	----------------- NEW EXECUTION-------------------
+2024-05-14 16:28:56	SystemEvent	FLOW_START	FLOW STARTED	0.0		UNDEFINED	UNDEFINED
+2024-05-14 16:28:56	FlowEvent	NEW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-14 16:28:56	MonitorSpeechStart	Ok, let's test. Say whatever you want.	2873
+2024-05-14 16:28:56	ActionGesture	BrowRaise
+2024-05-14 16:28:59	ActionGesture	BrowRaise
+2024-05-14 16:29:01	ActionGesture	Smile
+2024-05-14 16:29:02	SenseSpeech	all right great	1034
+2024-05-14 16:29:02	MonitorSpeechStart	You assented	663
+2024-05-14 16:29:02	ActionGesture	BrowRaise
+2024-05-14 16:29:06	ActionGesture	Smile
+2024-05-14 16:29:07	SenseSpeech	what	1071
+2024-05-14 16:29:07	MonitorSpeechStart	You said something I couldn't understand in 0 milliseconds.	2946
+2024-05-14 16:29:09	ActionGesture	BrowRaise
+2024-05-14 16:29:10	ActionGesture	BrowRaise
+2024-05-14 16:29:26	Autoreload is disabled because the development mode is off.
+2024-05-14 16:29:27	Application started in 0.559 seconds.
+2024-05-14 16:29:27	Responding at http://127.0.0.1:8888
+2024-05-14 16:29:29	----------------- NEW EXECUTION-------------------
+2024-05-14 16:29:29	SystemEvent	FLOW_START	FLOW STARTED	0.0		UNDEFINED	UNDEFINED
+2024-05-14 16:29:29	FlowEvent	NEW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-14 16:29:29	MonitorSpeechStart	Ok, let's test. Say whatever you want.	2873
+2024-05-14 16:29:29	ActionGesture	BrowRaise
+2024-05-14 16:29:32	ActionGesture	BrowRaise
+2024-05-14 16:29:35	ActionGesture	Smile
+2024-05-14 16:30:08	ActionGesture	Smile
+2024-05-14 16:30:10	SenseSpeech	hello	1215
+2024-05-14 16:30:10	MonitorSpeechStart	Hello to you too.	835
+2024-05-14 16:30:10	ActionGesture	BrowRaise
+2024-05-14 16:30:16	MonitorSpeechStart	I'm listening.	676
+2024-05-14 16:30:21	ActionGesture	Smile
+2024-05-14 16:30:23	SenseSpeech	astric	1487
+2024-05-14 16:33:33	Autoreload is disabled because the development mode is off.
+2024-05-14 16:33:34	Application started in 0.531 seconds.
+2024-05-14 16:33:34	Responding at http://127.0.0.1:8888
+2024-05-14 16:33:35	----------------- NEW EXECUTION-------------------
+2024-05-14 16:33:35	SystemEvent	FLOW_START	FLOW STARTED	0.0		UNDEFINED	UNDEFINED
+2024-05-14 16:33:35	FlowEvent	NEW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-14 16:33:35	MonitorSpeechStart	Ok, let's test. Say whatever you want.	2873
+2024-05-14 16:33:36	ActionGesture	BrowRaise
+2024-05-14 16:33:38	ActionGesture	BrowRaise
+2024-05-14 16:33:42	ActionGesture	Smile
+2024-05-14 16:33:43	SenseSpeech	can you elaborate	1296
+2024-05-14 16:33:44	MonitorSpeechStart	You want me to elaborate. You said can you elaborate	2879
+2024-05-14 16:33:47	ActionGesture	BrowRaise
+2024-05-14 16:33:47	ActionGesture	BrowRaise
+2024-05-14 16:33:51	ActionGesture	Smile
+2024-05-14 16:34:06	ActionGesture	Smile
+2024-05-14 16:34:07	SenseSpeech	hello	1191
+2024-05-14 16:34:07	MonitorSpeechStart	Hello to you too.	835
+2024-05-14 16:34:07	ActionGesture	BrowRaise
+2024-05-14 16:34:13	MonitorSpeechStart	I'm listening.	676
+2024-05-14 16:34:16	ActionGesture	Smile
+2024-05-14 16:34:24	ActionGesture	Smile
+2024-05-14 16:34:25	SenseSpeech	hello	908
+2024-05-14 16:34:25	MonitorSpeechStart	Hello to you too.	835
+2024-05-14 16:34:25	ActionGesture	BrowRaise
+2024-05-14 16:34:31	MonitorSpeechStart	I'm listening.	676
+2024-05-14 16:34:34	ActionGesture	Smile
+2024-05-14 16:34:35	SenseSpeech	incredible	1046
+2024-05-14 16:34:36	MonitorSpeechStart	You said something like incredible.	1555
+2024-05-14 16:34:36	ActionGesture	BrowRaise
+2024-05-14 16:34:37	ActionGesture	BrowRaise
+2024-05-14 16:34:42	MonitorSpeechStart	I'm listening.	676
+2024-05-14 16:34:48	MonitorSpeechStart	I'm listening.	676
+2024-05-14 16:34:51	ActionGesture	Smile
+2024-05-14 16:34:52	SenseSpeech	fantastic	989
+2024-05-14 16:34:52	MonitorSpeechStart	You said something like fantastic.	1701
+2024-05-14 16:34:54	ActionGesture	BrowRaise
+2024-05-14 16:35:00	MonitorSpeechStart	I'm listening.	676
+2024-05-14 16:35:02	ActionGesture	Smile
+2024-05-14 16:35:03	SenseSpeech	great	910
+2024-05-14 16:35:03	MonitorSpeechStart	You said something like great.	1379
+2024-05-14 16:35:04	ActionGesture	BrowRaise
+2024-05-14 16:35:10	MonitorSpeechStart	I'm listening.	676
+2024-05-14 16:35:16	MonitorSpeechStart	I'm listening.	676
+2024-05-14 16:35:18	ActionGesture	Smile
+2024-05-14 16:35:19	SenseSpeech	it's typically	1409
+2024-05-14 16:35:20	MonitorSpeechStart	You said something like it's typically.	1672
+2024-05-14 16:35:21	ActionGesture	BrowRaise
+2024-05-14 16:35:27	MonitorSpeechStart	I'm listening.	676
+2024-05-14 16:35:31	ActionGesture	Smile
+2024-05-14 16:38:13	Autoreload is disabled because the development mode is off.
+2024-05-14 16:38:14	Application started in 0.574 seconds.
+2024-05-14 16:38:14	Responding at http://127.0.0.1:8888
+2024-05-14 16:38:16	----------------- NEW EXECUTION-------------------
+2024-05-14 16:38:16	SystemEvent	FLOW_START	FLOW STARTED	0.0		UNDEFINED	UNDEFINED
+2024-05-14 16:38:16	FlowEvent	NEW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-14 16:38:16	MonitorSpeechStart	Ok, let's test. Say whatever you want.	2873
+2024-05-14 16:38:16	ActionGesture	BrowRaise
+2024-05-14 16:38:19	ActionGesture	BrowRaise
+2024-05-14 16:38:22	ActionGesture	Smile
+2024-05-14 16:38:38	ActionGesture	Smile
+2024-05-14 16:38:39	SenseSpeech	hello	1027
+2024-05-14 16:38:39	MonitorSpeechStart	Hello to you too.	835
+2024-05-14 16:38:39	ActionGesture	BrowRaise
+2024-05-14 16:38:43	ActionGesture	Smile
+2024-05-14 16:38:44	SenseSpeech	distributor	1208
+2024-05-14 16:42:32	Autoreload is disabled because the development mode is off.
+2024-05-14 16:42:33	Application started in 0.495 seconds.
+2024-05-14 16:42:33	Responding at http://127.0.0.1:8888
+2024-05-14 16:42:34	----------------- NEW EXECUTION-------------------
+2024-05-14 16:42:34	SystemEvent	FLOW_START	FLOW STARTED	0.0		UNDEFINED	UNDEFINED
+2024-05-14 16:42:34	FlowEvent	NEW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-14 16:42:35	MonitorSpeechStart	Ok, let's test. Say whatever you want.	2873
+2024-05-14 16:42:35	ActionGesture	BrowRaise
+2024-05-14 16:42:37	ActionGesture	BrowRaise
+2024-05-14 16:42:44	MonitorSpeechStart	You said inaudible in about null milliseconds.	2157
+2024-05-14 16:42:44	ActionGesture	BrowRaise
+2024-05-14 16:42:46	ActionGesture	BrowRaise
+2024-05-14 16:42:51	MonitorSpeechStart	You said inaudible in about null milliseconds.	2157
+2024-05-14 16:42:52	ActionGesture	BrowRaise
+2024-05-14 16:42:53	ActionGesture	BrowRaise
+2024-05-14 16:42:59	MonitorSpeechStart	You said inaudible in about null milliseconds.	2157
+2024-05-14 16:42:59	ActionGesture	BrowRaise
+2024-05-14 16:43:01	ActionGesture	BrowRaise
+2024-05-14 16:43:03	ActionGesture	Smile
+2024-05-14 16:43:04	SenseSpeech	hm	1024
+2024-05-14 16:43:05	MonitorSpeechStart	You said something in about 1024 milliseconds.	3139
+2024-05-14 16:43:06	ActionGesture	BrowRaise
+2024-05-14 16:43:06	ActionGesture	BrowRaise
+2024-05-14 16:43:08	ActionGesture	BrowRaise
+2024-05-14 16:43:12	ActionGesture	Smile
+2024-05-14 16:43:18	SenseSpeech	um	5318
+2024-05-14 16:43:18	MonitorSpeechStart	You said something in about 5318 milliseconds.	3636
+2024-05-14 16:43:20	ActionGesture	BrowRaise
+2024-05-14 16:43:20	ActionGesture	BrowRaise
+2024-05-14 16:43:22	ActionGesture	BrowRaise
+2024-05-14 16:43:27	MonitorSpeechStart	You said inaudible in about null milliseconds.	2157
+2024-05-14 16:43:28	ActionGesture	BrowRaise
+2024-05-14 16:43:29	ActionGesture	BrowRaise
+2024-05-14 16:43:31	ActionGesture	Smile
+2024-05-14 16:43:35	SenseSpeech	so just	4158
+2024-05-14 16:43:36	MonitorSpeechStart	You want me to elaborate. You said so just	2646
+2024-05-14 16:43:38	ActionGesture	BrowRaise
+2024-05-14 16:43:39	ActionGesture	Smile
+2024-05-14 16:43:43	SenseSpeech	there a night like just up the top of my head I have like	3307
+2024-05-14 16:43:43	MonitorSpeechStart	You assented	663
+2024-05-14 16:43:43	ActionGesture	BrowRaise
+2024-05-14 16:43:47	ActionGesture	Smile
+2024-05-14 16:43:50	SenseSpeech	all right	2689
+2024-05-14 16:43:50	MonitorSpeechStart	You assented	663
+2024-05-14 16:43:50	ActionGesture	BrowRaise
+2024-05-14 16:43:52	ActionGesture	Smile
+2024-05-14 16:43:56	SenseSpeech	no testing you you were catching you	3385
+2024-05-14 16:43:56	MonitorSpeechStart	You denied	734
+2024-05-14 16:43:56	ActionGesture	BrowRaise
+2024-05-14 16:43:58	ActionGesture	Smile
+2024-05-14 16:44:00	SenseSpeech	you all right I think you	1836
+2024-05-14 16:44:01	MonitorSpeechStart	You assented	663
+2024-05-14 16:44:01	ActionGesture	BrowRaise
+2024-05-14 16:44:02	ActionGesture	Smile
+2024-05-14 16:44:04	SenseSpeech	oh shut up	1296
+2024-05-14 16:44:04	MonitorSpeechStart	You said something in about 1296 milliseconds.	3706
+2024-05-14 16:44:05	ActionGesture	BrowRaise
+2024-05-14 16:44:06	ActionGesture	BrowRaise
+2024-05-14 16:44:08	ActionGesture	BrowRaise
+2024-05-14 16:44:13	MonitorSpeechStart	You said inaudible in about null milliseconds.	2157
+2024-05-14 16:44:14	ActionGesture	BrowRaise
+2024-05-14 16:44:15	ActionGesture	BrowRaise
+2024-05-14 16:44:21	MonitorSpeechStart	You said inaudible in about null milliseconds.	2157
+2024-05-14 16:44:21	ActionGesture	BrowRaise
+2024-05-14 16:44:23	ActionGesture	BrowRaise

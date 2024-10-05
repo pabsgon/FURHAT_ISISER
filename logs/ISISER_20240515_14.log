@@ -1,0 +1,108 @@
+2024-05-15 14:00:27	FlowEvent	FLOW_START	SYS_START. INIT STATE	0.0		UNDEFINED	Init
+2024-05-15 14:00:27	----------------- NEW EXECUTION-------------------
+2024-05-15 14:02:39	Autoreload is disabled because the development mode is off.
+2024-05-15 14:02:39	Application started in 0.596 seconds.
+2024-05-15 14:02:40	Responding at http://127.0.0.1:8888
+2024-05-15 14:03:06	----------------- NEW EXECUTION-------------------
+2024-05-15 14:03:06	FlowEvent	FLOW_START	SYS_START. INIT STATE	0.0		UNDEFINED	Init
+2024-05-15 14:07:46	Autoreload is disabled because the development mode is off.
+2024-05-15 14:07:47	Application started in 0.518 seconds.
+2024-05-15 14:07:47	Responding at http://127.0.0.1:8888
+2024-05-15 14:07:49	----------------- NEW EXECUTION-------------------
+2024-05-15 14:07:49	FlowEvent	FLOW_START	SYS_START. INIT STATE	0.0		UNDEFINED	Init
+2024-05-15 14:08:41	Autoreload is disabled because the development mode is off.
+2024-05-15 14:08:42	Application started in 0.597 seconds.
+2024-05-15 14:08:42	Responding at http://127.0.0.1:8888
+2024-05-15 14:11:29	----------------- NEW EXECUTION-------------------
+2024-05-15 14:15:24	Autoreload is disabled because the development mode is off.
+2024-05-15 14:15:25	Application started in 0.498 seconds.
+2024-05-15 14:15:25	Responding at http://127.0.0.1:8888
+2024-05-15 14:15:28	----------------- NEW EXECUTION-------------------
+2024-05-15 14:15:28	MonitorSpeechStart	Ok, let's test. Say whatever you want.	2873
+2024-05-15 14:15:28	ActionGesture	BrowRaise
+2024-05-15 14:15:31	ActionGesture	BrowRaise
+2024-05-15 14:17:17	Autoreload is disabled because the development mode is off.
+2024-05-15 14:17:18	Application started in 0.553 seconds.
+2024-05-15 14:17:18	Responding at http://127.0.0.1:8888
+2024-05-15 14:17:20	----------------- NEW EXECUTION-------------------
+2024-05-15 14:17:43	Autoreload is disabled because the development mode is off.
+2024-05-15 14:17:44	Application started in 0.498 seconds.
+2024-05-15 14:17:44	Responding at http://127.0.0.1:8888
+2024-05-15 14:17:45	----------------- NEW EXECUTION-------------------
+2024-05-15 14:17:58	Autoreload is disabled because the development mode is off.
+2024-05-15 14:17:58	Application started in 0.617 seconds.
+2024-05-15 14:17:59	Responding at http://127.0.0.1:8888
+2024-05-15 14:18:00	----------------- NEW EXECUTION-------------------
+2024-05-15 14:20:39	Autoreload is disabled because the development mode is off.
+2024-05-15 14:20:40	Application started in 0.504 seconds.
+2024-05-15 14:20:40	Responding at http://127.0.0.1:8888
+2024-05-15 14:20:41	----------------- NEW EXECUTION-------------------
+2024-05-15 14:20:41	FlowEvent	FLOW_START	SYS_START. INIT STATE	0.0		UNDEFINED	Init
+2024-05-15 14:23:27	Autoreload is disabled because the development mode is off.
+2024-05-15 14:23:28	Application started in 0.509 seconds.
+2024-05-15 14:23:28	Responding at http://127.0.0.1:8888
+2024-05-15 14:23:29	----------------- NEW EXECUTION-------------------
+2024-05-15 14:23:29	FlowEvent	FLOW_START	SYS_START. INIT STATE	0.0		UNDEFINED	Init
+2024-05-15 14:26:00	Autoreload is disabled because the development mode is off.
+2024-05-15 14:26:00	Application started in 0.521 seconds.
+2024-05-15 14:26:00	Responding at http://127.0.0.1:8888
+2024-05-15 14:26:02	----------------- NEW EXECUTION-------------------
+2024-05-15 14:26:02	ActionGesture	CloseEyes
+2024-05-15 14:26:11	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 14:26:12	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 14:26:14	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [4] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 14:27:38	Autoreload is disabled because the development mode is off.
+2024-05-15 14:27:38	Application started in 0.602 seconds.
+2024-05-15 14:27:38	Responding at http://127.0.0.1:8888
+2024-05-15 14:27:40	----------------- NEW EXECUTION-------------------
+2024-05-15 14:27:40	ActionGesture	CloseEyes
+2024-05-15 14:27:44	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 14:27:44	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 14:29:23	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [2] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 14:35:51	Autoreload is disabled because the development mode is off.
+2024-05-15 14:35:51	Application started in 0.513 seconds.
+2024-05-15 14:35:51	Responding at http://127.0.0.1:8888
+2024-05-15 14:35:53	----------------- NEW EXECUTION-------------------
+2024-05-15 14:35:53	ActionGesture	CloseEyes
+2024-05-15 14:35:56	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 14:35:56	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 14:35:58	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [4] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 14:35:58	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	4	UNDEFINED	Init
+2024-05-15 14:35:58	ActionGesture	OpenEyes
+2024-05-15 14:35:58	ActionGesture	Smile
+2024-05-15 14:35:59	MonitorSpeechStart	Oh, hello there	1105
+2024-05-15 14:35:59	ActionGesture	BrowRaise
+2024-05-15 14:36:01	ActionGesture	BigSmile
+2024-05-15 14:36:01	MonitorSpeechStart	Nice to meet you.	824
+2024-05-15 14:36:01	ActionGesture	BrowRaise
+2024-05-15 14:36:03	MonitorSpeechStart	How you doing?	741
+2024-05-15 14:36:03	ActionGesture	BrowRaise
+2024-05-15 14:36:06	GUIEvent	NEW_STAGE_REQUESTED	STAGE[1] [4] REQUESTED .. [ACCEPTED]	0.2	4	CONDITION1	Init
+2024-05-15 14:41:34	Autoreload is disabled because the development mode is off.
+2024-05-15 14:41:35	Application started in 0.506 seconds.
+2024-05-15 14:41:35	Responding at http://127.0.0.1:8888
+2024-05-15 14:41:37	----------------- NEW EXECUTION-------------------
+2024-05-15 14:41:37	ActionGesture	CloseEyes
+2024-05-15 14:41:39	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 14:41:39	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 14:41:41	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [4] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 14:46:04	Autoreload is disabled because the development mode is off.
+2024-05-15 14:46:04	Application started in 0.516 seconds.
+2024-05-15 14:46:05	Responding at http://127.0.0.1:8888
+2024-05-15 14:46:06	----------------- NEW EXECUTION-------------------
+2024-05-15 14:46:06	ActionGesture	CloseEyes
+2024-05-15 14:46:10	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 14:46:10	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 14:46:11	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [12] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 14:46:11	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	12	UNDEFINED	Init
+2024-05-15 14:46:11	ActionGesture	OpenEyes
+2024-05-15 14:46:11	ActionGesture	Smile
+2024-05-15 14:46:11	MonitorSpeechStart	Hi there	477
+2024-05-15 14:46:12	ActionGesture	BrowRaise
+2024-05-15 14:46:13	ActionGesture	BigSmile
+2024-05-15 14:46:13	MonitorSpeechStart	Nice to meet you.	824
+2024-05-15 14:46:13	ActionGesture	BrowRaise
+2024-05-15 14:46:15	MonitorSpeechStart	How you doing?	741
+2024-05-15 14:46:15	ActionGesture	BrowRaise
+2024-05-15 14:46:17	GUIEvent	NEW_STAGE_REQUESTED	STAGE[1] [12] REQUESTED .. [ACCEPTED]	0.2	12	CONDITION1	Init
+2024-05-15 14:46:17	SessionEvent	ANSWER_CONFIRMED	QUESTION CONFIRMED IN GUI.	1		CONDITION1	Init

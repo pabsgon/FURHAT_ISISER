@@ -1,0 +1,67 @@
+2024-05-24 20:44:44	Autoreload is disabled because the development mode is off.
+2024-05-24 20:44:44	Application started in 0.611 seconds.
+2024-05-24 20:44:44	Responding at http://127.0.0.1:8888
+2024-05-24 20:44:47	----------------- NEW EXECUTION-------------------
+2024-05-24 20:44:47	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-24 20:44:47	ActionGesture	CloseEyes
+2024-05-24 20:44:47	ActionGesture	CloseEyes
+2024-05-24 20:46:51	Autoreload is disabled because the development mode is off.
+2024-05-24 20:46:52	Application started in 0.649 seconds.
+2024-05-24 20:46:52	Responding at http://127.0.0.1:8888
+2024-05-24 20:46:54	----------------- NEW EXECUTION-------------------
+2024-05-24 20:46:54	FlowEvent	NEW_FLOW_STATE	Testing	0.0		UNDEFINED	Testing
+2024-05-24 20:46:55	MonitorSpeechStart	Ok, let's test. Say whatever you want.	2873
+2024-05-24 20:46:55	ActionGesture	BrowRaise
+2024-05-24 20:46:58	ActionGesture	BrowRaise
+2024-05-24 20:47:01	ActionGesture	Smile
+2024-05-24 20:47:02	SenseSpeech	yes	966
+2024-05-24 20:47:02	ActionGesture	Shake
+2024-05-24 20:47:03	MonitorSpeechStart	You assented	663
+2024-05-24 20:47:04	ActionGesture	BrowRaise
+2024-05-24 20:47:12	MonitorSpeechStart	I'm listening.	676
+2024-05-24 20:47:16	ActionGesture	Smile
+2024-05-24 20:47:19	SenseSpeech	uh I I don't know	2784
+2024-05-24 20:47:35	MonitorSpeechStart	That was non-committal	966
+2024-05-24 20:47:36	ActionGesture	BrowRaise
+2024-05-24 20:47:41	ActionGesture	Smile
+2024-05-24 20:47:42	SenseSpeech	I think it's true	1380
+2024-05-24 20:47:42	ActionGesture	Nod
+2024-05-24 20:47:43	MonitorSpeechStart	You said it is true	992
+2024-05-24 20:47:43	ActionGesture	BrowRaise
+2024-05-24 20:47:48	ActionGesture	Smile
+2024-05-24 20:47:50	SenseSpeech	the answer is true	1554
+2024-05-24 20:47:50	ActionGesture	Nod
+2024-05-24 20:47:50	MonitorSpeechStart	You said it is true	992
+2024-05-24 20:47:50	ActionGesture	BrowRaise
+2024-05-24 20:48:00	MonitorSpeechStart	I'm listening.	676
+2024-05-24 20:48:02	ActionGesture	Smile
+2024-05-24 20:48:04	SenseSpeech	I think I think it's false	1899
+2024-05-24 20:48:04	ActionGesture	GazeAway
+2024-05-24 20:48:05	MonitorSpeechStart	You said it is false	1122
+2024-05-24 20:48:06	ActionGesture	BrowRaise
+2024-05-24 20:48:15	MonitorSpeechStart	I'm listening.	676
+2024-05-24 20:48:19	ActionGesture	Smile
+2024-05-24 20:48:20	SenseSpeech	right	688
+2024-05-24 20:48:20	MonitorSpeechStart	You just backchanneled.	1149
+2024-05-24 20:48:21	ActionGesture	BrowRaise
+2024-05-24 20:48:24	ActionGesture	Smile
+2024-05-24 20:48:25	SenseSpeech	I think I'm done	1208
+2024-05-24 20:48:25	ActionGesture	Thoughtful
+2024-05-24 20:48:26	MonitorSpeechStart	You said you finished	988
+2024-05-24 20:48:26	ActionGesture	BrowRaise
+2024-05-24 20:48:32	ActionGesture	Smile
+2024-05-24 20:48:33	SenseSpeech	I think I'm done	1208
+2024-05-24 20:48:33	ActionGesture	Thoughtful
+2024-05-24 20:48:34	MonitorSpeechStart	You said you finished	988
+2024-05-24 20:48:34	ActionGesture	BrowRaise
+2024-05-24 20:48:41	ActionGesture	Smile
+2024-05-24 20:48:43	SenseSpeech	right	1603
+2024-05-24 20:48:43	MonitorSpeechStart	You just backchanneled.	1149
+2024-05-24 20:48:44	ActionGesture	BrowRaise
+2024-05-24 20:48:52	MonitorSpeechStart	I'm listening.	676
+2024-05-24 20:48:58	ActionGesture	Smile
+2024-05-24 20:48:59	SenseSpeech	no	1030
+2024-05-24 20:48:59	ActionGesture	Shake
+2024-05-24 20:49:00	MonitorSpeechStart	You denied	734
+2024-05-24 20:49:00	ActionGesture	BrowRaise
+2024-05-24 20:49:09	MonitorSpeechStart	I'm listening.	676

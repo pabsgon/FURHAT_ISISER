@@ -1,0 +1,83 @@
+2024-05-20 16:08:59	Autoreload is disabled because the development mode is off.
+2024-05-20 16:09:00	Application started in 0.643 seconds.
+2024-05-20 16:09:00	Responding at http://127.0.0.1:8888
+2024-05-20 16:09:02	----------------- NEW EXECUTION-------------------
+2024-05-20 16:09:02	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-20 16:09:02	ActionGesture	CloseEyes
+2024-05-20 16:10:03	MonitorSpeechStart	<prosody rate="1.0">No start signal received, terminating the program.</prosody>	2929
+2024-05-20 16:10:06	ActionGesture	BrowRaise
+2024-05-20 16:14:39	Autoreload is disabled because the development mode is off.
+2024-05-20 16:14:39	Application started in 0.64 seconds.
+2024-05-20 16:14:40	Responding at http://127.0.0.1:8888
+2024-05-20 16:14:42	----------------- NEW EXECUTION-------------------
+2024-05-20 16:14:42	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-20 16:14:42	ActionGesture	CloseEyes
+2024-05-20 16:14:47	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [28] REQUESTED .. [REJECTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-20 16:14:53	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-20 16:14:53	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-20 16:14:55	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [29] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-20 16:14:55	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	29	UNDEFINED	Sleep
+2024-05-20 16:14:55	FlowEvent	NEW_FLOW_STATE	Welcome	0.2		UNDEFINED	Welcome
+2024-05-20 16:14:55	ActionGesture	OpenEyes
+2024-05-20 16:14:55	ActionGesture	Smile
+2024-05-20 16:14:55	MonitorSpeechStart	<prosody rate="1.0">Hello there</prosody>	543
+2024-05-20 16:14:56	ActionGesture	BrowRaise
+2024-05-20 16:14:57	MonitorSpeechStart	<prosody rate="1.0">Nice to meet you</prosody>	824
+2024-05-20 16:14:57	ActionGesture	BrowRaise
+2024-05-20 16:14:59	MonitorSpeechStart	<prosody rate="1.0">How you doing?</prosody>	741
+2024-05-20 16:14:59	ActionGesture	BrowRaise
+2024-05-20 16:15:03	ActionGesture	Smile
+2024-05-20 16:15:04	SenseSpeech	yeah	1061
+2024-05-20 16:15:05	MonitorSpeechStart	<prosody rate="1.0">Here some instructions for #QNUM#</prosody>	2521
+2024-05-20 16:15:07	ActionGesture	BrowRaise
+2024-05-20 16:15:09	MonitorSpeechStart	<prosody rate="1.0">I marked #ROBOT_ANSWER# already</prosody>	2826
+2024-05-20 16:15:10	ActionGesture	BrowRaise
+2024-05-20 16:15:10	ActionGesture	BrowRaise
+2024-05-20 16:15:12	ActionGesture	BrowRaise
+2024-05-20 16:15:14	MonitorSpeechStart	<prosody rate="1.0">However, i need to <emphasis>emphasize</emphasis> clearly this</prosody>	2514
+2024-05-20 16:15:14	ActionGesture	BrowRaise
+2024-05-20 16:15:16	ActionGesture	BrowRaise
+2024-05-20 16:15:18	MonitorSpeechStart	<prosody rate="1.0">Don't worry</prosody>	617
+2024-05-20 16:15:18	ActionGesture	BrowRaise
+2024-05-20 16:15:21	ActionGesture	Smile
+2024-05-20 16:15:22	SenseSpeech	can you repeat that	1557
+2024-05-20 16:15:23	MonitorSpeechStart	<prosody rate="1.0">I am here testing, that's all</prosody>	1845
+2024-05-20 16:15:23	ActionGesture	BrowRaise
+2024-05-20 16:15:25	ActionGesture	BrowRaise
+2024-05-20 16:15:27	MonitorSpeechStart	<prosody rate="1.0">We need to test</prosody>	969
+2024-05-20 16:15:28	ActionGesture	BrowRaise
+2024-05-20 16:15:31	ActionGesture	Smile
+2024-05-20 16:15:33	SenseSpeech	can you repeat that	1652
+2024-05-20 16:15:33	MonitorSpeechStart	<prosody rate="1.0">Here some instructions for #QNUM#</prosody>	2521
+2024-05-20 16:15:35	ActionGesture	BrowRaise
+2024-05-20 16:15:37	MonitorSpeechStart	<prosody rate="1.0">I marked #ROBOT_ANSWER# already</prosody>	2826
+2024-05-20 16:15:37	ActionGesture	BrowRaise
+2024-05-20 16:15:37	ActionGesture	BrowRaise
+2024-05-20 16:15:39	ActionGesture	BrowRaise
+2024-05-20 16:15:41	MonitorSpeechStart	<prosody rate="1.0">However, i need to <emphasis>emphasize</emphasis> clearly this</prosody>	2514
+2024-05-20 16:15:41	ActionGesture	BrowRaise
+2024-05-20 16:15:42	ActionGesture	BrowRaise
+2024-05-20 16:15:44	MonitorSpeechStart	<prosody rate="1.0">Don't worry</prosody>	617
+2024-05-20 16:15:45	ActionGesture	BrowRaise
+2024-05-20 16:15:49	ActionGesture	Smile
+2024-05-20 16:15:50	SenseSpeech	can you repeat that	1380
+2024-05-20 16:15:50	MonitorSpeechStart	<prosody rate="1.0">I am here testing, that's all</prosody>	1845
+2024-05-20 16:15:50	ActionGesture	BrowRaise
+2024-05-20 16:15:52	ActionGesture	BrowRaise
+2024-05-20 16:15:54	MonitorSpeechStart	<prosody rate="1.0">We need to test</prosody>	969
+2024-05-20 16:15:54	ActionGesture	BrowRaise
+2024-05-20 16:15:58	ActionGesture	Smile
+2024-05-20 16:15:59	SenseSpeech	can you repeat	1574
+2024-05-20 16:16:00	MonitorSpeechStart	<prosody rate="1.0">Here some instructions for #QNUM#</prosody>	2521
+2024-05-20 16:16:02	ActionGesture	BrowRaise
+2024-05-20 16:16:03	MonitorSpeechStart	<prosody rate="1.0">I marked #ROBOT_ANSWER# already</prosody>	2826
+2024-05-20 16:16:04	ActionGesture	BrowRaise
+2024-05-20 16:16:04	ActionGesture	BrowRaise
+2024-05-20 16:16:06	ActionGesture	BrowRaise
+2024-05-20 16:16:08	MonitorSpeechStart	<prosody rate="1.0">However, i need to <emphasis>emphasize</emphasis> clearly this</prosody>	2514
+2024-05-20 16:16:08	ActionGesture	BrowRaise
+2024-05-20 16:16:09	ActionGesture	BrowRaise
+2024-05-20 16:16:11	MonitorSpeechStart	<prosody rate="1.0">Don't worry</prosody>	617
+2024-05-20 16:16:12	ActionGesture	BrowRaise
+2024-05-20 16:16:17	MonitorSpeechStart	<prosody rate="1.0">Oops, I don't hear you.</prosody>	1345
+2024-05-20 16:16:18	ActionGesture	BrowRaise

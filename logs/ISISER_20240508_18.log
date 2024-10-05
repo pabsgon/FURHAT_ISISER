@@ -1,0 +1,30 @@
+2024-05-08 18:34:20	Autoreload is disabled because the development mode is off.
+2024-05-08 18:34:21	Application started in 1.03 seconds.
+2024-05-08 18:34:21	Autoreload is disabled because the development mode is off.
+2024-05-08 18:34:21	Responding at http://127.0.0.1:1234
+2024-05-08 18:34:21	----------------- NEW EXECUTION-------------------
+2024-05-08 18:34:21	Application started in 0.657 seconds.
+2024-05-08 18:34:21	ActionGesture	CloseEyes
+2024-05-08 18:34:35	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]
+2024-05-08 18:35:12	Autoreload is disabled because the development mode is off.
+2024-05-08 18:35:12	Application started in 0.499 seconds.
+2024-05-08 18:35:13	Responding at http://127.0.0.1:1234
+2024-05-08 18:35:13	----------------- NEW EXECUTION-------------------
+2024-05-08 18:35:13	ActionGesture	CloseEyes
+2024-05-08 18:35:18	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]
+2024-05-08 18:37:42	Autoreload is disabled because the development mode is off.
+2024-05-08 18:37:43	Application started in 0.542 seconds.
+2024-05-08 18:37:43	Responding at http://127.0.0.1:1234
+2024-05-08 18:37:44	----------------- NEW EXECUTION-------------------
+2024-05-08 18:37:44	ActionGesture	CloseEyes
+2024-05-08 18:37:58	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]
+2024-05-08 18:38:44	MonitorSpeechStart	No start signal received, terminating the program.	2929
+2024-05-08 18:38:46	ActionGesture	BrowRaise
+2024-05-08 18:40:14	Autoreload is disabled because the development mode is off.
+2024-05-08 18:40:14	Application started in 0.54 seconds.
+2024-05-08 18:40:15	Responding at http://127.0.0.1:1234
+2024-05-08 18:40:15	----------------- NEW EXECUTION-------------------
+2024-05-08 18:40:15	ActionGesture	CloseEyes
+2024-05-08 18:40:19	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]
+2024-05-08 18:40:19	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]
+2024-05-08 18:40:39	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] REQUESTED .. [ACCEPTED]

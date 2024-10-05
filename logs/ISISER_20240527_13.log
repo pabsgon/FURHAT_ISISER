@@ -1,0 +1,51 @@
+2024-05-27 13:22:31	Autoreload is disabled because the development mode is off.
+2024-05-27 13:22:32	Application started in 0.582 seconds.
+2024-05-27 13:22:32	Responding at http://127.0.0.1:8888
+2024-05-27 13:24:27	Autoreload is disabled because the development mode is off.
+2024-05-27 13:24:27	Application started in 0.634 seconds.
+2024-05-27 13:24:28	Responding at http://127.0.0.1:8888
+2024-05-27 13:24:30	----------------- NEW EXECUTION-------------------
+2024-05-27 13:24:30	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-27 13:24:30	ActionGesture	CloseEyes
+2024-05-27 13:24:30	ActionGesture	CloseEyes
+2024-05-27 13:24:38	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-27 13:25:29	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [52] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Sleep
+2024-05-27 13:25:29	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	52	UNDEFINED	Sleep
+2024-05-27 13:25:29	FlowEvent	NEW_FLOW_STATE	Welcome	0.2		CONDITION3	Welcome
+2024-05-27 13:25:29	ActionGesture	OpenEyes
+2024-05-27 13:25:29	ActionGesture	Smile
+2024-05-27 13:25:30	MonitorSpeechStart	<sig rate="1.0">Hello there</sig>	817
+2024-05-27 13:25:31	ActionGesture	BrowRaise
+2024-05-27 13:25:32	MonitorSpeechStart	<sig rate="1.0">Nice to meet you</sig>	925
+2024-05-27 13:25:33	ActionGesture	BrowRaise
+2024-05-27 13:25:34	MonitorSpeechStart	<sig rate="1.0">How you doing?</sig>	782
+2024-05-27 13:25:35	ActionGesture	BrowRaise
+2024-05-27 13:25:43	FlowEvent	NEW_FLOW_STATE	ReviewInstructions	0.2		CONDITION3	ReviewInstructions
+2024-05-27 13:25:44	MonitorSpeechStart	<sig rate="1.0">Right, as far as I know,we will get some Electronics questions to resolve together. Somebody told you?</sig>	6933
+2024-05-27 13:25:44	ActionGesture	BrowRaise
+2024-05-27 13:25:45	ActionGesture	BrowRaise
+2024-05-27 13:25:46	ActionGesture	BrowRaise
+2024-05-27 13:25:48	ActionGesture	BrowRaise
+2024-05-27 13:25:49	ActionGesture	BrowRaise
+2024-05-27 13:25:51	ActionGesture	BrowRaise
+2024-05-27 13:25:59	MonitorSpeechStart	<sig rate="1.0">Sorry</sig>	597
+2024-05-27 13:26:00	ActionGesture	BrowRaise
+2024-05-27 13:26:01	MonitorSpeechStart	<sig rate="1.0">I could not hear you</sig>	1149
+2024-05-27 13:26:02	ActionGesture	BrowRaise
+2024-05-27 13:26:03	MonitorSpeechStart	<sig rate="1.0">You know something about our meeting?</sig>	1887
+2024-05-27 13:26:04	ActionGesture	BrowRaise
+2024-05-27 13:26:05	ActionGesture	BrowRaise
+2024-05-27 13:26:13	MonitorSpeechStart	<sig rate="1.0">Mmm</sig>	785
+2024-05-27 13:26:14	ActionGesture	BrowRaise
+2024-05-27 13:26:15	MonitorSpeechStart	<sig rate="1.0">I am starting to think you're not there</sig>	1991
+2024-05-27 13:26:17	ActionGesture	BrowRaise
+2024-05-27 13:26:26	MonitorSpeechStart	<sig rate="1.0">Electronics problems, me and you. Did you know?</sig>	3432
+2024-05-27 13:26:28	ActionGesture	BrowRaise
+2024-05-27 13:26:29	ActionGesture	BrowRaise
+2024-05-27 13:26:38	MonitorSpeechStart	<sig rate="1.0">Right, as far as I know,we will get some Electronics questions to resolve together. Somebody told you?</sig>	6933
+2024-05-27 13:26:38	ActionGesture	BrowRaise
+2024-05-27 13:26:40	ActionGesture	BrowRaise
+2024-05-27 13:26:40	ActionGesture	BrowRaise
+2024-05-27 13:26:43	ActionGesture	BrowRaise
+2024-05-27 13:26:43	ActionGesture	BrowRaise
+2024-05-27 13:26:45	ActionGesture	BrowRaise

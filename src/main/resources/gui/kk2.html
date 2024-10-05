@@ -1,0 +1,43 @@
+import matplotlib.pyplot as plt
+import numpy as np
+
+# Assuming results_df has been created already
+subjects = results_df['SUBJECT']
+z_scores_pm = results_df['Z_Score_PM_Transformed']
+z_scores_fm = results_df['Z_Score_FM_Transformed']
+p_values_pm = results_df['Combined_P_Value_PM']
+p_values_fm = results_df['Combined_P_Value_FM']
+
+# Bar width for plotting
+bar_width = 0.4
+
+# Create a horizontal bar plot for Z-Scores
+fig, ax = plt.subplots(figsize=(10.5, 27))
+y_positions = np.arange(len(subjects))
+
+# Plot for Preliminary and Final Minitest Z-Scores
+ax.barh(y_positions + bar_width, z_scores_pm, bar_width, label='PM Combined', color='#D1CFB1', edgecolor='#111111', alpha=0.8)
+ax.barh(y_positions, z_scores_fm, bar_width, label='FM Combined', color='#9B85A2', edgecolor='#111111', alpha=0.8)
+
+# Add p-values and z-scores
+for i, (pm_z, fm_z, p_pm, p_fm) in enumerate(zip(z_scores_pm, z_scores_fm, p_values_pm, p_values_fm)):
+# Display p-values on the left
+ax.text(-2.3, i + bar_width, f'p={p_pm:.4f}', ha='right', va='center', fontsize=13, color='black')
+ax.text(-2.3, i, f'p={p_fm:.4f}', ha='right', va='center', fontsize=13, color='black')
+
+# Display z-scores inside the bars
+ax.text(pm_z, i + bar_width, f'{pm_z:.1f}', ha='right', va='center', fontsize=12, color='white')
+ax.text(fm_z, i, f'{fm_z:.1f}', ha='right', va='center', fontsize=12, color='white')
+
+# Formatting
+ax.axvline(0, color='black', linewidth=1.2, linestyle='--', label='Z-Score = 0')
+ax.axvline(2.0, color='red', linewidth=1.5, linestyle='--', label='97.5% Confidence Right')
+ax.axvline(-2.0, color='red', linewidth=1.5, linestyle='--', label='2.5% Confidence Left')
+ax.set_yticks(y_positions + bar_width / 2)
+ax.set_yticklabels(subjects)
+ax.set_xlabel('Z-Score (Log Transformed)')
+ax.set_title('Combined Z-Scores of Preliminary and Final Minitests (Log Transformed)')
+ax.legend()
+
+plt.tight_layout()
+plt.show()

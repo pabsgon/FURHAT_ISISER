@@ -1,0 +1,138 @@
+2024-05-15 15:10:23	Autoreload is disabled because the development mode is off.
+2024-05-15 15:10:23	Application started in 0.517 seconds.
+2024-05-15 15:10:24	Responding at http://127.0.0.1:8888
+2024-05-15 15:10:25	----------------- NEW EXECUTION-------------------
+2024-05-15 15:10:25	FlowEvent	NEW_FLOW_STATE	Sleep	0.0		UNDEFINED	Sleep
+2024-05-15 15:11:21	Autoreload is disabled because the development mode is off.
+2024-05-15 15:11:21	Application started in 0.505 seconds.
+2024-05-15 15:11:21	Responding at http://127.0.0.1:8888
+2024-05-15 15:11:22	----------------- NEW EXECUTION-------------------
+2024-05-15 15:11:22	ActionGesture	CloseEyes
+2024-05-15 15:11:27	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 15:11:27	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 15:11:30	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [5] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 15:11:30	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	5	UNDEFINED	Init
+2024-05-15 15:11:30	ActionGesture	OpenEyes
+2024-05-15 15:11:30	ActionGesture	Smile
+2024-05-15 15:11:30	MonitorSpeechStart	Oh, hello there	1105
+2024-05-15 15:11:31	ActionGesture	BrowRaise
+2024-05-15 15:11:32	ActionGesture	BigSmile
+2024-05-15 15:11:33	MonitorSpeechStart	Nice to meet you.	824
+2024-05-15 15:11:33	ActionGesture	BrowRaise
+2024-05-15 15:11:34	MonitorSpeechStart	How you doing?	741
+2024-05-15 15:11:35	ActionGesture	BrowRaise
+2024-05-15 15:11:37	GUIEvent	NEW_STAGE_REQUESTED	STAGE[1] [5] REQUESTED .. [ACCEPTED]	0.2	5	CONDITION1	Init
+2024-05-15 15:13:06	Autoreload is disabled because the development mode is off.
+2024-05-15 15:13:06	Application started in 0.504 seconds.
+2024-05-15 15:13:07	Responding at http://127.0.0.1:8888
+2024-05-15 15:13:08	----------------- NEW EXECUTION-------------------
+2024-05-15 15:13:08	ActionGesture	CloseEyes
+2024-05-15 15:13:13	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 15:13:13	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 15:13:15	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [36] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 15:13:15	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	36	UNDEFINED	Init
+2024-05-15 15:13:15	ActionGesture	OpenEyes
+2024-05-15 15:13:15	ActionGesture	Smile
+2024-05-15 15:13:15	MonitorSpeechStart	Hi there	477
+2024-05-15 15:13:15	ActionGesture	BrowRaise
+2024-05-15 15:13:17	ActionGesture	BigSmile
+2024-05-15 15:13:17	MonitorSpeechStart	Nice to meet you.	824
+2024-05-15 15:13:17	ActionGesture	BrowRaise
+2024-05-15 15:13:18	GUIEvent	NEW_STAGE_REQUESTED	STAGE[1] [36] REQUESTED .. [ACCEPTED]	0.2	36	CONDITION2	Init
+2024-05-15 15:13:27	Autoreload is disabled because the development mode is off.
+2024-05-15 15:13:28	Application started in 0.619 seconds.
+2024-05-15 15:13:28	Responding at http://127.0.0.1:8888
+2024-05-15 15:13:29	----------------- NEW EXECUTION-------------------
+2024-05-15 15:13:29	ActionGesture	CloseEyes
+2024-05-15 15:13:30	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 15:13:30	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 15:13:33	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [22] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 15:13:33	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	22	UNDEFINED	Init
+2024-05-15 15:13:33	ActionGesture	OpenEyes
+2024-05-15 15:13:33	ActionGesture	Smile
+2024-05-15 15:13:33	MonitorSpeechStart	Oh, hello there	1105
+2024-05-15 15:13:34	ActionGesture	BrowRaise
+2024-05-15 15:13:35	ActionGesture	BigSmile
+2024-05-15 15:13:35	MonitorSpeechStart	Nice to meet you.	824
+2024-05-15 15:13:36	ActionGesture	BrowRaise
+2024-05-15 15:15:05	GUIEvent	NEW_STAGE_REQUESTED	STAGE[1] [22] REQUESTED .. [ACCEPTED]	0.2	22	CONDITION2	Init
+2024-05-15 15:15:17	Autoreload is disabled because the development mode is off.
+2024-05-15 15:15:17	Application started in 0.5 seconds.
+2024-05-15 15:15:17	Responding at http://127.0.0.1:8888
+2024-05-15 15:15:19	----------------- NEW EXECUTION-------------------
+2024-05-15 15:15:19	ActionGesture	CloseEyes
+2024-05-15 15:15:23	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 15:15:23	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 15:15:24	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [21] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 15:15:24	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	21	UNDEFINED	Init
+2024-05-15 15:15:24	ActionGesture	OpenEyes
+2024-05-15 15:15:24	ActionGesture	Smile
+2024-05-15 15:15:25	MonitorSpeechStart	Oh, hello there	1105
+2024-05-15 15:15:25	ActionGesture	BrowRaise
+2024-05-15 15:15:27	ActionGesture	BigSmile
+2024-05-15 15:15:27	MonitorSpeechStart	Nice to meet you.	824
+2024-05-15 15:15:27	ActionGesture	BrowRaise
+2024-05-15 15:15:28	GUIEvent	NEW_STAGE_REQUESTED	STAGE[1] [21] REQUESTED .. [ACCEPTED]	0.2	21	CONDITION2	Init
+2024-05-15 15:15:28	SessionEvent	QUESTION_SET	NEW QUESTION TO ACTIVATE	1		CONDITION2	Init
+2024-05-15 15:17:12	Autoreload is disabled because the development mode is off.
+2024-05-15 15:17:12	Application started in 0.557 seconds.
+2024-05-15 15:17:13	Responding at http://127.0.0.1:8888
+2024-05-15 15:17:14	----------------- NEW EXECUTION-------------------
+2024-05-15 15:17:14	ActionGesture	CloseEyes
+2024-05-15 15:17:17	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [REJECTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 15:17:19	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 15:17:19	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 15:17:22	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [4] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 15:17:22	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	4	UNDEFINED	Init
+2024-05-15 15:17:22	ActionGesture	OpenEyes
+2024-05-15 15:17:22	ActionGesture	Smile
+2024-05-15 15:17:22	MonitorSpeechStart	Hi there	477
+2024-05-15 15:17:23	ActionGesture	BrowRaise
+2024-05-15 15:17:24	ActionGesture	BigSmile
+2024-05-15 15:17:24	MonitorSpeechStart	Nice to meet you.	824
+2024-05-15 15:17:24	ActionGesture	BrowRaise
+2024-05-15 15:17:26	GUIEvent	NEW_STAGE_REQUESTED	STAGE[1] [4] REQUESTED .. [ACCEPTED]	0.2	4	CONDITION1	Init
+2024-05-15 15:17:26	SessionEvent	QUESTION_SET	NEW QUESTION TO ACTIVATE	1		CONDITION1	Init
+2024-05-15 15:17:38	Autoreload is disabled because the development mode is off.
+2024-05-15 15:17:39	Application started in 0.615 seconds.
+2024-05-15 15:17:39	Responding at http://127.0.0.1:8888
+2024-05-15 15:17:40	----------------- NEW EXECUTION-------------------
+2024-05-15 15:17:40	ActionGesture	CloseEyes
+2024-05-15 15:17:41	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 15:17:41	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 15:17:44	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [12] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 15:17:44	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	12	UNDEFINED	Init
+2024-05-15 15:17:44	ActionGesture	OpenEyes
+2024-05-15 15:17:44	ActionGesture	Smile
+2024-05-15 15:17:44	MonitorSpeechStart	Oh, hello there	1105
+2024-05-15 15:17:45	ActionGesture	BrowRaise
+2024-05-15 15:17:46	ActionGesture	BigSmile
+2024-05-15 15:17:46	MonitorSpeechStart	Nice to meet you.	824
+2024-05-15 15:17:46	ActionGesture	BrowRaise
+2024-05-15 15:17:47	GUIEvent	NEW_STAGE_REQUESTED	STAGE[1] [12] REQUESTED .. [ACCEPTED]	0.2	12	CONDITION1	Init
+2024-05-15 15:17:47	SessionEvent	QUESTION_SET	NEW QUESTION TO ACTIVATE	1		CONDITION1	Init
+2024-05-15 15:20:07	Autoreload is disabled because the development mode is off.
+2024-05-15 15:20:07	Application started in 0.608 seconds.
+2024-05-15 15:20:08	Responding at http://127.0.0.1:8888
+2024-05-15 15:20:09	----------------- NEW EXECUTION-------------------
+2024-05-15 15:20:09	ActionGesture	CloseEyes
+2024-05-15 15:20:10	GUIEvent	GUI_RELOADED	GUI_RELOADED [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 15:20:10	GUIEvent	SYNCH_REQUESTED	SYNCH REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 15:20:12	GUIEvent	NEW_STAGE_REQUESTED	STAGE[0.2] [38] REQUESTED .. [ACCEPTED]	0.0	UNDEFINED	UNDEFINED	Init
+2024-05-15 15:20:12	SessionEvent	USER_SET	USER TO ACTIVATE.	0.2	38	UNDEFINED	Init
+2024-05-15 15:20:12	ActionGesture	OpenEyes
+2024-05-15 15:20:12	ActionGesture	Smile
+2024-05-15 15:20:13	MonitorSpeechStart	Oh, hello there	1105
+2024-05-15 15:20:14	ActionGesture	BrowRaise
+2024-05-15 15:20:15	ActionGesture	BigSmile
+2024-05-15 15:20:15	MonitorSpeechStart	Nice to meet you.	824
+2024-05-15 15:20:15	ActionGesture	BrowRaise
+2024-05-15 15:20:16	GUIEvent	NEW_STAGE_REQUESTED	STAGE[1] [38] REQUESTED .. [ACCEPTED]	0.2	38	CONDITION2	Init
+2024-05-15 15:20:16	SessionEvent	QUESTION_SET	NEW QUESTION TO ACTIVATE	1		CONDITION2	Init
+2024-05-15 15:20:38	MonitorSpeechStart	Ok #QNUM#. Let's see	2658
+2024-05-15 15:20:39	ActionGesture	BrowRaise
+2024-05-15 15:20:40	ActionGesture	BrowRaise
+2024-05-15 15:20:46	MonitorSpeechStart	Ok let me know when you marked the answer	2040
+2024-05-15 15:20:48	ActionGesture	BrowRaise
+2024-05-15 15:20:53	MonitorSpeechStart	Whenever you want.	757
+2024-05-15 15:20:54	ActionGesture	BrowRaise
